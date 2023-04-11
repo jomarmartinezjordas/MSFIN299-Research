@@ -43,10 +43,12 @@ Overall, this study contributes to the growing body of literature, specifically 
   
   
 <h2 id="license">License</h2>
-[MIT](/Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/LICENSE.txt) - Jomar Jordas - 2023
+<a href="https://github.com/jomarmartinezjordas/MSFIN299-Research/blob/New-Features/LICENSE.txt">MIT</a> - Jomar Jordas - 2023
   
 
 <h2 id="specialthanks">Special Thanks</h2>
+
 https://github.com/teles/array-mixer for the amazing readme file that I used as a template.
+
 https://github.com/TiesdeKok/Python_NLP_Tutorial c/o Professor de Kok as I extensively used his Youtube Channel and repositories as reference in learning NLP
 

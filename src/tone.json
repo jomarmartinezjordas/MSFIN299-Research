@@ -1,0 +1,26 @@
+{
+    "categories": {
+      "positive": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/positive.csv"
+      },
+      "negative": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/negative.csv"
+      },
+      "uncertainty": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/uncertainty.csv"
+      },
+      "litigious": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/litigious.csv"
+      },
+      "modal_strong": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/modal_strong.csv"
+      },
+      "modal_weak": {
+        "file_path": "./Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/dependencies/tone/modal_weak.csv"
+      }
+    },
+    "regex_list": {},
+    "re": null,
+    "json": null
+  }
+  

@@ -22,6 +22,8 @@ Overall, this study contributes to the growing body of literature, specifically 
   * [Key Codes](#codesnippets)
   * [Discussion and Analysis](#results)
      * [RQ1](#rq1)
+     ### _Document level_
+        ![Document level](./_notebooks/outputcharts/output.png)
      * [RQ2](#rq2)
      * [RQ3](#rq3)
      * [RQ4](#rq4)

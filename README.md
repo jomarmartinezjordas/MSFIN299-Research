@@ -23,7 +23,6 @@ Overall, this study contributes to the growing body of literature, specifically 
   * [Discussion and Analysis](#results)
      * [RQ1](#rq1)
      ### _Document level_
-        ![Document level](/Users/jomarjordas/Documents/MSFIN299/MSFIN299-Research/_notebooks/outputcharts/doc_lvl.png)
      * [RQ2](#rq2)
      * [RQ3](#rq3)
      * [RQ4](#rq4)
@@ -59,5 +58,3 @@ https://sraf.nd.edu/textual-analysis/code/ c/o Professors Loughran and McDonald 
 http://kaichen.work/?p=399 c/o Kai Chen for his extensive blog post that further brokedown the Loughran and McDonald dictionary. I referred to his code when I was working on the LM dictionary and how to apply it to my dataset.
 
 https://github.com/jamescalam c/o James Briggs for his wonderful Medium blog and Youtube channel where I actually learned how to apply and use transformers model as well as how to make use of the GPU of my Macbook M1 in my code
-
-

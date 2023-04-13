@@ -52,3 +52,10 @@ https://github.com/teles/array-mixer for the amazing readme file that I used as 
 
 https://github.com/TiesdeKok/Python_NLP_Tutorial c/o Professor de Kok as I extensively used his Youtube Channel and repositories as reference in learning NLP
 
+https://sraf.nd.edu/textual-analysis/code/ c/o Professors Loughran and McDonald for opening to the world their research. My research is heavily inspired by their work
+
+http://kaichen.work/?p=399 c/o Kai Chen for his extensive blog post that further brokedown the Loughran and McDonald dictionary. I referred to his code when I was working on the LM dictionary and how to apply it to my dataset.
+
+https://jamescalam.medium.com/ c/o James Briggs for his wonderful Medium blog and Youtube channel where I actually learned how to apply and use transformers model as well as how to make use of the GPU of my Macbook M1 in my code
+
+

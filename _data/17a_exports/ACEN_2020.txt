@@ -1,0 +1,80 @@
+The following discussion and analysis of financial position and results of operations of ACEN be read in conjunction with the unaudited consolidated financial statements as at 31 December 2020, the audited consolidated financial statements as at 31 December 2019 (the “2019 Conso AFS”), and the restated 2019 Conso AFS. The audited consolidated financial statements have been prepared in compliance with the Philippine Financial Reporting Standards.
+
+The Company posted consolidated net income attributable to parent amounting to P=3,753.81 million for the year ended 31 December 2020 compared to P=57.65 million restated net income attributable to the parent in the same period last year.
+
+The increase in revenue from sale of electricity was primarily due to higher energy sales from the Company's power supply business as a result of the new contracts. The Group also recognized additional revenues from the consolidation of newly acquired entities and FIT adjustments.
+No dividend income was received for the year ended 31 December 2020.
+Rental income increased due to the contribution from entities acquired as a result of the asset swap with AC Energy.
+Other revenue consists of management fees earned by ACEN from its associate and bulk water sales.
+
+Despite increase in energy sales, cost of sale of electricity for the twelve-month period ending 31 December 2020 declined mainly due to lower WESM prices especially during the first half of the year compared to same period last year.
+General and administrative expenses increased due to personnel integration-related expenses, management fees paid to AC Energy, documentary stamp taxes on share issuances, advances and borrowings and provision for oil spill expenses before insurance recovery.
+
+Interest and other finance charges is higher due to availment of new long-term and short-term loans from November 2019 to December 2020. This was also driven by higher interest accretion on lease liabilities with additional lease contracts consolidated in the group following the asset swap with AC Energy, as well as new contracts in 2019.
+Higher equity in net income of associates and JV was posted in 2020 compared to same period last year mainly attributed to income contribution from Philippine Wind Holdings Corporation (“PhilWind”) with the transfer of indirect interest from AC Energy through asset swap together with acquisition of PINAI’s interest in February 2020.
+Other income in 2020 is higher than 2019 attributed to foreign exchange gain and advisory service fee pursuant to ACEN’s Service Agreement with a third party rendered during first quarter of 2020.
+The increase in provision for income tax current was due to higher consolidated taxable income for the period ended 31 December 2020 mainly driven by revenue growth coupled with drop in cost of sales.
+Provision for deferred income tax in 2020 was higher due to the reversal of deferred tax assets on NOLCO.
+
+Decrease in cash and cash equivalents was due to various expenditures for development projects and new investments including strategic acquisitions. Refer to the Consolidated Statements of Cash Flows for the detailed movement.
+Decrease in short term investments was due to redemption of time deposit of ACEN.
+Increase in receivables mainly attributed to the approval of price adjustment for power supply
+agreements and accrual of additional revenues from FIT system adjustments.
+Fuel & spare parts went up as a result of SLTEC’s purchases of spare parts and other direct materials for maintenance works, coupled with ACEN’s purchases of bunker fuel, together with settlement of fuel commodity swaps which are unconsumed as of year-end.
+Increase in current portion of input VAT is mainly driven by input tax from purchases of various materials needed for construction and maintenance of various plants and services procured by the Group.
+Creditable withholding tax (“CWT”) went up due to improvements in collection of ACEN’s receivable from retail customers and unutilized CWT.
+Other current assets increased primarily due to SLTEC’s prepayments of taxes and insurance as well as advances to contractors. Acquisition of ISLASOL and SACASOL also contributed to the increase of the group’s other current assets.
+Assets held for sale was reclassified back to plant, property and equipment as the Group changed its intention of selling to using the assets of One Subic Oil Distribution Corp. for future projects.
+Plant, property and equipment increased due to significant capital expenditures of the Group for its line-up of projects: P=2.90 billion for the solar farm project in Alaminos, Laguna, P=897.22 million for the solar farm project in Palauig, Zambales and P=232.63 million for the 150MW diesel-fired power facility in Pililia, Rizal were some of the major contributors. The account also increased with the consolidation of ISLASOL’s and SACASOL’s fixed assets.
+Investments in associates and joint venture increased mainly due to additional P=2.57billion investments in PhilWind and share in equity earnings for the year, partially offset by P=186.51 million impairment of investments in Isla Bio.
+Financial assets at FVOCI decreased upon obtaining control of ISLASOL and SACASOL with the Group’s step acquisition in March 2020.
+Goodwill & other intangible assets increased mainly as a result of recognition of SACASOL’s identifiable FIT contract as intangible asset amounting to P=2.19 billion, as well as goodwill on acquisition of ISLASOL amounting to P=12.45 million.
+Majority of the balance of deferred tax asset came from recognition on NOLCO and lease liabilities. Despite the increase from acquisition of ISLASOL and SACASOL, deferred tax asset of the Group went down mainly due to the application of the Group’s NOLCO in current year taxable income.
+Input VAT non-current increased due to reclassification of input vat in non-operating subsidiaries to non-current.
+Right-of-use asset’s significant increase came from consolidation of ISLASOL’s and SACASOL’s leased properties. Increase was also attributable to new lease agreements from Ingrid Power and BCHC amounting to P=261.73 million and =P50.32 million, respectively.
+Other non-current assets increased primarily due to non-current portion of receivable from FIT system adjustments as well as various advances to contractors for the ongoing project developments.
+Accounts payable and other current liabilities went up mainly driven by the increase in payable to contractors, which include both manpower cost related to plant preventive maintenance and purchases of property, plant and equipment and spare parts, utilities and insurance payables. Output VAT also significantly increased with higher sales volume. Consolidation of ISLASOL and SACASOL also contributed to the increase in the account.
+Short term loans went up mainly from outstanding short-term loans from affiliate AC Renewables International Pte. Ltd. amounting to =P4.80 billion ($100 million) and outstanding balance of P=5.14 billion from various banks such as BDO, SBC, RCBC and CBC as at year-end. Short-term loan from ThomasLloyd CTI Asia Holdings Pte Ltd. (“TLCTI Asia”) assumed from acquisition of ISLASOL was paid in full during the year.
+Current portion of long-term loans decreased due to the principal payments and pretermination of loans made during the year, mainly by ACEN.Current portion of lease liability increased due to acquisition of ISLASOL and SACASOL.
+Increase in income and withholding taxes payable was mainly due to accrual of income tax expense of several subsidiaries and higher tax withheld from purchases.
+Due to stockholders increased from the declaration of dividend from MSPDC.
+Pension & other employment benefits decreased due to benefits paid amounting to P=7.42 million paid from
+ACEN retirement fund and P=11.96 million paid from NorthWind’s operating funds, partially offset by P=12.3M
+ACEN actuarial loss from change in financial assumptions.
+Long-term loans net of current portion decreased due to the new loans availed by NorthWind and ACEN amounting to P=2.30 billion and =P1.50 billion, respectively, to fund new investments.
+Lease Liability-net of current portion increased as a result of acquisition of ISLASOL and SACASOL, as well as new lease agreements.
+Majority of the balance of deferred income tax liabilities came from recognition on unrealized foreign exchange gains and right-of-use assets of the Group as at year end.
+Other non-current liabilities’ significant decrease came from the reclassification of the currently maturing non-trade payable for the purchase of additional 20% interest in SLTEC through the assignment of AC Energy to ACEN of the share purchase agreement executed by AC Energy and Axia Power amounting to P=1.89 billion. The amount is payable in September 2021.
+Capital stock and additional paid in capital increased from the issuance of common stock for the share swap agreement with AC Energy. Common shares equivalent to 6,185,182,288 at P=2.37 per share were issued in exchange for AC Energy’s interest in various domestic entities.
+The decrease in other equity reserve also resulted from the share swap transaction with AC Energy.
+The decrease in unrealized FV loss on equity instruments at FVOCI was due to adjustments upon completion of the step acquisition of ISLASOL and SACASOL in March 2020.
+Unrealized fair value loss on derivative instruments designated under hedge accounting decreased in proportion to hypothetical value of the coal swap prices of the derivative contracts as at year end.
+The increase in accumulated comprehensive loss of JV and associates was a result of the adjustment made in MGI comprehensive income.
+Remeasurement gain on defined benefit plan decreased as a result of various actuarial losses including a P=12.3M ACEN actuarial loss from change in financial assumptions.
+Retained earnings increased as a result of the net income earned for the year.
+Treasury shares increased due to 14.50 million shares repurchased amounting to P=28.66 million during the year partially offset by the reissuance of 16.70 million ACEN shares held by BPGC amounting to P=15.43 million.
+Non-controlling interests increased due to the 40% investment of TLCTI Asia in ISLASOL.
+
+Current ratio & acid test ratio dropped due to the increase in current liabilities primarily from short-term loans and accounts payable and other current liabilities.
+The increase in interest coverage ratio was brought about by higher net income before interest and tax for the year ending 31 December 2020 compared to net loss reported in the same period last year.
+Net debt equity ratio increased due to additional loans in 2020.
+Return on equity and assets went up this year as the Group registered a significantly higher net income of P=3.75 billion for the year ending 31 December 2020 due to increase in energy sales and lower WESM prices, compared to P=57.65 million restated net income reported in the same period last year.
+Asset turnover decreased primarily due to significant capital expenditures of the Group during the year.
+
+There were no events that triggered direct or contingent financial obligation that was material to the Group. There were no contingent assets or contingent liabilities since the last annual balance sheet date.
+There were no material off-balance sheet transactions, arrangements, obligations and other relationships of the Parent Company with unconsolidated entities or other persons created during the reporting period.
+There were no material events that had occurred subsequent to the balance sheet date except for the events after the reporting period disclosed in Note 40 of the Audited Consolidated Financial Statements.
+ACEN has material commitments to invest in capital expenditure projects mainly in the following: 120MWdc solar power project in Alaminos, Laguna through SolarAce1;
+63MWdc solar power project in Palauig, Zambales through Gigasol3;
+75MWdc solar power project in Mexico, Pampanga through Greencore 3;
+75MWdc solar power project in Palauig, Zambales through Giga Ace 8, Inc.; Investment in 150MW Balaoi wind project;
+Investment into a renewable energy laboratory; and
+Funding of up to U.S.$100 million for new technology investments in the Philippines.
+Refer to Notes to Consolidated Financial Statements for the details.
+Any known trends, events or uncertainties that have had or that were reasonably expected to have material favorable or unfavorable impact on net revenues/income from continuing operations
+The results of operations of the Company and its subsidiaries depend, to a significant extent, on the performance of the Philippine economy.
+The current highly competitive environment, operation of priority-dispatch variable renewable energy, and community quarantines resulted in lower demand for electricity and have driven market prices of electricity downward.
+Movements in the WESM prices could have a significant favorable or unfavorable impact on the Company’s financial results.
+Any known trends or any known demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the registrant’s liquidity increasing or decreasing in any material way The Group is developing a line-up of renewable energy projects as part of its growth aspiration. The capital expenditures shall be funded by a combination of equity and debt. Several capital raising activities are also set for 2021, including the recently concluded SRO which raised P=5.37 billion, the previously announced subscription by Arran to P=4 billion primary shares (subject to certain conditions precedent), and the planned FOO (subject to regulatory approvals).
+There were no significant elements of income or loss that did not arise from continuing operations that had material effect on the financial condition or results of operations.
+There were no operations subject to seasonality and cyclicality except for the operation of wind farms. The wind regime is high during the northeast monsoon (“amihan”) season in the first and fourth quarter when wind turbines generate more power to be supplied to the grid. The generation drops in the second and third quarter due to low wind regime brought about by the southwest monsoon (“habagat”).

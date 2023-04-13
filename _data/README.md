@@ -30,14 +30,27 @@ theoretical basis for getting the date of submission
 ## Company level considerations
 AC
 - 2019 17A was subjected into a third party software to unlock the file. No parts of the whole text were altered in the process.
+ 
 ACEN
 - 2017 Annual Report unavailable from their website given start of takeover from Phinma Energy
+ 
 AEV
 - Explanation of metrics used and its respective formulas written in terms of words were not included in the text
+ 
 AGI
 - Explanation of metrics used and its respective formulas written in terms of words were not included in the text
+ 
+ALI
+- Explanation of the composition of the business segments were omitted.
+ 
+AP
+- Explanation for the MD&A such as the one presented below was omitted as it does not contribute to the sentiment of the management
+ 
+_The following is a discussion and analysis of the Company’s consolidated financial condition and results of operations and certain trends, risks, and uncertainties that may affect its business. The critical accounting policies section discloses certain accounting policies and management judgments that are material to the Company’s results of operations and financial condition for the periods presented in this report. The discussion and analysis of the Company’s results of operations is presented in three comparative sections: the year ended December 31, 2017 compared with the year ended December 31, 2016, the year ended December 31, 2016 compared with the year ended December 31, 2015, the year ended December 31, 2015 compared with the year ended December 31, 2014._ 
+ 
+
 
 ## Key Observations
 - Despite the formal kind of report, some of lines in the text are incomplete sentences.
-- Some sentences are motherhood statements like _`AIC remains committed to participating in the Philippine infrastructure space and contributing to the nation’s development.`_ and does not really contribute to the true sentiment of the current status of the business.
+- Some sentences are motherhood statements like _`AIC remains committed to participating in the Philippine infrastructure space and contributing to the nation’s development.`_ and does not really contribute to the true sentiment or the current status of the business.
 

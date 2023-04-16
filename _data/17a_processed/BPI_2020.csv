@@ -1,0 +1,155 @@
+sentence,positive,neutral,negative
+The compounded annual growth rate (CAGR) of the Bank’s asset levels from 2018 to 2020 was 5.5% driven by the 5.4% increase in loans.,0.48245471715927124,0.49697428941726685,0.020570995286107063
+Deposits likewise increased over the same period by 3.2%.,0.9544404745101929,0.030200161039829254,0.015359373763203621
+"Capital grew 15.7%, boosted by the May 2018 Stock Rights Offer and increasing annual profits, net of cash dividend payments.",0.9576808214187622,0.024372568354010582,0.017946520820260048
+"Total resources reached P2.23 trillion, up P28.41 billion, or 1.3%, from last year’s P2.21 trillion.",0.9535102844238281,0.022755209356546402,0.023734577000141144
+"Total deposits grew P20.83 billion, or 1.2% to P1.72 trillion, on the back of growth in demand and savings deposits of 15.7% and 16.9%, respectively.",0.955376386642456,0.02471710368990898,0.019906431436538696
+"Derivative Financial Liabilities increased P2.78 billion, or 96.6%, due to increase in the fair value of liabilities related to foreign currency and interest rate swaps contracts.",0.9578338265419006,0.022851038724184036,0.019315164536237717
+"On the other hand, Due to Bangko Sentral ng Pilipinas and other banks decreased by P1.46 billion, or 49.4%, on account of lower tax collected for the Bureau of Internal Revenues (BIR).",0.03249404579401016,0.012250587344169617,0.9552553296089172
+"Manager’s checks and demand draft outstanding decreased by P1.19 billion, or 14.4%, on account of lower volume of outstanding manager’s checks as of December 2020.",0.008890881203114986,0.01651882380247116,0.9745902419090271
+"Accrued taxes, interest and other expenses lower by P963 million, or 9.8%, on lower accrued interest payable.",0.06326426565647125,0.049462612718343735,0.8872730731964111
+"Capital funds amounted to P279.84 billion, increased P10.26 billion, or 3.8%, higher than last year’s P269.58 billion.",0.9518924951553345,0.025656599551439285,0.02245085872709751
+"Surplus contributed to the capital growth by P18.05 billion, or 12.2%, as a result of accumulated profits net of cash dividend payments.",0.938642144203186,0.045349158346652985,0.016008693724870682
+"Reserves decreased by P4.69 billion, or 91.9%, representing required appropriation of general loan loss provisions in excess of PFRS9 loan loss provisions under BSP Circ.",0.010834886692464352,0.01555106695741415,0.9736140370368958
+"Accumulated other comprehensive loss likewise increased by P3.46 billion, or 141.9%, due to recognition of lower actuarial losses on defined benefit plan.",0.9408556818962097,0.015791093930602074,0.04335329309105873
+"On the asset side, loans and advances, net declined P67.92 billion, or 4.6%, due to lower growth mostly across business segments compared to 2019.",0.012820188887417316,0.018172448500990868,0.9690074324607849
+"However, financial assets at fair value through OCI increased P76.28 billion, or 141.5%, largely due to the sale of hold to collect debt securities.",0.9550415277481079,0.025500643998384476,0.019457818940281868
+"Due from Other Banks, increased P17.80 billion, or 79.6% while due from Bangko Sentral ng Pilipinas (BSP) increased P16.14 billion, or 7.8% due to higher volume of placements with various banks in BSP deposits.",0.9567375779151917,0.024073248729109764,0.019189156591892242
+"Financial assets at fair value through profit and loss increased P13.10 billion, or 54.4%, due to increase in holdings of securities intended for trading.",0.956801176071167,0.022040385752916336,0.02115841768682003
+"Deferred income tax assets, net grew P7.82 billion, or 80.6%, on account of the impairment losses setup for the period.",0.048986226320266724,0.8889585137367249,0.062055282294750214
+"Interbank loans receivable and securities purchased under agreements to resell increased P7.68 billion, or 34.0%, due to higher volume placements of interbank term loans.",0.9569700360298157,0.02071983739733696,0.02231006510555744
+"Other resources, net was higher by P1.44 billion, or 9.3%, primarily attributable to higher miscellaneous assets.",0.9565445780754089,0.024404216557741165,0.019051149487495422
+"Assets attributable to insurance operations increased P935 million, or 5.3%, due to higher securities investments of the Bank’s non-life insurance affiliate.",0.9564405083656311,0.023883920162916183,0.019675519317388535
+"Investments in subsidiaries and associates, net increased P764 million, or 11.3%, as a result of higher income from the leasing business.",0.932967483997345,0.05575741454958916,0.011275092139840126
+"On the other hand, financial assets at amortized cost decreased P30.45 billion, or 11.1%, due to the net effect of the decrease in the Bank's various holdings in hold to collect securities.",0.06652770191431046,0.014723735861480236,0.9187485575675964
+"Cash and other cash items was lower by P10.08 billion, or 21.3%, on account of lower cash requirement for the period as compared to year-end 2019.",0.0103602921590209,0.01809205301105976,0.9715476036071777
+"Bank premises, furniture, fixtures and equipment, net decreased P4.92 billion, or 20.7%, as the booking of the Right-of-Use Asset for the Bank’s leased properties and equipment (PFRS 16) decreased from its first recognition in 2019.",0.009747336618602276,0.02244611456990242,0.9678066372871399
+"Assets held for sale, net also declined P185 million, or 5.9%, due to sale of foreclosed properties and decline in building improvements.",0.010298406705260277,0.01534375548362732,0.9743578433990479
+"The Bank’s loan portfolio mix is broken down into large corporates at 76.7%, small and medium enterprises (SMEs) at 4.6%, and consumer at 18.7%, compared to last year’s 76.6%, 4.9%, and 18.5%, respectively.",0.06151420250535011,0.8872688412666321,0.051216963678598404
+Allowance for Impairment of P28.0 billion was up by P22.44 billion from last year’s P5.56 billion.,0.9546964168548584,0.024602143093943596,0.020701484754681587
+"NPL ratio stood at 2.68%, compared to 1.66% in 2019.",0.4200870096683502,0.027193279936909676,0.5527197122573853
+The Bank’s NPL ratio was below the preliminary industry ratio of 3.70% as of December 2020.,0.011888784356415272,0.040357306599617004,0.9477539658546448
+"Details of the loan portfolio and asset quality are reflected in the 2020 Audited Financial Statements Note 10 and Note 26.1.3.1, respectively.",0.038516588509082794,0.9413496851921082,0.020133761689066887
+"Customer deposits account for 88% of BPI’s total funding, while 8% is attributable to other borrowings.",0.05364248529076576,0.9326913356781006,0.01366623118519783
+"The Bank’s liquidity ratios (Liquidity Coverage Ratio and Net Stable Funding Ratio) are also at record-highs, comfortably above the regulatory minimum of 100%.",0.9507026076316833,0.03287641704082489,0.016421012580394745
+"Despite the slowdown in economic activity in 2020, there was strong demand from the debt capital market which lead to the successful completion of the Bank’s three bond issuances, all denominated in peso, including the country’s first social bonds, as follows:
+2-year P15.3 billion Bonds 4.2423% issued on January 13, 2020;
+1.5-year P33.89 billion Bonds 4.05% issued on March 27, 2020; and
+1.75-year P21.5 billion Bonds 3.05% issued on August 7, 2020, also known as COVID Action Response (“CARE”) Bonds,
+issued under the Bank’s Sustainable Funding Framework and its proceeds earmarked to finance micro and small and medium enterprises.",0.19802086055278778,0.7916166186332703,0.010362480767071247
+"The Bank’s CASA Ratio was 79.6%, while the Loan-to-Deposit Ratio was 82.0%.",0.03169017657637596,0.9375872611999512,0.03072255477309227
+"For further details on the Bank’s deposits, borrowings, and liquidity, refer to the 2020 Audited Financial Statements Notes 15, 16, and 26.3.1, respectively.",0.024971721693873405,0.9474502801895142,0.027578067034482956
+"The Bank’s compounded annual net income in the last three years decline -1.5%, as the growth in pre-provision operating income was offset by the acceleration in impairment losses in anticipation of an increase in non-performing loans as a result of the COVID-19 pandemic.",0.09810859709978104,0.013751515187323093,0.8881398439407349
+"Net interest income and non-interest income increased by 14.6% and 8.9%, respectively, while operating expenses registered a lower increase of 7.7% in the past three years.",0.9468297958374023,0.021161029115319252,0.03200918063521385
+"On November 18, 2020, the Board of Directors approved the transfer of the Parent Bank’s majority ownership via the sale of BPI’s 2% share in BPI CTL to TCC, effective December 22, 2020.",0.08086931705474854,0.9094775319099426,0.009653162211179733
+This resulted in a 49% to 51% ownership structure between BPI and TCC.,0.1467013955116272,0.8444981575012207,0.008800413459539413
+"Accordingly, the Bank’s net income attributable to equity holders arising from continued operations reached P21.41 billion, decreased P7.39 billion, or 25.7%, from the P28.80 billion recognized in the prior year.",0.3495735228061676,0.01702404022216797,0.633402407169342
+"Moreover, the decline in net income was primarily from the P28.0 billion impairment losses booked for the full year 2020, as the economic slowdown may lead to an increase in non-performing loans.",0.009683333337306976,0.016692109405994415,0.9736245274543762
+"Total revenues for the year increased by 10.5%, to P101.92 billion, and operating expenses amounted to P48.15 billion, almost flat compared to previous year.",0.9528878331184387,0.018771599978208542,0.028340572491288185
+"Net interest income stood at P72.26 billion, up P6.69 billion, or 10.2%, on account of the P119.81 billion, or 5.8%, expansion in average asset base, and 14-basis point expansion in margins.",0.9562029838562012,0.025042986497282982,0.018754014745354652
+"Interest income decreased P4.18 billion, or 4.2%, compared from the P100.49 billion of the same period last year.",0.008895006030797958,0.01532959658652544,0.9757754802703857
+"Interest income on loans and advances decreased P3.74 billion, or 4.4%, on the back of lower asset yields, down by 84 bps, which offset the effect of higher average loan volume, up by P122.8 billion.",0.010396013036370277,0.015085939317941666,0.9745181202888489
+"Interest income on financial assets likewise decreased P657 million due to lower asset yield, despite higher average volume.",0.013741541653871536,0.015332997776567936,0.970925509929657
+"However, interest income on deposits with BSP and other banks increased P222 million, or 12.9%, as both average volume and yield rose by P33.06 billion and 57 bps, respectively.",0.9558532238006592,0.0226371418684721,0.021509593352675438
+"Interest expense of P24.04 billion, decreased P10.87 billion, or 31.1%, on the back of the decreases in both interest expense on deposits at P18.99 billion, down P9.89 billion, or 34.2%, and on bills payable and other borrowings at P5.06 billion, down P980 million, or 16.2%, due to higher average volume despite lower interest cost.",0.012981126084923744,0.013647804968059063,0.9733710289001465
+"Other income at P29.66 billion, up P2.97 billion, or 11.1%, higher than the P26.69 billion earned in the same period of 2019.",0.9529459476470947,0.023172816261649132,0.023881226778030396
+The increase was primarily from the net gains on disposals of investment securities at amortized cost at P4.65 billion.,0.9219152331352234,0.06548411399126053,0.012600641697645187
+"Income attributable to insurance operations also increased P282 million, up 23.1%, to P1.51 billion, due to higher income contribution from the Bank’s life and non-life insurance affiliates.",0.958759069442749,0.02239784598350525,0.018842970952391624
+"On the other hand, other operating income at P9.14 billion, decreased P1.13 billion, or 11.0%, due to decline in gain in asset sales and credit card income.",0.010521254502236843,0.015210846439003944,0.974267840385437
+"Other expenses at P48.15 billion, decreased P190 million, or 0.4%, due to controlled spending: Compensation and fringe benefits at P18.01 billion, was up P636 million, or 3.7%, on increased manpower compensation and Bank contribution to retirement fund;
+Occupancy and equipment-related expenses at P14.61 billion, down P129 million, or 0.9%, due lower rent and utilities
+costs;
+Other operating expenses a P15.54 billion, also decreased P697 million, or 4.3%, due to lower costs for advertising and publicity, and miscellaneous expenses.",0.02477692812681198,0.012064178474247456,0.9631588459014893
+"Impairment losses stood at P28.0 billion, 5.0x more than the P5.56 billion set aside in 2019, due to pre-emptive provisioning on anticipated credit loss.",0.01017315499484539,0.019710687920451164,0.970116138458252
+"Provision for income tax at P3.91 billion, lower by P5.45 billion, or 58.2%, relative to the P9.36 billion from last year.",0.012516157701611519,0.017978720366954803,0.9695051312446594
+"Current taxes at P10.75 billion, was higher by P775 million, or 7.8%, attributable to the higher taxable income subject to regular corporate income tax.",0.9564006328582764,0.02422165684401989,0.019377633929252625
+"Deferred taxes at P6.84 billion, up 1,003%, on account of the higher provisioning set-up for the year.",0.9521406888961792,0.030922001227736473,0.01693732663989067
+"Income attributable to non-controlling interest increased P4 million, or 1.6%, due from higher income contribution from the Bank’s non-life insurance affiliate.",0.9571150541305542,0.02301108092069626,0.019873829558491707
+"Comprehensive Income
+Total comprehensive income at P18.26 billion, decreased P10.95 billion, or 37.5%, due to decreases in both net income before minority interest by P7.14 billion, or 24.6%, and total other comprehensive income (loss), net of tax effect by P3.53 billion, to (P3.39) billion.",0.009908879175782204,0.015761498361825943,0.9743295311927795
+"Net change in fair value reserve on FVOCI securities, net of tax effect at P643 million, increased P694 million, on account of higher market valuation of the Bank’s investment securities.",0.9430385231971741,0.03944843262434006,0.017512984573841095
+"On the other hand, loss from remeasurement of defined benefit obligation increased P1.98 billion, to P3.38 billion, due to change in financial assumption.",0.9372175931930542,0.020654864609241486,0.042127616703510284
+"Share in other comprehensive loss of associates at P1.24 billion, also increased P1.21 billion, due to the lower market valuation of the life insurance affiliate’s investments securities.",0.8615532517433167,0.02631453238427639,0.11213221400976181
+"Share in other comprehensive income of associates at P640 million, also decreased P646 million, due lower accumulated fluctuation reserves of the Bank’s insurance affiliate.",0.010197175666689873,0.016118718311190605,0.9736841320991516
+"Fair value reserve on investments of insurance subsidiaries, net of tax effect at P195 million, declined P350 million, or 64.2%, as a result of lower market valuation of the insurance subsidiaries’ investment funds.",0.02150171808898449,0.009320319630205631,0.9691779017448425
+"Loss from currency translation differences at (P238) million, increased P36 million, or 18.0%, on account of the net effect from cash flow hedging.",0.9567021131515503,0.02272067591547966,0.020577162504196167
+"Comprehensive income attributable to non-controlling interest decreased P127 million, or 28.7% due to lower market valuation of the insurance’s subsidiaries’ investments.",0.008788561448454857,0.018078748136758804,0.9731326699256897
+The Bank’s capital ratios for the last three years showed a robust capital position with sufficient loss-absorption buffer for any potential adverse scenario.,0.9433686137199402,0.0404147207736969,0.016216667369008064
+Profitability metrics have also been consistent but reflect the impact of this year’s elevated provisioning.,0.9183856248855591,0.01721576415002346,0.06439865380525589
+"Notwithstanding the decline in operating expenses due to limited business activity brought about by the pandemic in 2020, the Bank’s strong cost discipline is evident in the improving efficiency ratio trend.",0.9541323184967041,0.022620350122451782,0.023247430101037025
+The same ratios are also used to evaluate the performance of the Bank’s subsidiaries.,0.07182223349809647,0.9150230884552002,0.013154673390090466
+"Return on equity (ROE), the ratio of net income to average equity, and Return on assets (ROA), the ratio of net income to average assets, were lower at 7.7% and 1.0%, respectively, as a result of the decline in net income of 25.7%
+Net interest margin (NIM), net interest income divided by average interest bearing assets, at 3.5% was higher by 14 basis points than the 3.3% in 2019 on lower cost of funds.",0.04579608887434006,0.015583377331495285,0.9386205673217773
+"Operating efficiency (cost to income) ratio, the ratio of operating expenses to income, improved to 47.2% from 52.4%, as the growth in revenues of 10.5% outpaced the increase in operating expense.",0.9602251052856445,0.0179793369024992,0.021795623004436493
+"Capital adequacy ratio (CAR), the ratio of total qualifying capital to total risk-weighted assets, was at 17.1%, higher versus the prior year’s 16.1%, as qualifying capital grew and risk-weighted assets declined.",0.9500386714935303,0.017998775467276573,0.031962450593709946
+"The CET 1 ratio at 16.2%, was also higher than the 15.2% from the same period last year.",0.9586089849472046,0.024670550599694252,0.0167204849421978
+Both of the Bank’s capital ratios are above the BSP’s minimum requirement.,0.6961175799369812,0.27989810705184937,0.023984281346201897
+"Other than the disclosure enumerated above, the Bank has nothing to report on the following:
+a) Any known trends, demands, commitments, events or uncertainties that will have a material impact on its liquidity.",0.01798650063574314,0.8851767778396606,0.09683671593666077
+"b) Events that will trigger direct or contingent financial obligation that is material to the company, including any default or acceleration of an obligation.",0.021633023396134377,0.8997287750244141,0.07863819599151611
+"c) Material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the bank with unconsolidated entities or other persons created during the reporting period.",0.017672870308160782,0.9212200045585632,0.061107125133275986
+d) Any material commitments for capital expenditures.,0.04341931268572807,0.9309003949165344,0.02568022720515728
+"e) Any known trends, events or uncertainties that have had or that are reasonably expected to have a material favorable or unfavorable impact on net sales/revenues/income from continuing operations.",0.05876421183347702,0.794438898563385,0.14679694175720215
+f) Any significant elements of income or loss that did not arise from the Bank’s continuing operations.,0.025841686874628067,0.8061181902885437,0.16804009675979614
+"g) Any seasonal aspects that had a material effect on the financial condition or results of operations
+
+The COVID-19 pandemic, which compelled the Philippines to impose restrictions on mobility, has resulted to a 9.6% economic contraction in 2020.",0.014236176386475563,0.015599946491420269,0.9701639413833618
+"The last time the GDP shrank by this much was more than 30 years ago, during the 1980s debt moratorium.",0.01158376969397068,0.03370658680796623,0.9547096490859985
+"With the economy slowly reopening, local demand will most likely improve although a full recovery is not expected in 2021.",0.9519939422607422,0.02577170357108116,0.022234437987208366
+"The lack of foot traffic in malls and other public areas continues to dampen the demand for goods and services that involve human contact, while the decline in household income amid the pandemic has forced consumers to tighten their belts.",0.012611083686351776,0.022331874817609787,0.9650570750236511
+"However, e-commerce and the widespread use of delivery services are expected to cushion the decline in consumer spending.",0.6727171540260315,0.0332273468375206,0.2940555214881897
+"We are expecting a 6.8% growth rate in 2021, coming from a low base in 2020.",0.9066082835197449,0.03484426438808441,0.0585474818944931
+"A second wave of infection could overwhelm the health system and force the government to implement stricter restrictions, similar to the experience of other countries.",0.017392337322235107,0.0691678524017334,0.9134398698806763
+"In addition, government underspending may prevent the economy from building the needed infrastructure that can fast track its recovery.",0.03879031166434288,0.08048815280199051,0.8807215690612793
+"Stimulus measures aside from support on the healthcare system have included direct distribution of cash and goods to the general public, short term tax and social security relief.",0.24330388009548187,0.7427077293395996,0.013988395221531391
+"The government’s fiscal response has been quite modest with on-budget spending increasing by 11.3% in 2020, lower than 2019’s full-year growth of 11.4%.",0.017618009820580482,0.016353541985154152,0.9660283923149109
+"Despite this, the country's budget deficit expanded from 3% in 2019 to around 7.6% of GDP in 2020 as collections of the Bureau of Internal Revenue and the Bureau of Customs fell sharply.",0.13102203607559204,0.017871703952550888,0.8511061668395996
+"The BSP, on the other hand, has been implementing more forceful measures to cushion the economy’s contraction.",0.9387981295585632,0.02684260718524456,0.03435933217406273
+It has reduced its policy rate by 200 bps from 4.00% to 2.00% and its reserve requirement ratio by 200 bps from 14% to 12%.,0.01226472482085228,0.03072795458137989,0.9570072889328003
+"These aggressive actions have been made possible by the stable inflation environment, which settled at average of 2.6% in 2020.",0.9164613485336304,0.07177192717790604,0.011766782030463219
+"Looking ahead, the Bank sees upside risks that could keep inflation above 4% in the coming months.",0.07100936770439148,0.05317777767777443,0.875812828540802
+"However, even at current levels, price of oil is expected to register a 200% year-on-year increase in the second quarter given the low base from last year.",0.947163462638855,0.019187189638614655,0.03364942967891693
+"In addition, supply constraints especially in the meat sector will likely continue for the remainder of the year as the swine industry may take some time to address the impact of the African Swine Fever.",0.023668797686696053,0.044247549027204514,0.9320837259292603
+"Due to weak US dollar demand, the BSP has also been able to build up its Gross International reserves to a record high of US$110 billion as of December 2020.",0.956062912940979,0.025713058188557625,0.01822408102452755
+"With the economy slowly reopening, the Bank expects imports to recover in the coming months in line with the expected improvement in local demand.",0.9546544551849365,0.02225838415324688,0.02308713272213936
+"Hence, demand for US dollar may pick up and the exchange rate may move closer to PHP49 to a US dollar.",0.7587583661079407,0.21240010857582092,0.028841517865657806
+"Risk to this outlook includes public sector spending remaining below target, especially in infrastructure.",0.01334769930690527,0.027784818783402443,0.9588674902915955
+"With businesses still struggling, the lack of fiscal support and public construction may stall the recovery and dampen the demand for capital goods.",0.011391377076506615,0.019648173823952675,0.9689604043960571
+"Main insights from 2020 are that:
+Banking is under threat from multiple fonts - pressure on NIMs, pressure on fees, NPLs rising, credit cost rising,
+intensified competition, regulatory challenges, and
+Transformation is critical – the world is changing, the consumer is changing, and COVID-19 accelerated trends that are
+already underway, such as digital being a major transformation catalyst.",0.516728937625885,0.4564484655857086,0.02682247757911682
+"We navigated through the unprecedented times brought about by the pandemic by initially focusing on safety and survival, and moved to ensuring operational resilience.",0.4582827687263489,0.5262770652770996,0.015440212562680244
+"For the near-term, we will position for recovery by:
+Reallocating resources for future growth,
+Realigning our various asset portfolios,
+Boosting productivity to improve cost efficiency, and
+Transforming the organization.",0.8597566485404968,0.13180799782276154,0.008435303345322609
+"In line with this, our strategic imperatives will continue to focus on five key areas.",0.4918711185455322,0.49618905782699585,0.01193990558385849
+"Growing our high margin businesses – SMEs, Consumer, and Microfinance – despite taking a pause this year to focus
+on asset quality preservation given weak market demand.",0.7996350526809692,0.18081599473953247,0.019549041986465454
+"Strengthening our funding franchise, where our diversified mix of deposits and debt ensure ample liquidity and
+optimized cost of funds for the Bank.",0.9442375302314758,0.04400183632969856,0.011760642752051353
+"Executing our five-point digital strategy founded on these pillars:
+Mobile first omni-channel experience to allow customers to open bank accounts in any branch and have all other subsequent transactions take place digitally.",0.15464232861995697,0.837271511554718,0.008086162619292736
+Shape the customer experience through tailor-fit service platforms to suit their needs based on data analytics and insights.,0.2256115823984146,0.7672805786132812,0.007107845041900873
+"Such is the case for our clients using Bizlink, an all-in-one digital platform which houses multiple products and services that extend beyond traditional cash management.",0.15385565161705017,0.8385429978370667,0.007601320743560791
+"High tech, high touch by allowing customers to conduct self-service transactions, branch operations can focus on specialized customer services.",0.16698192059993744,0.825263261795044,0.007754767779260874
+Open banking to be a key focal point of financial intermediation by serving customers in as many ways as possible by partnering with various fintech providers who offer services like e-wallets and funds transfer.,0.6889699101448059,0.30381906032562256,0.007211107760667801
+"Industry class infra that is secure, reliable, and private, underpinned by the upgrade of our core banking systems.",0.8790318369865417,0.11346273869276047,0.007505414076149464
+Our mission is to guarantee the security of our clients’ financial assets while championing the education of clients on cybersecurity.,0.29332098364830017,0.6979210376739502,0.008758006617426872
+Deepening our client relationships in the new normal while improving risk-adjust returns.,0.8909914493560791,0.10083964467048645,0.008168885484337807
+"We have solidified our foothold in the corporate space by helping Philippine conglomerates, large corporates, and multinational companies grow their businesses, manage their operations, and mitigate risks
+5.",0.8736782670021057,0.11900927126407623,0.007312396541237831
+Our distribution strategy transformation involves the re-balancing of our traditional and digital channels.,0.32890787720680237,0.6627064347267151,0.008385754190385342
+"The operational limitations brought about by the lockdowns, strengthened our view to continue to rationalize, consolidate, and optimize our branch network.",0.9412930607795715,0.036168958991765976,0.022538045421242714
+"For our digital channels, we have embarked on accelerating the growth of BPI as “the Everyday Bank”, through our open banking ecosystem and regular launches of new platform functionalities.",0.8801929950714111,0.11272148787975311,0.007085524499416351
+"Globally there is a trend towards ESG, particularly on climate change which is a top priority for key stakeholders.",0.887345552444458,0.10379793494939804,0.008856512606143951
+"The growing demand for ESG-aligned products, with investors wanting to hear more on ESG from banks, has spurred the issuance of ESG-related regulations such as BSP Circular 1085: Sustainable Finance Framework and SEC Memorandum Circular No.",0.5955418944358826,0.39398232102394104,0.010475846007466316
+"4, Series of 2019: Sustainability Reporting Guidelines for Publicly-Listed Companies.",0.059981729835271835,0.9240283966064453,0.015989838168025017
+"In 2020, we established the Board-approved BPI Sustainability Agenda which will guide the Bank on the integration of sustainability principles in the corporate governance and risk management frameworks, as well as in the strategic objectives and operations.",0.23004242777824402,0.762385368347168,0.007572153117507696
+We recognize the importance of integrating sustainability principles in order to create long-term value for our stakeholders and to positively contribute to an equitable society and healthy environment.,0.7957890629768372,0.1962008774280548,0.008010031655430794
+Our sustainability objectives are embodied in our updated Sustainability Strategy Framework (Strategy) with the pillars of Responsible Banking and Responsible Operations.,0.1682593822479248,0.8229585886001587,0.008781983517110348
+The Bank believes that Responsible Banking is the key to creating long- term value for all our stakeholders.,0.7215619683265686,0.2706893980503082,0.007748685777187347
+"The Strategy supports BPI’s vision of Building a Better Philippines, and focuses on key ESG areas where the Bank can have the most impact.",0.8488140106201172,0.1446412354707718,0.006544735748320818

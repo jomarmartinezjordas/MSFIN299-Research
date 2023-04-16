@@ -1,0 +1,258 @@
+sentence,positive,neutral,negative
+"Ayala Corporation’s full year earnings amounted to ₱35.3 billion, including the divestments gains of ₱23.6 billion from AC Education and AC Energy.",0.5951200127601624,0.3872888684272766,0.01759110949933529
+"Strong consumer driven revenue growth of ALI, Globe and BPI drove the bottom-line.",0.9421537518501282,0.04558005556464195,0.012266187928617
+Results tempered by the recognition of a remeasurement loss of ₱18.1billion for Manila Water.,0.8848273158073425,0.020890070125460625,0.09428270161151886
+Slowdown in AC Industrials resulted in a net loss of ₱2.4 billion.,0.0091318991035223,0.027551066130399704,0.9633170366287231
+"In December 2019, Ayala recognized a remeasurement loss of ₱18.1 billion as a result of the reclassification of its investment in Manila Water (MWC) as asset held under PFRS 5 (the accounting standard for assets held for sale).",0.011404786258935928,0.04401726275682449,0.9445779919624329
+"This accounting standard requires applying a fair market value accounting for Ayala’s investment in MWC, if the completion of the divestment and or subsequent loss of voting control is expected to occur within one year from the date of the financial statement.",0.02158622443675995,0.8729262351989746,0.10548759996891022
+It also requires the assets and liabilities of MWC to be presented as one line item in the consolidated balance sheet and P&L in 2019 as opposed to line by line consolidation in prior years.,0.02909993566572666,0.9521844387054443,0.018715642392635345
+"Sale of goods and rendering services rose three percent to ₱264.9 billion on higher revenues from Ayala Land’s sale of commercial lots and office spaces, middle-market residential products, and improved performance of its leasing segments.",0.9596052169799805,0.023200377821922302,0.017194407060742378
+This was further supported by increments from AC Energy’s retail electricity supply unit and AC Health.,0.78257155418396,0.2082965075969696,0.009131989441812038
+"However, this was partly offset by AC Industrials’ lower revenues.",0.03644062951207161,0.02178732119500637,0.9417721033096313
+"The conglomerate’s real estate arm, Ayala Land, saw a 13 percent growth in its bottom-line in 2019, which reached ₱33.2 billion for the year.",0.9477768540382385,0.035172395408153534,0.017050726339221
+"Meanwhile, its total revenues increased by two percent to ₱168.79 billion from ₱166.25 billion the previous year, mainly supported by office and commercial and industrial lot sales as well as higher contribution of new leasing assets.",0.9541930556297302,0.025157349184155464,0.020649615675210953
+"Property development revenues was slightly down two percent year-on-year, reaching ₱117.6 billion in 2019.",0.007327138911932707,0.016679728403687477,0.9759932160377502
+"On the other hand, it exhibited growth in office for sale developments and commercial and industrial lots, which rose 12 percent and 46 percent, respectively.",0.95188969373703,0.03243790939450264,0.01567240245640278
+"During the year, Ayala Land introduced three new estates and successfully launched ₱158.9 billion worth of property development projects.",0.8211666345596313,0.17133541405200958,0.007497946731746197
+"On the other hand, commercial leasing saw double-digit growth from all its segments as it expanded 13 percent to ₱39.3 billion during the year.",0.9555960297584534,0.02916768006980419,0.015236203558743
+"Revenues from shopping centers grew 11 percent to ₱22.0 billion from ₱19.91 billion on the back of sustained growth from its stable malls and increased contributions from its newly opened malls, Ayala Malls Feliz, Capitol Central, and Circuit Makati.",0.9557031393051147,0.02415120042860508,0.020145617425441742
+"Similarly, office leasing revenues increased by 12 percent to ₱9.67 billion from previous year’s ₱8.61 billion, with the new offices in Ayala North Exchange, Vertis North, and Circuit Makati improving the segment’s performance.",0.9581953883171082,0.022411534562706947,0.019393058493733406
+Revenues coming from hotels and resorts rose by 19 percent to ₱7.62 billion from ₱6.39 billion in 2018 on strong patronage of Seda Ayala Center Cebu and Seda Lio.,0.9551622271537781,0.021557040512561798,0.02328077331185341
+"Ayala Land expanded its leasing portfolio with malls and offices totaling 2.1 million and 1.2 million square meters of gross leasing area, respectively, and hotels and resorts with 3,705 rooms.",0.9017831683158875,0.09047259390354156,0.007744273170828819
+Ayala Land spent a total of ₱108.7 billion in capital expenditures in 2019.,0.10059209167957306,0.8868609070777893,0.012546996586024761
+"Following this,26 percent was spent on the company’s rental assets, 17 percent on land acquisition, 14 percent on estate development and the rest on other investments.",0.03666216880083084,0.9470251798629761,0.016312675550580025
+"Ayala Land, through its subsidiary, AREIT Inc., became the first Philippine company to file a real estate investment trust (REIT) offering to the Securities and Exchange Commission last February 7, 2020.",0.1367456316947937,0.8550458550453186,0.008208466693758965
+"Through this initial capital market transaction, Ayala Land hopes to pave the way for the development of a REIT market in the country, bringing another milestone to the Philippine stock market.",0.9058803915977478,0.08384246379137039,0.010277159512043
+"Ayala Land seeks to do an Initial Public Offering (IPO) of AREIT, Inc. after receiving the regulatory approvals from the SEC and the PSE.",0.2764306366443634,0.7155416011810303,0.00802780594676733
+Manila Water’s full-year net profits dipped 16 percent year on year to ₱5.5 billion as the water supply shortage in March severely impacted the East Zone concession while some cost-side challenges also weighed down on profitability.,0.008290433324873447,0.015573914162814617,0.9761357307434082
+"The decline in La Mesa dam water levels caused water service availability to drop significantly, with the dam reaching its lowest level at 68.5 meters in April 2019.",0.007624166086316109,0.018925275653600693,0.9734505414962769
+"To assist severely affected customers, Manila Water implemented a one-time Bill Waiver Program.",0.8827887177467346,0.09301313012838364,0.024198105558753014
+"Additionally, in July, raw water allocation from Angat Dam hit its lowest, with releases limited to 35 cubic meters per second for the MWSS Concessionaires.",0.009726164862513542,0.02821280062198639,0.9620611071586609
+"To mitigate this, Manila Water pushed for network efficiency to maintain service availability by ensuring water service of at least 7 pounds per square inch (psi) of pressure, enough to reach the ground floor level, enabling it to serve more than 7 million people covering over 1.3 million households in the East Zone.",0.9007877111434937,0.09031359851360321,0.008898683823645115
+"Throughout 2019, Manila Water also affirmed its wastewater commitment of providing 32 percent coverage of the East Zone by 2021.",0.9323654770851135,0.05744961276650429,0.010184959508478642
+"Wastewater coverage in the East Zone is currently over 30 percent, equivalent to two million people served through nearly 400 kilometers of laid sewer network.",0.19879747927188873,0.7897480130195618,0.011454500257968903
+"Considering these factors, costs and expenses for the East Zone concession increased 32 percent to ₱6.4 billion for the year, mainly driven by the ₱534 million penalty imposed by MWSS and additional service recovery and operations costs.",0.9448161721229553,0.01566825434565544,0.039515577256679535
+"In all, the Manila concession’s net income for the year was at ₱5.1 billion, a decline of 22% from 2018.",0.013850445859134197,0.012193253263831139,0.9739562273025513
+"In February, Ayala announced a strategic partnership with an infrastructure company of Enrique K. Razon Jr., Prime Metroline Holdings Inc., through a company that it will incorporate for the transaction (hereafter, “Trident Water”), with the acquisition of a 25 percent stake in Manila Water.",0.7046735286712646,0.2876773476600647,0.0076491148211061954
+Ayala remains a shareholder with a 38.6 percent stake.,0.05023873597383499,0.9386219382286072,0.011139344424009323
+"Subsequently, Ayala announced that as part of the shareholder agreement to be executed among Ayala, its wholly owned subsidiary Philwater Holdings Company, and Trident Water, the conglomerate’s Executive Committee approved the grant of proxy rights by Philwater to Trident Water over such number of preferred shares to enable the latter to achieve 51 percent voting interest in Manila Water.",0.7606117129325867,0.23152193427085876,0.007866375148296356
+"Upon the grant of proxy rights to Trident Water, Ayala’s effective voting interest in Manila Water will stand at 31.6 percent.",0.06606316566467285,0.9241717457771301,0.009765067137777805
+"The shareholders’ agreement will become effective after the closing of the subscription agreement, which will occur after certain conditions are met, including required lenders’ consent and regulatory approvals.",0.05167137831449509,0.9347574710845947,0.013571183197200298
+"Ayala’s more recent core business, AC Energy, registered net profits of ₱24.6 billion in 2019, lifted by contribution from its solar projects in Vietnam, recovery of costs incurred from adjustments in the construction and operations of its power plants, and gains from the partial divestment of its thermal assets.",0.9541648626327515,0.02698163501918316,0.018853478133678436
+"AC Energy increased its attributable energy output in 2019 by 25% to 3,500 Gigawatt hours, of which 50% came from renewables sources.",0.9405168294906616,0.04927758127450943,0.010205547325313091
+"As it shifts its portfolio towards renewable energy, AC Energy has a pipeline of more than 1,000MW in various renewable projects in the Philippines and overseas that are expected to reach financial close within 2020.",0.7889122366905212,0.20446094870567322,0.00662687374278903
+"This will bring AC Energy’s renewable energy capacity close to 2,000MW by the end of 2020, in line with its goal of achieving 5,000MW of renewables capacity by 2025.",0.860348105430603,0.132724791765213,0.00692715123295784
+The start of operations of the company’s solar farms in Vietnam supported profits during the year.,0.9544058442115784,0.028085466474294662,0.01750873774290085
+"Three plants with a total of 410MW commenced commercial operations in the second quarter, in time to meet Vietnam’s solar feed-in tariff deadline.",0.778218150138855,0.2116246074438095,0.010157207027077675
+"AC Energy also announced a joint venture project with UPC Solar Asia Pacific, its existing partner for various projects in and out of the Philippines, for the development of solar projects in the Asia-Pacific region.",0.831378698348999,0.16113373637199402,0.0074875010177493095
+"In addition, AC Energy and Yoma Strategic Holdings Ltd. also announced its decision to form a 50:50 joint venture to drive the growth of Yoma Micro Power (S) Pte.",0.8273490071296692,0.16392233967781067,0.008728609420359135
+"Ltd., and jointly explore developing around 200MW of additional renewable energy projects within Myanmar including participation in large utility scale renewable projects.",0.6195212602615356,0.37223488092422485,0.008243894204497337
+"Locally, subsidiary AC Energy Philippines signed share purchase agreements to increase its stakes in the North Luzon Renewables wind project, and the Sacasol and Islasol solar plants.",0.9393357038497925,0.04667382687330246,0.013990495353937149
+"In line with its commitment to scale up its renewable energy investments, AC Energy issued two green bonds in 2019, effectively raising US$810 million in fresh capital to support its pipeline of renewable energy projects.",0.903428852558136,0.08733254671096802,0.00923856906592846
+"The first issuance, which happened in January-February 2019, was the power company’s maiden green bonds and fetched a total amount of US$410 million.",0.08813444525003433,0.9012056589126587,0.01065990049391985
+The bonds were the first publicly syndicated Climate Bond Initiative-certified US$ Green Bonds in Southeast Asia.,0.5012904405593872,0.4903654158115387,0.008344111032783985
+"Subsequently in November, AC Energy raised US$400 million through the first ever US dollar denominated fixed-for- life green bond issued globally.",0.827801525592804,0.1653042733669281,0.006894182413816452
+The perpetual green bonds were listed on SGX-ST and certified under the ASEAN Green Bonds Standards by the Philippine Securities and Exchange Commission on 18 November 2019.,0.07115292549133301,0.9195771217346191,0.009269971400499344
+AC Industrials recorded a net loss of ₱2.4 billion as headwinds in both the electronics manufacturing services industry and the global auto industry hampered earnings across its several business lines.,0.007902604527771473,0.01990458182990551,0.9721927642822266
+"The company’s EMS platform, Integrated Micro-Electronics Inc., continued to weather challenges in its main market segments, particularly the industrial and consumer spaces.",0.9190212488174438,0.03300800547003746,0.04797081649303436
+"As the automotive sector contracted globally, most notably in China, IMI’s revenues, dropped 17 percent year-on-year.",0.00732380198314786,0.016443517059087753,0.9762327671051025
+"Additionally, investments in capacity and technical capabilities for future growth increased the company’s overhead expenditures, which partly affected gross profit margins.",0.021761680021882057,0.021369023248553276,0.9568693041801453
+"Overall, these factors hindered IMI growth in 2019, with the company posting a net loss of US$7.8 million for the year.",0.008314032107591629,0.018289359286427498,0.9733966588973999
+"Revenues from IMI’s wholly owned operations tallied at US$1 billion, down 7 percent from the previous year.",0.009208048693835735,0.014331305399537086,0.9764605760574341
+"The company’s Asian operating units dropped a total of 11 percent, as a function of the aforementioned slowdown in China’s automotive market for the year.",0.006267071235924959,0.019154591485857964,0.974578320980072
+"This was offset by the performance of IMI Europe, also largely automotive based, which grew three percent year-on-year as the company’s newest production facility in Serbia continued its ramp-up in its first full year of operations.",0.9570632576942444,0.01803041622042656,0.024906223639845848
+"In parallel, IMI’s Mexico operations, which serve the North American markets, continued their robust trajectories with a 50 percent revenue growth in 2019.",0.9532129168510437,0.03047863207757473,0.01630839705467224
+"IMI’s core subsidiaries, Via Optronics and STI, Ltd., posted combined revenues of $248 million, a decline of 21 percent from the previous year.",0.014964230358600616,0.009101996198296547,0.9759337306022644
+VIA’s drop was mainly driven by the slump in the overall computing consumer segment and the delay in the release of a new generation component from one of its major customers.,0.008329332806169987,0.019456952810287476,0.9722137451171875
+"Meanwhile, the uncertainty over Brexit, which persisted at least through 2019, caused some delays in the awarding of several contracts where STI is a key competitor.",0.016573654487729073,0.03929590806365013,0.9441304206848145
+"AC Industrials’ Philippine vehicle distribution and retail arm, AC Motors, recorded a net loss of ₱337 million on lower sales volumes across its Honda, Isuzu, Kia, and Volkswagen brands.",0.007923775352537632,0.018645508214831352,0.9734306931495667
+"The domestic automotive market grew moderately in 2019 by four percent to over 416,000 vehicles sold.",0.9524899125099182,0.03224194794893265,0.015268117189407349
+"As the industry recovers from the previous year’s sizable, policy-driven decline, competition continues to be highly competitive, with over 50 players vying for slowly recovering customer demand.",0.942405104637146,0.028146712109446526,0.029448088258504868
+"Meanwhile, AC Industrials’ startup investments, Merlin Solar, MT Technologies, and C-CON, recorded higher net losses during the period as they continue to grow their revenue pipelines, invest in capacity and infrastructure, and manage underutilization of capacity resulting from the global downturn in automotive and manufacturing.",0.014020676724612713,0.01768593117594719,0.9682934284210205
+Share in net profits of associates and joint ventures expanded 13 percent to ₱22.3 billion on Globe’s higher revenues and lower non-operating expenses and BPI’s higher interest and non-interest income.,0.9594702124595642,0.021800151094794273,0.018729548901319504
+"This was, however, partly offset by lower earnings from AC Energy’s investee companies.",0.10008127987384796,0.023585939779877663,0.8763328194618225
+"BPI’s net earnings, which was supported by solid core income, higher securities trading gains, and steadily growing fee-based businesses, jumped 25 percent to ₱28.8 billion in 2019.",0.9552577137947083,0.02583310380578041,0.018909115344285965
+Total revenues grew 20 percent to ₱94.3 billion as both net interest income and non-interest income saw robust growth for the full year.,0.9553808569908142,0.025561964139342308,0.019057121127843857
+BPI’s net interest income was up 18 percent to ₱65.9 billion on the back of a 9-percent improvement in average asset base and a 24-basis point expansion in net interest margin.,0.9575209021568298,0.023086685687303543,0.01939236745238304
+"Net interest margin increased from 3.11% in 2018 to 3.35% in 2019, as a result of asset yields rising 69 basis points, partially offset by higher cost of funds.",0.9557592272758484,0.0242649894207716,0.019975736737251282
+"Total loans grew 9 percent year-on-year, reaching ₱1.48 trillion, primarily driven by consumer loans which grew 13 percent, much faster than corporate and SME loans, which also grew 8 percent and 6 percent, respectively.",0.9446002244949341,0.040143150836229324,0.015256628394126892
+Total deposits rose 7 percent to ₱1.70 trillion during the year.,0.9548367261886597,0.026412418112158775,0.018750879913568497
+"The bank’s CASA ratio stood at 69.1%, while the loan-to-deposit ratio was at 87.0%.",0.036459118127822876,0.9292240142822266,0.03431685268878937
+"Non-interest income was ₱28.4 billion, an increase of 25 percent versus 2018, primarily from higher securities trading gains and fee-based income.",0.9552125930786133,0.025427790358662605,0.0193596500903368
+"Fees, commissions, and other income increased by 12 percent, driven by higher fees from credit cards, transaction banking, branch services, and digital channels.",0.9549986720085144,0.0269248578697443,0.018076477572321892
+"Operating expenses totaled ₱50.1 billion, higher by 15 percent from the previous year.",0.9546977281570435,0.019316133111715317,0.025986194610595703
+"Cost-to-income ratio was at 53.1%, lower than the 55.5% recorded in the prior year.",0.010705837979912758,0.01959977112710476,0.9696943759918213
+"Provision for losses for 2019 was ₱5.8 billion, increasing the Bank’s loss coverage ratio to 104.8%.",0.9527178406715393,0.02817552164196968,0.01910673826932907
+NPL ratio improved to 1.66% from 1.85% in 2018.,0.9538623690605164,0.019123805686831474,0.027013780549168587
+"The bank’s total assets stood at ₱2.21 trillion, higher by 6 percent year-on-year, with return on assets at 1.38%.",0.9405051469802856,0.04340444505214691,0.01609046757221222
+"Total equity amounted to ₱269.6 billion, with a common equity tier 1 ratio of 15.17% and capital adequacy ratio of 16.07%, both well above regulatory requirements.",0.8299728035926819,0.16089856624603271,0.009128673933446407
+Return on equity for 2019 was at 10.97%.,0.035093601793050766,0.9303629994392395,0.034543417394161224
+BPI also issued over P3.1 billion of Long-Term Negotiable Certificates of Time Deposit (LTNCTDs) in October 2019.,0.08802090585231781,0.9012491703033447,0.010729946196079254
+The LTNCDs have a tenor of 5.5 years and an interest rate of 4% p.a.,0.03189542517066002,0.9508227705955505,0.01728181727230549
+"In December 2019, BPI Family Savings Bank (“BFSB”), the Bank’s wholly-owned thrift bank and consumer lending unit, issued ₱9.6 billion of 2.5-year bonds with an interest rate of with 4.3% p.a.",0.07734064012765884,0.9113015532493591,0.01135779358446598
+"Globe’s net income ended at ₱22.3 billion, up 20 percent, boosted by the company’s data-related products and services.",0.9559266567230225,0.026681581512093544,0.0173917505890131
+"Overall, Globe’s total service revenues were up 12 percent to ₱149 billion, lifted by data-related services, which accounted for 71 percent of the total.",0.9584218263626099,0.021649625152349472,0.01992851123213768
+The company’s strategy is aligned to the evident growth in data driven customers across all segments.,0.9330801367759705,0.057742346078157425,0.009177492931485176
+"Mobile data users rose 7 percent to 39.6 million subscribers, which consequently pushed mobile data traffic up substantially by 78 percent to 1.7 petabytes.",0.9537226557731628,0.02784452773630619,0.01843271031975746
+"Likewise, the company’s home broadband subscriber base increased 25 percent to over 2 million customers as Globe Home Pre-paid Wifi gained more traction in its segment.",0.9540225863456726,0.0321006253361702,0.01387680321931839
+"In order to further solidify its foothold in the home broadband space through an expanded portfolio of data offerings, Globe also launched At Home Air Fiber 5G on July 2019.",0.8379677534103394,0.1560625582933426,0.005969657097011805
+"Globe’s EBITDA ended at ₱76 billion, up 17 percent due to robust service revenues as well as subdued operating expenses.",0.9556724429130554,0.01865231990814209,0.02567519247531891
+"Operating expenses grew a modest eight percent despite higher costs related to marketing, subsidies, and staff as interconnect charges dropped significantly during the period.",0.8804030418395996,0.01984236389398575,0.09975460171699524
+The company’s EBITDA margin was steady at 51 percent for 2019.,0.7509496212005615,0.2037104070186615,0.045340023934841156
+"Capital expenditure reached a record-high of ₱51 billion, 18 percent higher year-on-year.",0.9533446431159973,0.025772519409656525,0.0208828654140234
+This was allocated to fast-tracking network rollout.,0.1516502946615219,0.8390492796897888,0.009300475008785725
+"During the year, Globe put up more sites and added more 3G and 4G base stations.",0.5721291303634644,0.41812533140182495,0.009745506569743156
+"General and administrative expenses rose 24 percent to ₱32.1 billion, mainly driven by AC Energy’s higher manpower costs, professional fees, and restructuring costs related to the partial divestment of its thermal assets drove the increase.",0.9488949179649353,0.01641268841922283,0.03469228744506836
+"AC Industrials’ manpower and advertising costs as well as AC Health’s clinic network expansion and the consolidation of Generika and Entrego into AC Health and AC Infra, respectively, likewise drove the higher GAE.",0.2059725522994995,0.06500490009784698,0.7290225625038147
+The company’s balance sheet remains strong with enough capacity to support its future investments and cover dividend and debt obligations.,0.9188567399978638,0.07046815007925034,0.010675088502466679
+"Attheendof2019,Ayala’stotalassetsstoodat₱1.3trillion.",0.05948367714881897,0.9231249094009399,0.017391381785273552
+Investmentpropertiesexpanded8percent to ₱246.7 billion on the back of ALI’s malls and office expansion.,0.926498293876648,0.061802998185157776,0.011698773130774498
+"Investments in associates and joint ventures, meanwhile, ended at ₱246.7 billion on account of higher equity in net earnings contribution of BPI and Globe as well as additional investments made by Ayala Land, AC Health, AC Infra, and AC Ventures.",0.9287301301956177,0.054449424147605896,0.016820458695292473
+"At the end of 2019, total debt at the consolidated level stood at ₱405.3 billion, two percent lower from its end-2018 level, despite additional borrowings of Ayala Land and AC Energy as MWCI’s total debt of ₱56.4 billion was reclassified to liabilities under PFRS 5.",0.011548913083970547,0.022999685257673264,0.9654513597488403
+"Ayala’s parent level cash stood at ₱22.6 billion, with net debt at ₱83.2 billion.",0.04219326376914978,0.9310940504074097,0.02671266905963421
+Ayala’s parent net debt- to-equity ratio stood at 63 percent.,0.08906074613332748,0.8959864974021912,0.014952780678868294
+"The conglomerate’s loan-to-value ratio, the ratio of its parent net debt to the total value of its assets, was at 6.5 percent at the end 2019.",0.029475221410393715,0.9285840392112732,0.04194079712033272
+"The consolidated capital expenditure of the group reached ₱215 billion in 2019, mainly driven by Ayala Land and Globe, which respectively tallied ₱109 billion and ₱51 billion in capital outlay for the year.",0.851459264755249,0.13729140162467957,0.011249369010329247
+"Parent-only capital expenditure, on the other hand, reached ₱30 billion, which went mostly to the newer businesses of Ayala.",0.21256645023822784,0.7681525945663452,0.019280970096588135
+"For 2020, the Ayala Group has programmed ₱275 billion in capital expenditures, of which ₱20.8 billion has been earmarked under the parent to support the emerging businesses in its portfolio.",0.669410228729248,0.3205913305282593,0.009998463094234467
+"The December 31, 2019 and 2018 consolidated financial statements show several significant increases in Balance Sheet and Income Statement accounts relating to five (5) key factors:
+1.",0.8537328243255615,0.10440502315759659,0.04186217486858368
+Adoption of new accounting standard PFRS 16 (Leases) which give rise to new accounts in the balance sheet namely Right-of-use Assets and Lease Liabilities.,0.16445933282375336,0.8276084065437317,0.007932275533676147
+The impact to income statement is shown in the depreciation (classified under cost of sales and general & administrative expenses) and interest expenses of the Group (Note 3 of notes to financial statements).,0.016097430139780045,0.908250629901886,0.07565197348594666
+AC Energy’s increase of ownership share in SLTEC (previously classified as AJV entity) from 35% in December 2018 to 80% (now a subsidiary).,0.8333696722984314,0.1577487736940384,0.008881577290594578
+"Acquisition of additional 2.5% stake in each of the Generika companies, which resulted to 52.5% ownership of AC Health as of December 31, 2019.",0.0754024013876915,0.914289116859436,0.010308440774679184
+Reclassification of the investment in MWCI as assets under PFRS/ IFRS 5.,0.03285549581050873,0.9527952075004578,0.014349328354001045
+"With MWCI and Prime Metroline Holdings signing of a subscription agreement in February 2020, MWC qualified as a group held for deemed disposal.",0.3434469997882843,0.6487173438072205,0.007835673168301582
+"Since the operations of MWC represents the Group’s water infrastructure business segment, it qualifies as a discontinued operation of segment under PFRS 5 in the Group’s consolidated financial statements (see Notes 2 and 25).",0.01619258150458336,0.6821916699409485,0.30161577463150024
+Reclassification of the investment in GNPK as assets under PFRS/ IFRS 5.,0.0299653559923172,0.9546985626220703,0.015336020849645138
+"With AC Energy and Power Partners transaction in July 2019 which resulted in indirect control of AC Energy over GNPKauswagan (GNPK), the assets and liabilities of GNPK, a subsidiary, were reclassified into assets held for sale and liabilities of unit for disposal as of December 31, 2019 (see Notes 2 and 25).",0.01646563783288002,0.935721218585968,0.04781317338347435
+"Reclassification of accounts arising from PFRS 15:
+Reclassification of contract assets and liabilities as permitted under PIC’s September 2019 letter response to real estate industry which ALI adopted to comply with PFRS 15.",0.0467461533844471,0.9389645457267761,0.0142892487347126
+"As a result, ALI’s contract assets and liabilities are classified as receivable and other current liabilities for year end 2019 and 2018, respectively (see Note 3).",0.017930906265974045,0.9476943016052246,0.03437476605176926
+"Cash and cash equivalents – 54% increase from ₱60,624 million to ₱93,405 million
+Increase due to AC’s proceeds from loans, dividends received and net proceeds from reissuance and redemption of preferred shares, partly offset by buy-back of common shares, dividends and loan payments; AC Energy’s proceeds from sale of AA Thermal shares, from Green bonds and fixed-for-life (FFL) and dividends received, partly offset by acquisition of Phinma Energy; and AYC’s proceeds from FFL bonds.",0.9331601858139038,0.0521361418068409,0.014703627675771713
+"Use of cash includes ALI’s funding for land acquisitions, real estate expansion projects and property acquisitions, partly funded by proceeds for issued bonds and loans.",0.08660216629505157,0.9042558670043945,0.009141966700553894
+"This account is at 7% and 5% of the total assets as of December 31, 2019 and 2018, respectively.",0.024096112698316574,0.9463340640068054,0.02956978790462017
+"Short-term investments – 125% increase from ₱5,956 million to ₱13,388 million
+Increase due to additional placements by AC Energy and AYC partly offset by maturity of placements of ALI.",0.9525998830795288,0.025547806173563004,0.02185230143368244
+"This account is 1% and below 1% of the total assets as of December 31, 2019 and 2018, respectively.",0.017058445140719414,0.329743891954422,0.6531976461410522
+"Accounts and notes receivable (current) – 15% decrease from ₱153,992 million to ₱130,869 million Decrease attributable to ALI’s decline affected by bookings from residential and sale of trade accounts to banks; IMI’s lower receivables caused by lower consumer/ telecom business lines from China sales and collections of Philippine accounts; partly offset by increase of AC Energy’s RES business and advances for projects.",0.10639399290084839,0.013911784626543522,0.8796942830085754
+"This account is at 10% and 13% of the total assets as of December 31, 2019 and 2018, respectively.",0.024842070415616035,0.9466782808303833,0.02847963199019432
+"Inventories – 12% increase from ₱120,560 million to ₱135,064 million
+Increase attributable to ALI’s higher real estate inventories partly offset by IMI’s recoveries of backlogs.",0.9535707831382751,0.020919937640428543,0.025509245693683624
+"This account is at 10% of the total assets as of December 31, 2019 and 2018.",0.02493741735816002,0.9454934597015381,0.029569121077656746
+"Other current assets – 9% increase from ₱57,728 million to ₱62,933 million
+Increase mainly coming from ALI’s higher prepayments for projects expenses, CWT and input tax.",0.9534558057785034,0.02938106842339039,0.01716313697397709
+"This account is at 5% of the total assets as of December 31, 2019 and 2018.",0.022740045562386513,0.9445871114730835,0.03267285227775574
+"Assets under PFRS 5 – 16x increase from ₱10,162 million to ₱170,467 million
+December 31, 2019 balance represents total assets of MWCI (₱109,762 million) and GNPK’s (₱60,705 million) as these two entities are considered assets held for sale following certain transactions and condition as discussed in Note 25 and Note 2 of the consolidated audited financial statements.",0.7047476172447205,0.2828756868839264,0.012376694008708
+"As shown in the table above, MWCI’s key assets are service concession asset and investment in associates and joint ventures, while GNPK’s assets are in property, plant and equipment – causing declines in these accounts year-on-year.",0.012464134022593498,0.024570535868406296,0.9629653692245483
+"Meanwhile, 2018 balance represents accounts of GMCP Mariveles, GNPDinginin and AC Education.",0.023493409156799316,0.9509073495864868,0.025599230080842972
+"This account is at 13% and 1% of the total assets as of December 31, 2019 and 2018, respectively.",0.024672284722328186,0.9466277360916138,0.0286999624222517
+"Accounts and notes receivable (noncurrent) – 33% increase from ₱41,803 million to ₱55,720 million Increase resulting mainly from ALI’s and AC Energy’s higher receivables.",0.9553040266036987,0.021158477291464806,0.02353753335773945
+"This account is at 4% and 3% of the total assets as of December 31, 2019 and 2018, respectively.",0.02353467233479023,0.9468197226524353,0.029645580798387527
+"Investment Properties – 8% increase from ₱227,646 million to ₱246,732 million
+Increase attributable to ALI group’s expansion projects mainly on malls and office buildings.",0.9538572430610657,0.02823122777044773,0.017911473289132118
+"This account is at 18% and 19% of the total assets as of December 31, 2019 and 2018, respectively.",0.0243022833019495,0.9469830393791199,0.02871461771428585
+"Property, plant and equipment – 15% decrease from ₱104,492 million to ₱88,782 million
+Decrease coming from AC Energy’s reclassification of GNPK accounts; partly offset by ALI’s acquisitions.",0.14920274913311005,0.016811424866318703,0.8339858055114746
+"This account is at 7% and 9% of the total assets as of December 31, 2019 and 2018, respectively.",0.02385256253182888,0.9461507797241211,0.029996588826179504
+"Other noncurrent assets – 18% increase from ₱40,088 million to ₱47,304 million
+Increase pertains to: ALI’s higher project advances and deferred tax; and AYCFL’s hold-out cash for a loan availed by AC.",0.9462425708770752,0.03848562017083168,0.015271776355803013
+"The account also includes the Group’s pension asset amounting to ₱81 million and ₱82 million in December 31, 2019 and 2018, respectively.1 This account is at 4% and 3% of the total assets as of December 31, 2019 and 2018, respectively.",0.01983555033802986,0.948603093624115,0.03156137093901634
+"Short-term debt – 25% decrease from ₱39,518 million to ₱29,789 million
+Decrease due to settlements made by IMI and AC Energy as well as AC Industrials’ lower borrowing; partly offset by ALI’s subsidiaries borrowings.",0.053040944039821625,0.011152966879308224,0.9358060956001282
+"This account is at 4% and 5% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.020607488229870796,0.940700888633728,0.03869159519672394
+"Accounts payable and accrued expenses – 5% decrease from ₱204,758 million to ₱195,416 million
+Decrease mainly due to ALI’s lower development and project costs of residential and commercial business groups coupled partly offset by AC Energy’s and AC Industrial’s higher trade payables.",0.048450272530317307,0.010885879397392273,0.940663754940033
+"This account is at 23% and 28% of the total liabilities as of September 30, 2019 and December 31, 2018, respectively.",0.019811399281024933,0.940273106098175,0.03991544246673584
+"Contract liabilities (current and noncurrent) – 121% increase from ₱114 million to ₱252 million
+Increase coming from IMI contract liabilities.",0.9556757211685181,0.021946612745523453,0.022377636283636093
+"This account is at below 1% of the total liabilities as of December 31, 2019 and 2018.",0.0134663674980402,0.21216945350170135,0.774364173412323
+"Income tax payable – 30% decrease from ₱3,407 million to ₱2,397 million
+Decrease mainly arising from lower tax payable of ALI and IMI groups.",0.018160780891776085,0.009852233342826366,0.9719870686531067
+"This account is below 1% of the total liabilities as of December 31, 2019 and 2018.",0.012590263970196247,0.15063241124153137,0.83677738904953
+"Other current liabilities – 11% decrease from ₱31,929 million to ₱28,395 million
+Mainly due to ALI’s lower other current liabilities (deposits, reservation fees and advance rental payments).",0.03552964702248573,0.011479541659355164,0.9529907703399658
+"This account is at 3% and 4% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.01995290070772171,0.9398232698440552,0.040223848074674606
+"Liabilities under PFRS 5 – 112x increase from ₱1,075 million to ₱121,488 million
+Similar with assets, the 2019 balance represents total liabilities of MWCI (₱78,602 million) and GNPK’s (₱42,885 million) reclassified to this account, similar to the treatment of assets (see Note 25 and Note 2 of the consolidated audited financial statements).",0.6008055210113525,0.38278692960739136,0.016407500952482224
+"As shown in the table above, both entities main liabilities are in long term debt and service concession obligation which caused declines in this accounts year-on-year.",0.01869247294962406,0.02756330743432045,0.9537441730499268
+"This account is at 15% and below 1% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.015484434552490711,0.25773975253105164,0.7267758250236511
+"Long-term debt (current) – 59% decrease from ₱48,481 million to ₱19,884 million
+Decrease due to loans maturity of ALI and AYC’s actual exchange of its bonds into ALI shares; partly offset by ALI’s bond issuance.",0.03230090066790581,0.011866387911140919,0.9558327198028564
+"This account is at 2% and 7% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.020155834034085274,0.9408777356147766,0.03896649181842804
+"Long-term debt (noncurrent) – 10% increase from ₱324,263 million to ₱355,666 million
+Increase due to ALI’s bond issuance, AYC’s FFL bonds issuance and AC Energy’s green bonds and FFL bonds issuance.",0.9524368047714233,0.026771649718284607,0.02079159766435623
+"This account is at 43% and 44% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.022009097039699554,0.9428600668907166,0.035130880773067474
+"Pension liabilities1 – 45% increase from ₱2,590 million to ₱3,756 million
+Increase attributable to AC parent, ALI and IMI pension liabilities.",0.9508581161499023,0.02727934718132019,0.021862613037228584
+"This account is below 1% of the total liabilities as of December 31, 2019 and 2018.",0.012590263970196247,0.15063241124153137,0.83677738904953
+"Other noncurrent liabilities – 10% decrease from ₱53,844 million to ₱48,447 million
+Decrease attributable to ALI’s lower deposits and other liabilities.",0.0260786022990942,0.009687932208180428,0.9642333984375
+"This account is at 6% and 7% of the total liabilities as of December 31, 2019 and 2018, respectively.",0.020609799772500992,0.940173864364624,0.039216335862874985
+"Cost of share-based payments – 10% decrease from ₱239 million to ₱215 million
+Decrease coming from issuance on the exercise of stock ownership plans.",0.4897345304489136,0.024219583719968796,0.4860458970069885
+"This account is below 1% of the total equity as of December 31, 2019 and 2018.",0.010883809067308903,0.10922890901565552,0.8798872828483582
+"Remeasurement losses on defined benefit plan – 140% decrease from negative ₱1,299 million to negative ₱3,117 million
+Decrease caused by discount rate assumptions.",0.04734087362885475,0.009835982695221901,0.9428231716156006
+"This account is at 1% and below 1% of the total equity as of December 31, 2019 and 2018, respectively.",0.017153559252619743,0.32190102338790894,0.660945475101471
+"Fair value reserve of financial assets at fair value through other comprehensive income (FVOCI) – 112% increase from negative ₱545 million to positive ₱67 million
+Increase attributable to higher market value of securities held by BPI group.",0.9545102119445801,0.022819368168711662,0.022670365869998932
+"This account is at below 1% of the total equity as of December 31, 2019 and 2018.",0.012625285424292088,0.18515965342521667,0.8022151589393616
+"Cumulative translation adjustments – 42% increase from ₱2,277 million to ₱3,235 million
+Increase due to increase in foreign-denominated accounts particularly investments of AC Energy and ACIFL partly offset by movement in forex for PhP vs. USD.",0.9545484185218811,0.02020220458507538,0.02524934522807598
+Forex of PhP vs USD amounted to ₱50.635 in December 2019 vs. ₱52.58 in December 2018.,0.505296528339386,0.11949901282787323,0.3752044141292572
+"This account is at 1% and below 1% of the total equity as of December 31, 2019 and 2018, respectively.",0.017153559252619743,0.32190102338790894,0.660945475101471
+"Equity reserve and Equity conversion option – 111% increase from ₱11,959 million to ₱25,283 million
+Increase due to gain on sale of ALI shares in relation to AYC’s exchangeable bonds conversions and AC Energy’s consolidation of PHEN.",0.9512841105461121,0.02990817092359066,0.01880768872797489
+"This account is at 5% and 3% of the total equity as of December 31, 2019 and 2018, respectively.",0.027077484875917435,0.9492995738983154,0.023622915148735046
+"Retained Earnings – 14% increase from ₱196,915 million to ₱225,455 million
+Increase due to overall growth in net income of the group.",0.9550337791442871,0.023942966014146805,0.02102317474782467
+"This account is 44% and 42% of the total equity as of December 31, 2019 and 2018, respectively.",0.02773069590330124,0.9510872960090637,0.02118200995028019
+"Treasury stock – 149% increase from ₱2,300 million to ₱5,738 million
+Increase due to AC parent’s buy-back of common shares (see Note 21).",0.9475734233856201,0.0293963011354208,0.02303026057779789
+"This account is 1% and below 1% of the total equity as of December 31, 2019 and 2018, respectively.",0.016812754794955254,0.3113384544849396,0.671848714351654
+"Share in net profits of associates and joint ventures – 13% increase from ₱19,761 million to ₱22,344 million
+Increase coming from Globe’s higher revenues and lower non-operating expenses and BPI’s higher interest and non-interest income; partly offset by AC Energy’s investees lower earnings.",0.9402792453765869,0.01733166165649891,0.04238908365368843
+"As a percentage to total revenue, this account is at 8% and 7% in December 31, 2019 and 2018, respectively.",0.02761089988052845,0.9375556111335754,0.03483346477150917
+"Interest income from real estate and interest income – 20% increase from ₱9,336 million to ₱11,243 million
+Increase attributable to interest income from ALI and AC Energy groups.",0.9533290266990662,0.027323193848133087,0.0193477813154459
+"General and administrative expenses – 24% increase from ₱25,957 million to ₱32,113 million
+Increase mainly from AC Energy’s higher manpower costs, professional fees, restructuring costs for sale of thermal assets, partly on consolidation of SLTEC; AC Industrials increase due to higher manpower costs, advertising, transportation and provisions; and AC Health’s clinic expansion and consolidation of Generika.",0.9529471397399902,0.020423805341124535,0.026629026979207993
+GAE also increased due to the Group’s adoption of PFRS 16 amounting to ₱394 million (see Note 3).,0.9545789957046509,0.02800247073173523,0.017418500036001205
+"Factoring out impact of the new consolidated units, GAE increased by 16% year-on year.",0.9563894867897034,0.02601984329521656,0.017590684816241264
+"As a percentage to total costs and expenses, this account is at 14% and 12% in December 31, 2019 and 2018, respectively.",0.02181321009993553,0.9294188022613525,0.048767995089292526
+"Dividend and other income – 248% increase from ₱9,306 million to ₱32,411 million
+Increase pertains to AC Energy’s gain on the partial sale of AA Thermal, Inc. to Aboitiz Power Corporation, remeasurement gain on SLTEC, and higher liquidated damages on delayed completion of GNPK plant partly offset by impact of last year’s Sithe commission fees; Parent Company’s gain on AC Education and iPeople merger.",0.9489636421203613,0.03058573231101036,0.020450713112950325
+These were partly offset by impact of last year’s IMI’s gain on disposal of China asset plus this year’s provisions.,0.8051984310150146,0.06160368397831917,0.1331978589296341
+"Interest and other financing charges – 29% increase from ₱17,379 million to ₱22,410 million
+Increase due to higher interest expenses of the Parent Company, ALI and AC Energy as a result of higher debt balance level this year as compared to last year.",0.9438376426696777,0.01717541180551052,0.038986992090940475
+The Group’s adoption of PFRS 16 also increased interest expense amounting to ₱788 million shown in the table below (see Note 3).,0.9557651281356812,0.022724470123648643,0.021510405465960503
+"Provision for income tax (current and deferred) – 5% increase from P=13,367 million to P=13,984 million
+Increase mainly attributed to ALI from its better operating results partly offset by decrease in provision for income tax of AC Energy and IMI groups.",0.9533387422561646,0.021529443562030792,0.02513178624212742
+"Operations of the segment under PFRS 5 – from ₱6,181 million income to ₱30,433 million loss Includes the net income after tax of MWCI less consolidation adjustments.",0.6413136124610901,0.27014660835266113,0.0885397344827652
+"For the year 2019, this line also includes the impact of P35.2Bn after-tax remeasurement loss on MWCI Investment (see Item 3 above).",0.01730363629758358,0.8534005284309387,0.12929585576057434
+"Income attributable to Owners of the parent – 11% increase from ₱31,818 million to ₱35,279 million
+Increase resulting from better operating results of ALI and higher equity in net earnings of Globe and BPI and on AC Energy’s gain from sale of AA Thermal; partly offset by remeasurement loss in MWC.",0.953016459941864,0.024388279765844345,0.02259524166584015
+"As a percentage to total net income, this account is at 84% and 58% in December 31, 2019 and 2018, respectively.",0.025529103353619576,0.9386278390884399,0.03584304824471474
+"Income attributable to Non-controlling interests – 71% decrease from P=23,247 million to P=6,703 million
+Decrease mainly due to the share in the remeasurement loss in MWC; partly offset by better operating results of ALI.",0.11395060271024704,0.015844013541936874,0.8702054023742676
+"As a percentage to total net income, this account is at 16% and 42% in December 31, 2019 and 2018, respectively.",0.025317000225186348,0.9364296793937683,0.038253385573625565
+"While the Philippines fell short of its economic growth target in 2019, it continues to provide a favorable backdrop for Ayala to operate in given the country’s strong fundamentals and consumption driven narrative.",0.9297001361846924,0.051255710422992706,0.019044119864702225
+The central bank’s intention to sustain easing rates throughout the year should support private sector investment spending moving forward.,0.9364614486694336,0.05011824890971184,0.013420345261693
+"Additionally, the combination of strong remittances and manageable inflation, which are both expected to continue throughout the year, should further augment the country’s growth trajectory.",0.9528667330741882,0.02830822579562664,0.018824974074959755
+The delay of last year’s budget was one of the reasons for the country’s underperformance in 2019.,0.010400785133242607,0.021734800189733505,0.967864453792572
+"The postponement ultimately hindered infrastructure spending, which continues to be a critical component in the government’s overall growth strategy.",0.007901397533714771,0.025987563654780388,0.9661110639572144
+"With the budget for 2020 already in place, the economy may see higher growth this year granted proper and timely execution of infrastructure projects in the pipeline.",0.9491139650344849,0.03761759772896767,0.013268465176224709
+"Furthermore, the successful rollout of the government’s infrastructure plans should serve as the country’s pillar for long-term sustainable growth.",0.8988432288169861,0.09173084795475006,0.009425884112715721
+The US-China trade war reached its peak last year as higher tariffs were imposed to one another in a series of trade sanctions.,0.14789219200611115,0.15547765791416168,0.6966301202774048
+"The effect was more apparent in larger markets, but pockets of industries onshore were also affected.",0.02218109928071499,0.04285244643688202,0.9349664449691772
+"Since then, tensions have deescalated after a series of trade talks between the superpowers.",0.49402618408203125,0.056068841367959976,0.4499049782752991
+"Another issue in 2019 was Brexit, which dampened sentiment globally as it created a lot of uncertainties in how the European bloc will continue without one of its biggest members on board.",0.017633555456995964,0.025725269690155983,0.9566411972045898
+"With more clarity related to this, companies that have businesses in related countries should be able to better manage their plans.",0.29941821098327637,0.692001223564148,0.008580490946769714
+"One of the biggest headwinds for the year is the spread of Covid-19 in December 2019, which continued through early 2020.",0.01490129716694355,0.02512035332620144,0.9599784016609192
+"As of March 2020, the global death toll is at over 3,200 with more than 92,000 people infected across 75 countries.",0.022824155166745186,0.2008894383907318,0.7762864232063293
+"The contagion is expected to weigh down further on global economies as multiple industries such as airlines, hotels, and manufacturing are already being drastically affected as early as now.",0.009480255655944347,0.037273019552230835,0.9532467126846313
+"In a bid to curb the economic impact of the epidemic, central banks have expressed their willingness to cut interest rates to stimulate their economies.",0.15617600083351135,0.2791576385498047,0.5646663308143616
+"Against the backdrop of these developments, the Ayala group will continue to execute on its five-year growth strategy for 2020 as it closely monitors key trends and potential risks in the global and domestic economies as well as in the industries where it operates.",0.7788195610046387,0.21274544298648834,0.008434983901679516

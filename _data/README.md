@@ -11,8 +11,7 @@ theoretical basis for getting the date of submission
 - Date of submission was requested for a fee from the Philippine Stock Exchange's Librarian.
 
 ### _Stock Price Data_
-- PSEi historical price manually downloaded from Marketwatch.com
-- Company historical price acquired through using `STOCKHISTORY()` function in MS Excel
+- PSEi and Company historical price acquired through using `STOCKHISTORY()` function in MS Excel
 
 ## Data Extraction
 - Management Discussion and Analysis or Plan of Operations were manually copied and pasted due to differences in formatting of the Form17A per company. 
@@ -22,10 +21,11 @@ theoretical basis for getting the date of submission
 ## Notes to the Data Extraction process
 - Headers and table descriptions were not included. Some of those include key words such as _`increase`_ or _`decrease`_ which may affect the analysis on the sentence level
 - Footnotes and descriptions pointed by `*` are not included. 
-- Some special symbols such as `•` and `▪` were also omitted
+- Some special symbols such as `•`, `▪`, and `` were also omitted
 - Tables are not included as well. This is consistent with the methodology of Loughran and McDonald.
 - Discussion/Review of the previous year in the MD&A were not included to avoid redundancy of analysis.
 - No spelling errors as observed in the raw text were corrected. 
+- Text format differences were ignored in the text selection process
 
 ## Company level considerations
 AC
@@ -48,9 +48,25 @@ AP
  
 _The following is a discussion and analysis of the Company’s consolidated financial condition and results of operations and certain trends, risks, and uncertainties that may affect its business. The critical accounting policies section discloses certain accounting policies and management judgments that are material to the Company’s results of operations and financial condition for the periods presented in this report. The discussion and analysis of the Company’s results of operations is presented in three comparative sections: the year ended December 31, 2017 compared with the year ended December 31, 2016, the year ended December 31, 2016 compared with the year ended December 31, 2015, the year ended December 31, 2015 compared with the year ended December 31, 2014._ 
  
+BPI
+- Presentation of the details of BSP Circular No. 1074 was not included as it does not contribute to the sentiment of the management
 
+CNVRG
+- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
+- Information on Independent Accountant and Other Related Matters portion of the MD&A was not included in the text
+
+GLO
+- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
+- On page, 77 of the 2021 MD&A report, there was a typographical error commited when pertaining to Las Pinas city. This was not corrected.
+
+_Daraga in Albay have partnered with Globe for its Automated Mobile Blaster (AMBER) services to disseminate vaccination program alerts to more people in their areas. The city governments of Cauayan in Isabela, and Las Pi√±as have also opted for AMBER to communicate their public announcements to their constituents._
+
+GTCAP
+- MD&A on GTCAP is found on item 7 instead of item 6 in the reports of the other companies selected in the study. 
+- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
 
 ## Key Observations
 - Despite the formal kind of report, some of lines in the text are incomplete sentences.
 - Some sentences are motherhood statements like _`AIC remains committed to participating in the Philippine infrastructure space and contributing to the nation’s development.`_ and does not really contribute to the true sentiment or the current status of the business.
+- BDO has the most succint and direct to the point MD&A with the least motherhood statements. 
 

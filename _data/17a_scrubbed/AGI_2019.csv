@@ -1,6 +1,5 @@
-filename,ticker,year,sentence
-AGI_2019.txt,AGI,2019,"The following discussion and analysis must be read in conjunction with the submitted audited
-consolidated financial statements and the related notes to the consolidated financial statements."
+Filename,Ticker,Year,Sentence
+AGI_2019.txt,AGI,2019,The following discussion and analysis must be read in conjunction with the submitted audited consolidated financial statements and the related notes to the consolidated financial statements.
 AGI_2019.txt,AGI,2019,"The Group continues its growth trajectory as net profit for 2019 escalated by 15%, or P3.4 billion year- on-year, to P27.1 billion from P23.7 billion a year ago and revenues surged 15%, or P23.2 billion year- on-year to P180.0 billion from P156.8 billion a year ago."
 AGI_2019.txt,AGI,2019,"Net profit to owners reached P17.7 billion, up 17% or P2.6 billion year-on-year."
 AGI_2019.txt,AGI,2019,"Megaworld, the country’s largest developer and pioneer of integrated urban townships, reported its group net profit and the portion attributable to owners respectively rising 22% and 18% to P19.3 billion (from P15.8 billion) and to P17.9 billion (from P15.2 billion), respectively."
@@ -36,8 +35,7 @@ AGI_2019.txt,AGI,2019,EMP Group accounted for 29% of AGI’s consolidated revenu
 AGI_2019.txt,AGI,2019,"Travellers, the owner and operator of RWM, grew its reported total revenues by 29% year-on-year to P29 billion from P22 billion a year ago, realizing net profit of P941 million and P1.4 billion there from in respective years."
 AGI_2019.txt,AGI,2019,"Gross gaming revenues grew 38% to P27.6 billion from P20.0 billion a year ago, supported by the sustained growth in all gaming segments as property visitation increased 32% averaging 37,627 per day and gaming capacity expanded with the opening of the second floor gaming area of the Grand Wing."
 AGI_2019.txt,AGI,2019,"Promotional allowance, presented as a deduction from gross gaming revenues, rose 48% during the year to P6.1 billion from P4.1 billion a year ago."
-AGI_2019.txt,AGI,2019,"Promotional allowance refers to the value of points earned by loyalty card members, revenue share of junket operators, and rebates granted to patrons
-Non-gaming revenues from hotel accommodations reported a 43% leap to P5.0 billion from P3.5 billion a year ago primarily due to higher average daily rates, higher occupancy rates and additional rooms from Sheraton Manila Hotel that opened in January 2019."
+AGI_2019.txt,AGI,2019,"Promotional allowance refers to the value of points earned by loyalty card members, revenue share of junket operators, and rebates granted to patrons Non-gaming revenues from hotel accommodations reported a 43% leap to P5.0 billion from P3.5 billion a year ago primarily due to higher average daily rates, higher occupancy rates and additional rooms from Sheraton Manila Hotel that opened in January 2019."
 AGI_2019.txt,AGI,2019,"Hotel occupancy rates averaged 80% for the five hotels in RWM - Marriott Hotel Manila, Maxims Hotel, Hilton Manila, Holiday Inn Express Manila Newport City, and Sheraton Manila Hotel - with a total room count of 2,226."
 AGI_2019.txt,AGI,2019,RWM will have the highest number of hotel rooms for a single property once the construction of all the hotels are completed.
 AGI_2019.txt,AGI,2019,"The Courtyard by Marriott Iloilo, Marriott’s first brand in the province of Iloilo, opened last May 2018 and has an occupancy rate of 28% in 2019."
@@ -75,8 +73,7 @@ AGI_2019.txt,AGI,2019,The Group is strongly liquid with current assets exceeding
 AGI_2019.txt,AGI,2019,Current assets amounted to P301.2 billion while current liabilities amounted to P130.7 billion at end of the current year.
 AGI_2019.txt,AGI,2019,"For most of the balance sheet accounts, there is a corresponding note found in the audited consolidated financial statements where details, breakdown or composition of the accounts are presented."
 AGI_2019.txt,AGI,2019,Please refer to those notes accompanying the consolidated financial statements.
-AGI_2019.txt,AGI,2019,"In summary:
-Cash and cash equivalents increased 14% or P6.5 billion to end the year at P51.3 billion from P44.8 billion at the beginning of the year, primarily due to net cash flows generated internally and net proceeds from debts during the year."
+AGI_2019.txt,AGI,2019,"In summary: Cash and cash equivalents increased 14% or P6.5 billion to end the year at P51.3 billion from P44.8 billion at the beginning of the year, primarily due to net cash flows generated internally and net proceeds from debts during the year."
 AGI_2019.txt,AGI,2019,"Cash flows from operating, financing and investing activities during the period were presented in the consolidated statements of cash flows."
 AGI_2019.txt,AGI,2019,"Current trade and other receivables went up 17% or P10.6 billion mainly from real estate trade receivables (reflective of robust sales) and from alcoholic products sales (higher sales in the lead up to Christmas holidays), and advances to contractors and suppliers."
 AGI_2019.txt,AGI,2019,"Non-current trade and other receivables, on the other hand, also increased by 26% or P3.4 billion primarily from the robust real estate sales during the year."
@@ -95,8 +92,7 @@ AGI_2019.txt,AGI,2019,Other non-current assets grew 16% or P995 million due to t
 AGI_2019.txt,AGI,2019,Non-current asset held for sale amounting to P4.0 billion at end of year consists of land development cost made for the construction of Site A that RWM has discontinued in 2019 following the Co- Development Agreement with SHDI.
 AGI_2019.txt,AGI,2019,"Trade and other payables went up 25% or P12.2 billion as trade payables, accrued expenses and retention payable to contractors escalated."
 AGI_2019.txt,AGI,2019,Accrued expenses increased due to timing of accruals at year-end.
-AGI_2019.txt,AGI,2019,"Contract liabilities represent MEG’s excess of collection over the progress of work under MEG, with current portion decreasing 36% or P959 million and non-current portion increasing 30% or P804 million
-Current interest-bearing loans ballooned 67% or P16.3 billion while non-current interest-bearing loans dipped 3% or P4.6 billion, for a net increase of P11.8 billion, as a result of additional loans obtained by Travellers for the share buyback and expansion related projects plus an additional loan obtained by Megaworld with a cross-currency hedge."
+AGI_2019.txt,AGI,2019,"Contract liabilities represent MEG’s excess of collection over the progress of work under MEG, with current portion decreasing 36% or P959 million and non-current portion increasing 30% or P804 million Current interest-bearing loans ballooned 67% or P16.3 billion while non-current interest-bearing loans dipped 3% or P4.6 billion, for a net increase of P11.8 billion, as a result of additional loans obtained by Travellers for the share buyback and expansion related projects plus an additional loan obtained by Megaworld with a cross-currency hedge."
 AGI_2019.txt,AGI,2019,"Current and Non-current lease liabilities were accounts brought about by the adoption of PFRS 16- Leases beginning January 1, 2019."
 AGI_2019.txt,AGI,2019,"These amounted to P1.3 billion and P14.6 billion, respectively, at the end of the year."
 AGI_2019.txt,AGI,2019,"Income tax payable surged 42% or P708 million, mainly from higher unpaid income taxes at current year-end which is attributed to higher taxable profit."
@@ -126,10 +122,7 @@ AGI_2019.txt,AGI,2019,"Travellers is building for further growth, as it continue
 AGI_2019.txt,AGI,2019,"It is looking forward to the completion of RWM Phase III, the renovation works in it and development of more retail alternatives."
 AGI_2019.txt,AGI,2019,"GADC is set on its vision to sustain its double-digit growth through continued scaling and partnership with franchisees, heightened focus on driving customer traffic, and optimizing the business model to improve margins."
 AGI_2019.txt,AGI,2019,"By taking advantage of the innovations it has invested in the past few quarters, McDonald’s’ performance is expected to be driven by the NXTGEN experience along with the brand “love it” to build and strengthen through the years."
-AGI_2019.txt,AGI,2019,"Brand presence will continue to expand with additional stores to be built and re-designed to enhance customer experience
-
-There are no other known material events subsequent to the end of the year that would have a material
-impact on the current year."
+AGI_2019.txt,AGI,2019,Brand presence will continue to expand with additional stores to be built and re-designed to enhance customer experience  There are no other known material events subsequent to the end of the year that would have a material impact on the current year.
 AGI_2019.txt,AGI,2019,"There are no other known trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Group’s liquidity increasing or decreasing in any material way."
 AGI_2019.txt,AGI,2019,The Group does not have nor anticipate having any cash flow or liquidity problems within the next twelve months.
 AGI_2019.txt,AGI,2019,"AGI and its subsidiaries are not in default or breach of any note, loan, lease or other indebtedness or financing arrangement requiring it to make payments."

@@ -1,4 +1,4 @@
-filename,ticker,year,sentence
+Filename,Ticker,Year,Sentence
 AP_2018.txt,AP,2018,"Share in net earnings in associates and joint ventures declined by 7% in 2018 compared to 2017 due to decreases in contributions from WMPC, SPPC, RP Energy, SFELAPCO, and large hydropower plants, SN Aboitiz Power-Magat and SN Aboitiz Power-Benguet."
 AP_2018.txt,AP,2018,Lower income contributions attributable to large hydropower plants were due to a lower hydrology in 2018 compared to the higher than usual hydrology levels during 2017.
 AP_2018.txt,AP,2018,"Consolidated EBITDA increased by 8% in 2018, primarily due to the fresh contributions from PEC and Hedcor Bukidnon, which commenced commercial operations in March 2018 and July 2018, respectively, and further augmented by higher contributions from GMCP due to higher availability factor in 2018 as compared to the previous year."
@@ -10,8 +10,7 @@ AP_2018.txt,AP,2018,"Debt-to-equity ratio as of December 31, 2018 was at 1.85, l
 AP_2018.txt,AP,2018,"Net income for 2018 increased 6% Year-on-Year (YOY), from ₱20.42 bn in 2017 to ₱21.71 bn in 2018."
 AP_2018.txt,AP,2018,This translated to earnings per share of ₱2.95.
 AP_2018.txt,AP,2018,"During 2018, the Company recognized non-recurring losses of ₱2.08 bn (versus 2017’s loss of ₱2.93 bn) mainly resulting from: (i) foreign exchange (forex) losses from revaluation of dollar-denominated liabilities; and (ii) asset impairment."
-AP_2018.txt,AP,2018,"Adjusting for these one-off losses, the Company’s core net income for 2018 amounted to ₱23.78 bn, up by 2% YoY."
-AP_2018.txt,AP,2018,"The power generation group and RES’ income contribution for 2018 was ₱19.96 bn, up 12% YoY."
+AP_2018.txt,AP,2018,"Adjusting for these one-off losses, the Company’s core net income for 2018 amounted to ₱23.78 bn, up by 2% YoY.  The power generation group and RES’ income contribution for 2018 was ₱19.96 bn, up 12% YoY."
 AP_2018.txt,AP,2018,The growth was largely driven by fresh income contributions from PEC and Hedcor Bukidnon.
 AP_2018.txt,AP,2018,"Netting out forex losses and impairment costs recognized in 2018, the generation group and RES’ core net income contribution remained flat at ₱20.95 bn."
 AP_2018.txt,AP,2018,"Capacity sold during 2018 was flat YoY, from 3,167 MW in 2017 to 3,152 MW in 2018."
@@ -39,51 +38,32 @@ AP_2018.txt,AP,2018,The increase in the contributions from GMCP during 2018 also
 AP_2018.txt,AP,2018,The movements in cumulative translation adjustments led to the increase in total net other comprehensive income for 2018 at ₱1.06 bn (versus ₱378 mn in 2017).
 AP_2018.txt,AP,2018,Total consolidated comprehensive income was ₱26.49 bn for the year.
 AP_2018.txt,AP,2018,"Total assets (as of December 31, 2018 compared to December 31, 2017) increased by ₱28.19 bn, or 8% YOY."
-AP_2018.txt,AP,2018,"The major movements of the accounts leading to the increase were as follows:
-(a) Cash and cash equivalents increased by 30% during 2018."
-AP_2018.txt,AP,2018,"Cash generated from operations increased
-supplemented by the lower cash used in financing activities due to loan proceeds."
-AP_2018.txt,AP,2018,"The consolidated cash
-position of the Company increased by ₱10.64 bn."
-AP_2018.txt,AP,2018,"(b) Trade and other receivables increased by 25% (from ₱17.36 bn in 2017 to ₱21.72 bn in 2018) mainly due to
-advances to partners in GMCP and the take-up of the PSALM deferred adjustments at Davao Light and VECO."
+AP_2018.txt,AP,2018,The major movements of the accounts leading to the increase were as follows: (a) Cash and cash equivalents increased by 30% during 2018.
+AP_2018.txt,AP,2018,Cash generated from operations increased supplemented by the lower cash used in financing activities due to loan proceeds.
+AP_2018.txt,AP,2018,The consolidated cash position of the Company increased by ₱10.64 bn. (b) Trade and other receivables increased by 25% (from ₱17.36 bn in 2017 to ₱21.72 bn in 2018) mainly due to advances to partners in GMCP and the take-up of the PSALM deferred adjustments at Davao Light and VECO.
 AP_2018.txt,AP,2018,PSALM deferred adjustment pertains to Generation Rate Adjustment Mechanism and Incremental Currency Exchange Rate Adjustment to be recovered from customers or to be collected from PSALM.
 AP_2018.txt,AP,2018,(c) Net derivative assets went down by ₱161 mn during 2018 mainly due to mark-to-market losses on the Group’s swap and forward contracts.
 AP_2018.txt,AP,2018,"(d) Inventories increased by 19% (from ₱5.64 bn in 2017 to ₱6.69 bn in 2018) as the Group recognized inventories held at TPVI, which took over the Naga Power Plant Complex in 2018, and due to higher inventory balances at GMCP, TSI and TVI."
-AP_2018.txt,AP,2018,This was offset by lower inventory balances at the Oil Group.
-AP_2018.txt,AP,2018,"(e) Property held for sale of ₱676 mn as of December 31, 2018 pertains to transmission assets that will be transferred and sold to the NGCP."
+AP_2018.txt,AP,2018,"This was offset by lower inventory balances at the Oil Group. (e) Property held for sale of ₱676 mn as of December 31, 2018 pertains to transmission assets that will be transferred and sold to the NGCP."
 AP_2018.txt,AP,2018,This account was nil in 2017.
 AP_2018.txt,AP,2018,(f) Other current assets was higher by 46% (from ₱9.03 bn in 2017 to ₱13.21 bn in 2018) mainly driven by the increase of restricted cash at TSI.
 AP_2018.txt,AP,2018,The maintenance of a cash reserve forms part of TSI’s compliance with the covenants on its project debt.
 AP_2018.txt,AP,2018,TVI’s recognition of a receivable from NGCP on the construction of transmission line also contributed to the increase in this account.
-AP_2018.txt,AP,2018,"(g) Investments and advances increased mainly as a result of capital infusions into GNPD as it continues the
-construction of a 1x668 MW supercritical coal-fired power plant in Bataan."
-AP_2018.txt,AP,2018,"The account increased from
-₱31.25 bn at the end of 2017 to ₱34.33 bn at the end of 2018."
-AP_2018.txt,AP,2018,"(h) Property, plant and equipment (PPE) slightly increased by 2% (from ₱204.03 bn in 2017 to ₱207.11 bn in
-2018) mainly due to new additions during 2018 for the on-going construction of hydropower facilities under
-Hedcor and Hedcor Bukidnon, and TVI’s coal plant."
-AP_2018.txt,AP,2018,"(i) Available-for-sale investments went from ₱103 mn in 2017 to nil at the end of 2018 as these were reclassified
-to Financial Assets at fair value through profit or loss."
-AP_2018.txt,AP,2018,"(j) Financial assets at fair value through profit or loss went up to ₱101 mn in 2018 from nil as these were
-reclassified from Available-for-Sale investments."
-AP_2018.txt,AP,2018,"(k) Net pension assets increased by ₱71 mn in 2018 due to the increase in the fair value of plan assets for
-contributions made during 2018."
+AP_2018.txt,AP,2018,(g) Investments and advances increased mainly as a result of capital infusions into GNPD as it continues the construction of a 1x668 MW supercritical coal-fired power plant in Bataan.
+AP_2018.txt,AP,2018,The account increased from ₱31.25 bn at the end of 2017 to ₱34.33 bn at the end of 2018.
+AP_2018.txt,AP,2018,"(h) Property, plant and equipment (PPE) slightly increased by 2% (from ₱204.03 bn in 2017 to ₱207.11 bn in 2018) mainly due to new additions during 2018 for the on-going construction of hydropower facilities under Hedcor and Hedcor Bukidnon, and TVI’s coal plant."
+AP_2018.txt,AP,2018,(i) Available-for-sale investments went from ₱103 mn in 2017 to nil at the end of 2018 as these were reclassified to Financial Assets at fair value through profit or loss.
+AP_2018.txt,AP,2018,(j) Financial assets at fair value through profit or loss went up to ₱101 mn in 2018 from nil as these were reclassified from Available-for-Sale investments.
+AP_2018.txt,AP,2018,(k) Net pension assets increased by ₱71 mn in 2018 due to the increase in the fair value of plan assets for contributions made during 2018.
 AP_2018.txt,AP,2018,(l) Deferred income tax assets increased by 59% (from ₱1.41 bn in 2017 to ₱2.23 bn in 2018).
-AP_2018.txt,AP,2018,"The increase was
-driven by the deferred tax benefits recognized by Davao Light in 2018 on the impairment of its assets and at TLI for unrealized forex losses."
+AP_2018.txt,AP,2018,The increase was driven by the deferred tax benefits recognized by Davao Light in 2018 on the impairment of its assets and at TLI for unrealized forex losses.
 AP_2018.txt,AP,2018,"Consolidated liabilities increased by 7% YOY, from ₱237.50 bn at the end of 2017 to ₱253.09 bn at the end of 2018."
-AP_2018.txt,AP,2018,"The major movements of the accounts leading to the increase were as follows:
-(a) Short term loans were up 145%, or ₱6.83 bn, mainly due to new loans of the Company for working capital purposes."
+AP_2018.txt,AP,2018,"The major movements of the accounts leading to the increase were as follows: (a) Short term loans were up 145%, or ₱6.83 bn, mainly due to new loans of the Company for working capital purposes."
 AP_2018.txt,AP,2018,"(b) Trade and other payables increased by 10% (from ₱19.85 bn in 2017 to ₱21.80 bn in 2018), primarily due to the take-up of the PSALM deferred adjustment at Davao Light and VECO."
 AP_2018.txt,AP,2018,PSALM deferred adjustment refers to the amounts to be remitted to PSALM or refunded to customers.
 AP_2018.txt,AP,2018,(c) Income tax payable decreased by 32% (from ₱646 mn in 2017 to ₱439 mn in 2018) primarily due to lower corporate taxes payable at the end of 2018.
 AP_2018.txt,AP,2018,(d) Long-term debt (current and non-current portions) increased by 4% (from ₱152.05 bn in 2017 to ₱158.06 bn in 2018).
-AP_2018.txt,AP,2018,"The increase was mainly attributable to the net effect of the following:
-(i) The Company’s ₱10.20 bn new bonds issued in October 2018;
-(ii) Net increase during 2018 of GMCP’s project debt by ₱10.67 bn, which was a combination of new
-drawdowns and forex adjustment; and (iii) TPI’s loan payment of ₱15.15 bn."
-AP_2018.txt,AP,2018,"(e) Finance lease obligation (current and noncurrent portions) decreased by 5% from a total of ₱49.23 bn in 2017 to ₱46.89 bn at the end of 2018, as TLI made timely payments on its obligation to PSALM during 2018."
+AP_2018.txt,AP,2018,"The increase was mainly attributable to the net effect of the following: (i) The Company’s ₱10.20 bn new bonds issued in October 2018; (ii) Net increase during 2018 of GMCP’s project debt by ₱10.67 bn, which was a combination of new drawdowns and forex adjustment; and (iii) TPI’s loan payment of ₱15.15 bn. (e) Finance lease obligation (current and noncurrent portions) decreased by 5% from a total of ₱49.23 bn in 2017 to ₱46.89 bn at the end of 2018, as TLI made timely payments on its obligation to PSALM during 2018."
 AP_2018.txt,AP,2018,(f) Long term obligation on power distribution system (PDS) decreased by 7% as regular annual payments were made.
 AP_2018.txt,AP,2018,(g) Asset retirement obligation increased by 24% (₱2.96 bn in 2017 to ₱3.68 bn in 2018) due to an increase in the estimated future decommissioning costs on the Group’s steam field assets.
 AP_2018.txt,AP,2018,"(h) Deferred income tax liabilities (DTL) decreased by 6% ₱913 mn in 2017 to ₱858 mn in 2018), mainly due to unrealized gain on forward contract in 2017 that was reversed in 2018."
@@ -113,4 +93,5 @@ AP_2018.txt,AP,2018,Its sound financial condition is expected to give it the agi
 AP_2018.txt,AP,2018,The Company expects that its existing distribution utilities will continue to realize modest growth.
 AP_2018.txt,AP,2018,It continuously seeks efficiency and improvements in its distribution utilities’ operations in order to maintain healthy margins.
 AP_2018.txt,AP,2018,"AboitizPower has alloted over ₱50 bn for capital expenditures in 2019, about 80% of which is for thermal projects, and the remaining balance allocated mainly for exploratory and operating activities."
-AP_2018.txt,AP,2018,"Other known trends, events, uncertainties which may have material impact on the Registrant have been discussed in previous sections of the report (e.g., for an extensive discussion on regulatory issues, see Part 1 (xi) Effects of Existing or Probable Government Regulations on the Business on page 40)."
+AP_2018.txt,AP,2018,"Other known trends, events, uncertainties which may have material impact on the Registrant have been discussed in previous sections of the report (e.g., for an extensive discussion on regulatory issues, see"
+AP_2018.txt,AP,2018,Part 1 (xi) Effects of Existing or Probable Government Regulations on the Business on page 40).

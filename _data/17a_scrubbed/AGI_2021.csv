@@ -1,11 +1,10 @@
-filename,ticker,year,sentence
+Filename,Ticker,Year,Sentence
 AGI_2021.txt,AGI,2021,The following discussion and analysis must be read in conjunction with the submitted audited consolidated financial statements and the related notes to the consolidated financial statements.
 AGI_2021.txt,AGI,2021,"The challenges brought about by the COVID-19 pandemic that started in March 2020, and still continuing as of report date, have had significant impact on global economy as pandemic restrictions weaken economic conditions in many markets."
 AGI_2021.txt,AGI,2021,The Group has conducted business operations in compliance with government directives and protocols.
 AGI_2021.txt,AGI,2021,"The Group has diversified revenue streams, by product types and geographic locations, that help mitigate the impact of the pandemic-related restrictions."
 AGI_2021.txt,AGI,2021,"Its growth trajectory has taken an upswing in 2021 as all business segments have recovered in 2021 as compared to 2020, with the loosening up of restrictions in spite of the COVID-19 infection waves and varying lockdown sways."
-AGI_2021.txt,AGI,2021,"Below is the Group’s performance as organized into its four major business segments, which aptly correspond to its operating subsidiaries, namely Megaworld, Emperador, Travellers or RWM, and GADC or McDonald’s, which in turn represent the main products and services provided by the Group and the lines of business in which the Group operates (i.e."
-AGI_2021.txt,AGI,2021,"real estate development and leasing, manufacture of distilled spirits, tourism-entertainment and gaming, and quick-service restaurant operations)."
+AGI_2021.txt,AGI,2021,"Below is the Group’s performance as organized into its four major business segments, which aptly correspond to its operating subsidiaries, namely Megaworld, Emperador, Travellers or RWM, and GADC or McDonald’s, which in turn represent the main products and services provided by the Group and the lines of business in which the Group operates (i.e. real estate development and leasing, manufacture of distilled spirits, tourism-entertainment and gaming, and quick-service restaurant operations)."
 AGI_2021.txt,AGI,2021,"The Philippine economy grew 5.6% year-on-year (“YoY"") in 2021, a turnaround from the 9.6% contraction in 2020, with YoY recovery recorded in second to fourth quarters of the year, in spite of the spiking COVID cases in April and August when Alpha Beta and Delta variants swept the country."
 AGI_2021.txt,AGI,2021,"Restrictions loosened up towards mid-November to December, in time for the Christmas season, as the entire Philippines was put under Alert Level 2 in December, where operating capacity for business and activities were increased up to 50% indoor and 70% outdoor and age mobility restrictions more relaxed."
 AGI_2021.txt,AGI,2021,"The Group ended the year strongly with P23.8 billion net profit (“NP”), out of which P16.9 billion was attributable to owners (“NPO”), respectively rebounding 132% and 92% YoY, on the back of a 19% growth in revenues and income."
@@ -19,21 +18,16 @@ AGI_2021.txt,AGI,2021,"Sales reservations amounted to P80.0 billion during the y
 AGI_2021.txt,AGI,2021,The Megaworld-GERI-Empire East- Suntrust/SLI brands turned over 64-12-12-12 share [52-15-17-16 in 2020] of real estate sales.
 AGI_2021.txt,AGI,2021,"The brands sold well in Quezon City, Pasig City, Makati City, San Juan, Mandaluyong and Taguig which constitute 51% of real estate sales this year."
 AGI_2021.txt,AGI,2021,"Rental income grew 3% YoY to P13.3 billion from P12.9 billion as occupancy rates of offices remained stable at 90%, supported by overall resilient outsourcing sector."
-AGI_2021.txt,AGI,2021,"Rentals from its office leasing arm, Megaworld Premier Offices amounted to P11.0 billion, up 6% YoY."
-AGI_2021.txt,AGI,2021,Around 108-thousand sqm of office spaces were new leases while 128-thousand sqm were renewals of various company tenants during the year.
+AGI_2021.txt,AGI,2021,"Rentals from its office leasing arm, Megaworld Premier Offices amounted to P11.0 billion, up 6% YoY. Around 108-thousand sqm of office spaces were new leases while 128-thousand sqm were renewals of various company tenants during the year."
 AGI_2021.txt,AGI,2021,Total leasable office inventory is 1.4 million sqm.
 AGI_2021.txt,AGI,2021,Megaworld Lifestyle Malls brought in P2.3B rentals due to a still low foot traffic.
 AGI_2021.txt,AGI,2021,"Revenues from the hotel business jumped 30% to P1.9 billion from P1.5 billion a year ago, with occupancy rate of 84%, due to increasing mobility of people and easement of gathering restriction."
-AGI_2021.txt,AGI,2021,Hotel revenues in last quarter soared 108% YoY and 18% QoQ.
-AGI_2021.txt,AGI,2021,"Megaworld group’s operating results brought in 33%, 59% and 54% of AGI’s consolidated revenues and income, NP and NPO, respectively."
+AGI_2021.txt,AGI,2021,"Hotel revenues in last quarter soared 108% YoY and 18% QoQ. Megaworld group’s operating results brought in 33%, 59% and 54% of AGI’s consolidated revenues and income, NP and NPO, respectively."
 AGI_2021.txt,AGI,2021,"Emperador, the world’s largest brandy company and owner of the world’s 5th largest producer of Scotch whisky in the world by capacity (Source: Scotch Whisky Industry Review, 2020), performed better in 2021 amidst a still volatile environment3, anchored on the strength of its diversified portfolio and international operations."
 AGI_2021.txt,AGI,2021,"NP for the year surged 26% YoY to a record-high of P10.1 billion, as revenues and income jumped 6% YoY to P55.9 billion."
-AGI_2021.txt,AGI,2021,"NPO accelerated to P10.0 billion, up 25% YoY."
-AGI_2021.txt,AGI,2021,"Gross profit rate (“GPR”) improved to 36% from 31% a year ago, and NPR and NPOR higher at 18% this year as compared to 15% a year ago."
-AGI_2021.txt,AGI,2021,Normalized net profit [i.e.
-AGI_2021.txt,AGI,2021,"P0.7 billion non-cash consolidation tax adjustment in 2021 added back] soared 35% to P10.8 billion, of which P 10.6 billion was attributable to owners, up 34% year-on-year."
-AGI_2021.txt,AGI,2021,"The Brandy segment realized NP of P7.6 billion during the year, up 31% YoY, as it turned over P37.2 billion revenues and income from external customers, up 1% YoY."
-AGI_2021.txt,AGI,2021,"Brandy sales grew YoY at both the Philippine and international markets, particularly in Mexico, Spain and USA where restrictions on on- trade business have loosened up."
+AGI_2021.txt,AGI,2021,"NPO accelerated to P10.0 billion, up 25% YoY. Gross profit rate (“GPR”) improved to 36% from 31% a year ago, and NPR and NPOR higher at 18% this year as compared to 15% a year ago."
+AGI_2021.txt,AGI,2021,"Normalized net profit [i.e. P0.7 billion non-cash consolidation tax adjustment in 2021 added back] soared 35% to P10.8 billion, of which P 10.6 billion was attributable to owners, up 34% year-on-year."
+AGI_2021.txt,AGI,2021,"The Brandy segment realized NP of P7.6 billion during the year, up 31% YoY, as it turned over P37.2 billion revenues and income from external customers, up 1% YoY. Brandy sales grew YoY at both the Philippine and international markets, particularly in Mexico, Spain and USA where restrictions on on- trade business have loosened up."
 AGI_2021.txt,AGI,2021,"‘Emperador’, ‘Fundador’, ‘Presidente’, and ‘Terry’ remained as the top-selling brandy brands, with sales increases registered during the year."
 AGI_2021.txt,AGI,2021,Sales of ‘Harveys Bristol Cream’ also rose as it sold well in UK.
 AGI_2021.txt,AGI,2021,Gross profit expanded 24% YoY to P12.6 billion with GPR improving to 34% from 28% of a year ago as more of high-margin products were sold in the current year.
@@ -46,8 +40,7 @@ AGI_2021.txt,AGI,2021,UK off-trade and e-commerce continued to grow as demands r
 AGI_2021.txt,AGI,2021,Gross profit expanded 28% YoY to P7.4 billion with GPR improving to 40% from 36% last year as sales grew faster than cost of goods sold due mainly to product sales mix (sales of high-priced/ high-margin products increased).
 AGI_2021.txt,AGI,2021,"As markets opened up and sales grew, operating expenses increased."
 AGI_2021.txt,AGI,2021,The segment ended with NPR of 14% and normalized NPR of 17% as compared to 14% of last year.
-AGI_2021.txt,AGI,2021,"EMP Group accounted for 36% of AGI’s consolidated revenues and income, 43% of consolidated NP and 51% of consolidated NPO."
-AGI_2021.txt,AGI,2021,"Travellers, the owner and operator of RWM, an integrated-tourism resort, had shown improved NP and NPO growths of 95% and 90% YoY as revenues and income grew 55% to P19.1 billion, which were still short to support costs and expenses."
+AGI_2021.txt,AGI,2021,"EMP Group accounted for 36% of AGI’s consolidated revenues and income, 43% of consolidated NP and 51% of consolidated NPO. Travellers, the owner and operator of RWM, an integrated-tourism resort, had shown improved NP and NPO growths of 95% and 90% YoY as revenues and income grew 55% to P19.1 billion, which were still short to support costs and expenses."
 AGI_2021.txt,AGI,2021,"Tourism was hit hard by the pandemic restrictions that have not allowed entry of foreign nationals, except those fully vaccinated and with existing valid visas already, for almost two years already [note: reopening to international tourists started on February 10, 2022]."
 AGI_2021.txt,AGI,2021,"Mobility restrictions, however, loosened up at varying degrees during the year, more loosely towards the Christmas season."
 AGI_2021.txt,AGI,2021,Gross gaming revenues picked up 26% YoY to P16.7 billion from P13.3 billion.
@@ -58,8 +51,7 @@ AGI_2021.txt,AGI,2021,"Non-gaming revenues (hotel, food, beverage, others) incre
 AGI_2021.txt,AGI,2021,"Total room keys at RWM were 2,054 at end-2021."
 AGI_2021.txt,AGI,2021,The Courtyard by Marriott Hotel in Iloilo registered an occupancy rate of 9% in 2021.
 AGI_2021.txt,AGI,2021,"Other revenues shrank 22% to P0.5 billion due to restrictions affecting theater, cinemas and mall operations."
-AGI_2021.txt,AGI,2021,Travellers contributed 12% to AGI’s consolidated revenues and -1% to AGI’s consolidated NP and to consolidated NPO.
-AGI_2021.txt,AGI,2021,"GADC, the master franchise holder of McDonald’s in the Philippines and a strategic partnership with the George Yang group, ended the year with core revenues jumping 26% YoY to P24.9 billion and NPO soaring 250% YoY to P0.9 billion."
+AGI_2021.txt,AGI,2021,"Travellers contributed 12% to AGI’s consolidated revenues and -1% to AGI’s consolidated NP and to consolidated NPO. GADC, the master franchise holder of McDonald’s in the Philippines and a strategic partnership with the George Yang group, ended the year with core revenues jumping 26% YoY to P24.9 billion and NPO soaring 250% YoY to P0.9 billion."
 AGI_2021.txt,AGI,2021,Same-store sales grew 27% year-on-year while system-wide sales went up 30% from a year ago.
 AGI_2021.txt,AGI,2021,"Being in the food service, which is an essential business, McDonald’s restaurants operated for delivery, drive-through and take-out orders, with no or limited dine-in (depending on CQ stage in the locality, up to 50% capacity allowed) at limited hours (due to curfew) and menu (due to available ingredients) from mid-March."
 AGI_2021.txt,AGI,2021,"Initially, when dine-in and large gatherings were not allowed, about 38% of stores remained operational; and, as the restrictions gradually eased, more stores resumed operations that by year-end 98% have re-opened as allowed by the local governments where the restaurants are located."
@@ -96,8 +88,7 @@ AGI_2021.txt,AGI,2021,"The Group is recalibrating its strategies, particularly o
 AGI_2021.txt,AGI,2021,"Innovation, especially on digital technology, will remain to be at the core of its different business operations."
 AGI_2021.txt,AGI,2021,The Group will continue to use technology to give the Group an added advantage as we embrace the new reality.
 AGI_2021.txt,AGI,2021,It has rolled out a vaccination program to help the government achieve the much-needed herd immunity faster.
-AGI_2021.txt,AGI,2021,"There are no other known material events subsequent to the end of the year that would have a material
-impact on the current year."
+AGI_2021.txt,AGI,2021,There are no other known material events subsequent to the end of the year that would have a material impact on the current year.
 AGI_2021.txt,AGI,2021,"There are no other known trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Group’s liquidity increasing or decreasing in any material way."
 AGI_2021.txt,AGI,2021,The Group does not have nor anticipate having any cash flow or liquidity problems within the next twelve months.
 AGI_2021.txt,AGI,2021,"AGI and its subsidiaries are not in default or breach of any note, loan, lease or other indebtedness or financing arrangement requiring it to make payments."

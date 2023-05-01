@@ -1,6 +1,5 @@
-filename,ticker,year,sentence
-AGI_2018.txt,AGI,2018,"The following discussion and analysis must be read in conjunction with the submitted audited
-consolidated financial statements and the related notes to the consolidated financial statements."
+Filename,Ticker,Year,Sentence
+AGI_2018.txt,AGI,2018,The following discussion and analysis must be read in conjunction with the submitted audited consolidated financial statements and the related notes to the consolidated financial statements.
 AGI_2018.txt,AGI,2018,The Group closed the year 2018 with record breaking consolidated revenues and net profit as all business segments contributed well to these growth results.
 AGI_2018.txt,AGI,2018,"The Group turned in P23.7 billion net profit, up 6% or P1.4 billion year-on-year from P22.3 billion a year ago with consolidated revenues reaching P156.9 billion, up 13% or P18.0 billion year-on-year from P138.8 billion a year ago."
 AGI_2018.txt,AGI,2018,Net profit to owners remained flat as a result of intersegment transactions.
@@ -25,10 +24,8 @@ AGI_2018.txt,AGI,2018,"Emperador, the world’s largest brandy company and owner
 AGI_2018.txt,AGI,2018,The Scotch Whisky segment turned over revenues to external customers higher by 9% year-on-year.
 AGI_2018.txt,AGI,2018,"The business is growing not only in UK but also in other parts of the world, especially in Asia where revenues had more than doubled as brands enjoyed success across a number of markets."
 AGI_2018.txt,AGI,2018,"Own Scotch whisky label The Dalmore, the flagship malt whisky product, was again the main driver of growth as it continued to attract new consumers at the apex of the single malt category through both the Core Range and Rare Expressions."
-AGI_2018.txt,AGI,2018,"Jura with its redesigned range and exclusive Global Travel Retail range continued to attract acclaim under its ‘A long way from ordinary’
-The Brandy segment, on the other hand, turned over revenues to external customers higher by 11% year-on-year."
-AGI_2018.txt,AGI,2018,"The Spanish
-business is growing in Spain, Philippines, UK and USA, which all together accounted for three- quarters of its revenues."
+AGI_2018.txt,AGI,2018,"Jura with its redesigned range and exclusive Global Travel Retail range continued to attract acclaim under its ‘A long way from ordinary’ The Brandy segment, on the other hand, turned over revenues to external customers higher by 11% year-on-year."
+AGI_2018.txt,AGI,2018,"The Spanish business is growing in Spain, Philippines, UK and USA, which all together accounted for three- quarters of its revenues."
 AGI_2018.txt,AGI,2018,"Emperador Brandy remains the nationwide leader, particularly in key metro cities, amid fierce competition among local brands."
 AGI_2018.txt,AGI,2018,"Recognizing the preference of the young drinkers for variety and excitement, Emperador created a new offering for Emperador Light drinkers by pairing Emperador Light with Club Mix Lime Cordial, dubbed as ‘LimeLight’ and ‘GreenLight’; and, in mid-September, ‘the gin for the new generation’ The BaR Premium Gin was launched, infused with flavors and botanicals from the gardens of Andalusia, Spain, in Pink, Lime and Premium Dry variants."
 AGI_2018.txt,AGI,2018,Gross profit margins (GPM) on consolidated level remained healthy at 35% in both 2018 and 2017.
@@ -69,9 +66,7 @@ AGI_2018.txt,AGI,2018,The Group is strongly liquid with current assets exceeding
 AGI_2018.txt,AGI,2018,Current assets amounted to P277.7 billion while current liabilities amounted to P92.4 billion at end of the current year.
 AGI_2018.txt,AGI,2018,"For most of the balance sheet accounts, there is a corresponding note found in the audited consolidated financial statements where details, breakdown or composition of the accounts are presented."
 AGI_2018.txt,AGI,2018,Please refer to those notes accompanying the consolidated financial statements.
-AGI_2018.txt,AGI,2018,"In summary:
-Cash and cash equivalents decreased 15% or P8.0 billion to end the year at P44.8 billion from
-P52.8 billion at the beginning of the year, primarily due to dividend payment, capital expenditures and ongoing purchase of treasury shares of a subsidiary."
+AGI_2018.txt,AGI,2018,"In summary: Cash and cash equivalents decreased 15% or P8.0 billion to end the year at P44.8 billion from P52.8 billion at the beginning of the year, primarily due to dividend payment, capital expenditures and ongoing purchase of treasury shares of a subsidiary."
 AGI_2018.txt,AGI,2018,"Cash flows from operating, financing and investing activities during the period were presented in the consolidated statements of cash flows."
 AGI_2018.txt,AGI,2018,"Current trade and other receivables increased 25% or P12.0 billion mainly from real estate trade receivables, higher alcoholic product sales in the lead up to Christmas holidays, advances to contractors and suppliers and transactions with franchisees and affiliated restaurants arising from product deliveries, rentals, royalty and other service charges."
 AGI_2018.txt,AGI,2018,"Non-current trade and other receivables, on the other hand, decreased 25% or P4.4 billion mainly from reclassification of currently maturing receivables."
@@ -86,15 +81,15 @@ AGI_2018.txt,AGI,2018,"Property, plant and equipment increased 20% or P19.5 bill
 AGI_2018.txt,AGI,2018,RWM completed the construction of Courtyard Iloilo last May 2018 and Hilton Manila in October.
 AGI_2018.txt,AGI,2018,The Grand Wing also completed some gaming areas.
 AGI_2018.txt,AGI,2018,There also an increase in construction in progress related to two other hotels and other gaming areas to be completed.
-AGI_2018.txt,AGI,2018,"The Grand Wing is comprised of three luxury hotels- Sheraton Manila Hotel, Hilton Manila and Hotel Okura Manila."
+AGI_2018.txt,AGI,2018,The Grand Wing is comprised of three luxury hotels-
+AGI_2018.txt,AGI,2018,"Sheraton Manila Hotel, Hilton Manila and Hotel Okura Manila."
 AGI_2018.txt,AGI,2018,"It would also include approximately 14,000 sqm."
 AGI_2018.txt,AGI,2018,"and 3,200 sqm."
 AGI_2018.txt,AGI,2018,of gaming and retail space respectively.
 AGI_2018.txt,AGI,2018,Additional costs were also incurred from MEG’s hotel buildings and EMP’s distillery plant.
 AGI_2018.txt,AGI,2018,"Investment property rose 8% or P7.4 billion as more revenue-generating malls, commercial centers and office buildings were completed by Megaworld group."
 AGI_2018.txt,AGI,2018,Deferred tax assets jumped 26% or P208 million from an increase in income tax provisions from prior months and from taxable temporary differences.
-AGI_2018.txt,AGI,2018,"Other non-current assets grew 11% or P615 million due to the increase in advances made by RWM to PAGCOR in connection with the development of Site A
-Trade and other payables went up 26% or P10.1 billion as trade payables, accrued expenses and retention payable to contractors swelled up."
+AGI_2018.txt,AGI,2018,"Other non-current assets grew 11% or P615 million due to the increase in advances made by RWM to PAGCOR in connection with the development of Site A Trade and other payables went up 26% or P10.1 billion as trade payables, accrued expenses and retention payable to contractors swelled up."
 AGI_2018.txt,AGI,2018,It also included unredeemed gaming points and unredeemed gaming chips.
 AGI_2018.txt,AGI,2018,Accrued expenses increased due to timing of accruals at year-end.
 AGI_2018.txt,AGI,2018,"Contract liabilities represent MEG’s excess of collection over the progress of work under Meg, with current portion increasing 53% or P918 million and non-current portion decreasing 11% or P342 million."
@@ -131,8 +126,7 @@ AGI_2018.txt,AGI,2018,GADC will continue its brand promise of making delicious f
 AGI_2018.txt,AGI,2018,"It aims to sustain its business momentum as it targets more new store openings with continuous focus on operational excellence, leveraging on its taste heritage and technology, espousing the role of family and community in delivering business while exemplifying good corporate citizenship."
 AGI_2018.txt,AGI,2018,"To bring McDonald’s world-class experience to the country, GADC aims to add 60 NXT GEN stores in 2019 which comes with self- ordering kiosks, modernized menu boards and cashless payment modes."
 AGI_2018.txt,AGI,2018,"In 2019, all the business segments are expected to sustain growth trajectory in line with targets and will continue to bolster their presence in their respective fields."
-AGI_2018.txt,AGI,2018,"There are no other known material events subsequent to the end of the year that would have a material
-impact on the current year."
+AGI_2018.txt,AGI,2018,There are no other known material events subsequent to the end of the year that would have a material impact on the current year.
 AGI_2018.txt,AGI,2018,"There are no other known trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Group’s liquidity increasing or decreasing in any material way."
 AGI_2018.txt,AGI,2018,The Group does not have nor anticipate having any cash flow or liquidity problems within the next twelve months.
 AGI_2018.txt,AGI,2018,"AGI and its subsidiaries are not in default or breach of any note, loan, lease or other indebtedness or financing arrangement requiring it to make payments."

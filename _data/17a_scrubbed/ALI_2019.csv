@@ -1,10 +1,9 @@
-filename,ticker,year,sentence
+Filename,Ticker,Year,Sentence
 ALI_2019.txt,ALI,2019,"In 2019, net income after tax (attributable to equity holders) of Ayala Land, Inc. (ALI or “the company”) grew by 13% to PHP33.19 billion from PHP29.24 billion in 2018."
 ALI_2019.txt,ALI,2019,"Total revenues (which includes real estate sales, interest income from real estate sales, equity in net earnings, and interest and investment income, and other income) increased by 2% to PHP168.79 billion from PHP166.25 billion the previous year, mainly driven by real estate revenues which grew by 1% to PHP157.85 billion from PHP155.95 billion in 2018."
 ALI_2019.txt,ALI,2019,Revenues were also supported by office and commercial and industrial lot sales and higher contribution of new leasing assets.
 ALI_2019.txt,ALI,2019,"The company introduced three new estates and successfully launched PHP158.96-billion worth of projects, surpassing its initial estimate of PHP130 billion."
-ALI_2019.txt,ALI,2019,Its leasing portfolio continued to expand to 2.1 million and 1.2 million sq.
-ALI_2019.txt,ALI,2019,"meters of gross leasing area for malls and offices, respectively, and to 3,705 rooms for hotels and resorts."
+ALI_2019.txt,ALI,2019,"Its leasing portfolio continued to expand to 2.1 million and 1.2 million sq. meters of gross leasing area for malls and offices, respectively, and to 3,705 rooms for hotels and resorts."
 ALI_2019.txt,ALI,2019,Capital expenditure reached PHP108.72 billion to support the buildup of residential and leasing projects.
 ALI_2019.txt,ALI,2019,"Property development revenues amounted to PHP109.69 billion, a 3% dip from 2018’s PHP113.36 billion."
 ALI_2019.txt,ALI,2019,Revenues from the sale of residential lots and units and MCT Bhd’s operations were lower by 9% at PHP86.09 billion from PHP94.63 billion in 2018.
@@ -33,14 +32,11 @@ ALI_2019.txt,ALI,2019,"Total revenues from commercial leasing, consisting of the
 ALI_2019.txt,ALI,2019,"Revenues from shopping centers grew by 11% to PHP22.02 billion from PHP19.91 billion, supported by same-mall revenue growth of 8%, with increased contribution of new malls such as Ayala Malls Feliz, Capitol Central, and Circuit Makati."
 ALI_2019.txt,ALI,2019,"EBITDA (earnings before interest, taxes, depreciation, and amortization) margin was sustained at 66%."
 ALI_2019.txt,ALI,2019,"The average occupancy rate of all malls was 88%, with the occupancy rate of stable malls at 93%."
-ALI_2019.txt,ALI,2019,The GLA of all malls now stands at 2.12 million sq.
-ALI_2019.txt,ALI,2019,"meters with the addition of 213,000 sq."
-ALI_2019.txt,ALI,2019,"meters from the opening of Ayala North Exchange Retail, Ayala Malls Manila Bay, and Ayala Malls Central Bloc Cebu."
+ALI_2019.txt,ALI,2019,"The GLA of all malls now stands at 2.12 million sq. meters with the addition of 213,000 sq. meters from the opening of Ayala North Exchange Retail, Ayala Malls Manila Bay, and Ayala Malls Central Bloc Cebu."
 ALI_2019.txt,ALI,2019,"Revenues from office leasing increased by 12% to PHP9.67 billion from previous year’s PHP8.61 billion, with the new offices in Ayala North Exchange, Vertis North, and Circuit Makati improving the segment’s performance."
 ALI_2019.txt,ALI,2019,It registered a slightly lower EBITDA margin of 90% from 91% in 2018.
 ALI_2019.txt,ALI,2019,"The average occupancy rate of all offices was 96%, with the occupancy rate of stable offices at 97%."
-ALI_2019.txt,ALI,2019,Total office leasing GLA is now 1.17 million sq.
-ALI_2019.txt,ALI,2019,"meters, with 70,000 sq."
+ALI_2019.txt,ALI,2019,"Total office leasing GLA is now 1.17 million sq. meters, with 70,000 sq."
 ALI_2019.txt,ALI,2019,"meters added by the completion of Ayala North Exchange BPO, Manila Bay BPO Tower, and Central Bloc Corporate Center Tower 1 in Cebu."
 ALI_2019.txt,ALI,2019,Revenues from this segment grew by 19% to PHP7.62 billion from PHP6.39 billion in 2018 on strong patronage of Seda Ayala Center Cebu and Seda Lio.
 ALI_2019.txt,ALI,2019,Higher occupancy and revenues per available room (REVPAR) at these two hotels were also responsible for increasing the overall EBITDA margin of hotels and resorts by 32% from previous year’s 29%.
@@ -74,23 +70,20 @@ ALI_2019.txt,ALI,2019,"There are no events that will trigger direct or contingen
 ALI_2019.txt,ALI,2019,"There are no material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the company with unconsolidated entities or other persons created in 2019."
 ALI_2019.txt,ALI,2019,Interest income from real estate sales and interest & investment income higher by 10% due to higher yield from residential business.
 ALI_2019.txt,ALI,2019,"Equity in net earnings of associates and joint ventures grew by 29% mainly coming from increased performance of FBDC companies, OHI's property sales, malls and offices, partially offset by negative equity pick-up of Rize Ayala (RWIL)."
-ALI_2019.txt,ALI,2019,"Other Income lower by 25% due to recognition of Gain on sale of MCT Bhd's subsidiaries (One City Properties SDN BHD and Ecity Hotel SDN BHD) P237M and P265M respectively in 2018, partially offset by Gain on sale of Vertex One Bldg."
-ALI_2019.txt,ALI,2019,amounted to P177M.
-ALI_2019.txt,ALI,2019,Interest and other financing charges and other charges grew by 27% mainly due to increase in interest expense due higher ADB and this year's recognition of Interest expense-PFRS 16.
+ALI_2019.txt,ALI,2019,"Other Income lower by 25% due to recognition of Gain on sale of MCT Bhd's subsidiaries (One City Properties SDN BHD and Ecity Hotel SDN BHD) P237M and P265M respectively in 2018, partially offset by Gain on sale of Vertex One Bldg. amounted to P177M. Interest and other financing charges and other charges grew by 27% mainly due to increase in interest expense due higher ADB and this year's recognition of Interest expense-PFRS 16."
 ALI_2019.txt,ALI,2019,Provision for income tax increased by 11% due to higher taxable income mainly coming from real estate.
-ALI_2019.txt,ALI,2019,"Cash and cash equivalents decreased by 15% due to capital expenditures from Residential, Leasing
-and Land acquisitions."
+ALI_2019.txt,ALI,2019,"Cash and cash equivalents decreased by 15% due to capital expenditures from Residential, Leasing and Land acquisitions."
 ALI_2019.txt,ALI,2019,"Short-term investments went down by 80% due to capital expenditures from Residential, Leasing and Land acquisitions."
 ALI_2019.txt,ALI,2019,Real estate Inventories increased by 15% mainly from new launches from residential projects.
 ALI_2019.txt,ALI,2019,"Other current assets higher by 10% mostly due to presentation of Advances to Contractors from Accounts and Notes Receivable to Other current assets, and also due to the increase in CWT and Input VAT mainly from residential projects."
 ALI_2019.txt,ALI,2019,Non-current Accounts and Notes Receivable increased by 17% primarily due to higher bookings of AR.
 ALI_2019.txt,ALI,2019,Investments in associates and jointly controlled entities grew by 8% attributable to additional investments to AKL and ALI Eton.
 ALI_2019.txt,ALI,2019,Investment properties up by 8% due to completion of investment properties from leasing and resorts.
-ALI_2019.txt,ALI,2019,Property and equipment improved by 20% mainly coming from the increase in Hotel PPE and MCT Bhd.
-ALI_2019.txt,ALI,2019,Other noncurrent assets higher by 22% mainly due increase in bookings of leasehold rights and deposits.
+ALI_2019.txt,ALI,2019,Property and equipment improved by 20% mainly coming from the increase in Hotel PPE and MCT Bhd. Other noncurrent assets higher by 22% mainly due increase in bookings of leasehold rights and deposits.
 ALI_2019.txt,ALI,2019,"Short-term debt grew by 25% due to increase in borrowing to support property development, mall operations and land acquisitions."
 ALI_2019.txt,ALI,2019,"Account and other payables decreased by 5% due to capital expenditures from Residential, Leasing and Land acquisitions."
 ALI_2019.txt,ALI,2019,Current portion of long-term debt lower by 26% due to settlement of matured long-term loans.
 ALI_2019.txt,ALI,2019,Deposit and other current liabilities increased by 11% primarily due to the increase in deposits and reservation fees from various residential projects and offices group's one year advance rental income from tenants.
 ALI_2019.txt,ALI,2019,Long-term debt up by 18% mainly from availment of new long-term loans.
 ALI_2019.txt,ALI,2019,"Deposit and other noncurrent liabilities lower by 14% primarily driven by leasing group's decrease in security deposits, reservations and advance rental deposits."
+ALI_2019.txt,ALI,2019,

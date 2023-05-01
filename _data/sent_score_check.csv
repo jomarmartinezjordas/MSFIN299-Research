@@ -1,0 +1,22 @@
+Positive Sentence,Positive Score,Ticker,Year
+"In addition, core net income improved to P18.7 billion as of end-December 2018 after the PFRS adoption.",0.9646202921867372,GLO,2018
+Insurance expenses increased 5% from higher deposit levels.,0.9640027284622192,BDO,2021
+Sugar business grew by 0.3% due to higher volume despite lower margins and higher expenses.,0.9636555314064026,URC,2021
+Sugar business grew by 0.3% due to higher volume despite lower margins and higher expenses.,0.9636555314064026,URC,2020
+Net Interest Margin improved to 4.4% given modest growth in interest-earning assets and an improvement in funding mix.,0.9630011916160583,BDO,2020
+Sugar business grew by 8.0% brought by higher volumes in raw sugar despite lower volume in refined sugar and lower prices for both raw and refined sugar.,0.9629756212234496,URC,2020
+Sugar business grew by 8.0% brought by higher volumes in raw sugar despite lower volume in refined sugar and lower prices for both raw and refined sugar.,0.9629756212234496,URC,2019
+Sugar business grew by 8.0% brought by higher volumes in raw sugar despite lower volume in refined sugar and lower prices for both raw and refined sugar.,0.9629756212234496,JGS,2019
+Flour business increased by 10.0% due to lower materials costs and operating expenses.,0.9629383087158204,URC,2020
+Flour business increased by 10.0% due to lower materials costs and operating expenses.,0.9629383087158204,URC,2021
+Negative Sentence,Negative Score,Ticker,Year
+"Total cumulative Globe Prepaid subscribers reached 27.9 million as of end December 2017, down 2% from a year ago.",0.976992964744568,GLO,2017
+"Non-interest income, meanwhile, dropped five percent to ₱22.9 billion on the absence of significant trading gains registered in 2016.",0.9769863486289978,AC,2017
+"On a stand-alone basis, Union Bank of the Philippines (UBP) and its Subsidiaries recorded a net income of ₱7.32 bn for 2018, down 13% compared to the ₱8.40 bn earned in 2017.",0.9769719839096068,AEV,2018
+"Meanwhile, Interest and investment income registered a 58% drop to P394.70 million from P930.45 million owing to lower balances and yields from short term investments.",0.976918876171112,ALI,2020
+"Rent expenses for the year 2019 was at P=5.8 billion, down by 11% from a year ago.",0.9768880605697632,GLO,2019
+"The IID Division posted P=0.39 billion of revenues, down by 14.0% from last year’s P=0.46 billion.",0.9768765568733216,RLC,2020
+"URC’s gross profit for 2018 amounted to P=37.437 billion, down by =P1.877 billion or 4.8% from P=39.314 billion reported in 2017.",0.9768606424331664,URC,2018
+"URC’s gross profit for 2018 amounted to P=37.437 billion, down by =P1.877 billion or 4.8% from P=39.314 billion reported in 2017.",0.9768606424331664,URC,2019
+Net income fell by 78.3% from Php354.8 in 2019 to Php77.2 billion in 2020 due to the community quarantine restrictions that resulted in higher provisions for credit losses.,0.97683447599411,GTCAP,2020
+EBITDA fell 78.2% to P=0.15 billion on the back of fixed overhead cost; while additional depreciation from hotels opened in calendar year 2019 resulted to a negative EBIT of P=0.26 billion.,0.976736068725586,RLC,2020

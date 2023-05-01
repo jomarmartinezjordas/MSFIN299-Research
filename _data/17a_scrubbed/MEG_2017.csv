@@ -1,4 +1,4 @@
-filename,ticker,year,sentence
+Filename,Ticker,Year,Sentence
 MEG_2017.txt,MEG,2017,"Megaworld, the country’s largest developer of integrated urban townships, grew its net income by 13.41% to Php13.28 billion (including nonrecurring gains of Php113.07 million) in 2017 from Php11.63 billion (including non-recurring gain of Php82.46 million) the previous year."
 MEG_2017.txt,MEG,2017,"Net income attributable to parent company ended at Php12.77 billion by end-December 2017, a 12.71% jump from Php11.33 billion during the same period last year."
 MEG_2017.txt,MEG,2017,"Consolidated revenues of the Megaworld Group, which includes subsidiary brands Global-Estate Resorts, Inc., Empire East Land Holdings, Inc. and Suntrust Properties, Inc., amounted to Php50.41 billion for the year, up 7.67% from Php46.82 billion in the same period last year."
@@ -39,58 +39,14 @@ MEG_2017.txt,MEG,2017,"The interest-bearing loans and borrowings current and non
 MEG_2017.txt,MEG,2017,"Bonds payable increased by 53.89%, amounting to Php34.36 billion as at December 31, 2017 compared to Php22.33 billion as at December 31, 2016."
 MEG_2017.txt,MEG,2017,"Total other liabilities amounted to Php7.67 billion from Php6.50 billion as at December 31, 2017 and 2016, respectively, translating to an 18.08% increase."
 MEG_2017.txt,MEG,2017,"Total Equity (including non-controlling interests) increased by 12.31% from Php143.62 billion as at December 31, 2016 to Php161.30 billion as at December 31, 2017 due to the Group’s continuous profitability."
-MEG_2017.txt,MEG,2017,"8.96% increase in trade and other receivables – net Primarily due to additional sales for the period
-14.95% increase in property development costs
-Represents costs attributable to the development of various projects
-18.87% increase in investments in AFS securities – current and non-current Due to changes in the fair market value of shares
-23.81% increase in advances to contractors and suppliers Represents advance payments to contractors and suppliers
-12.75% increase in prepayments and other assets – current and non-current Due to contribution of a new subsidiary and recognition of goodwill
-23.25% increase in advances to landowners and joint ventures Due to additional advances made to landowners
-15.36% increase in land for future development
-Due to additional land acquisitions and contribution of new subsidiaries
-18.06% increase in investment properties – net
-Due to additional project costs of malls, commercial centers and office buildings
-44.82% increase in property and equipment – net Mainly due to the completion of corporate headquarters
-44.95% decrease in deferred tax assets
-Due to lower deferred tax assets on taxable temporary differences
-53.89% increase in bonds payable – current and non-current Due to issuance of bonds
-19.16% increase in trade and other payables
-Due to higher payables to suppliers and contractors
-29.91% decrease in customers’ deposits – current and non-current
-Due to recognition of sales and decision to pursue recurring revenues from a project previously intended for sale
-5.80% decrease in deferred income on real estate sales – current and non-current Represents increase in unearned revenue
-74.67% increase in income tax payable Mainly due to higher taxable income
-18.08% increase in other liabilities – current and non-current
-Mainly contributed by additional security deposits and advance rent from new tenants
-8.59% increase in advances from associates and other related parties Due to increase in advances arising from related party transactions
-7.90% increase in retirement benefit obligation Additional accrual of retirement plan of employees
-5.28% increase in real estate sales
-Due to higher sales recognized for the period
-18.16% increase in rental income
-Due to aggressive expansion of the Group’s leasing portfolio, escalation of rental rates and high demand for office space from BPO Companies
-14.86% increase in hotel operations
-Due to increase in hotel occupancy rates
-13.18% decrease in equity in net earnings of associates Mainly due to decrease in net income of associates
-5.28% increase in interest and other income – net
-Mainly due to higher non-recurring gains recognized for the year
-5.09% increase in cost of real estate sales Due to increase in real estate sales
-20.10% decrease in deferred gross profit
-Pertains to the portion of gross profit from current real estate sales to be realized in future periods
-10.88% increase in cost of hotel operations Represents direct costs attributable to hotel operations
-14.48% increase in operating expenses
-Due to increase in other administrative and corporate overhead expenses
-17.21% increase in interest and other charges – net Primarily due to impairment losses recognized for the year
-8.69% increase in tax expense
-Due to higher taxable income and tax effects of deductible temporary differences
-There are no other significant changes in the Group’s financial position (5% or more) and condition that will warrant a more detailed discussion."
+MEG_2017.txt,MEG,2017,"8.96% increase in trade and other receivables – net Primarily due to additional sales for the period 14.95% increase in property development costs Represents costs attributable to the development of various projects 18.87% increase in investments in AFS securities – current and non-current Due to changes in the fair market value of shares 23.81% increase in advances to contractors and suppliers Represents advance payments to contractors and suppliers 12.75% increase in prepayments and other assets – current and non-current Due to contribution of a new subsidiary and recognition of goodwill 23.25% increase in advances to landowners and joint ventures Due to additional advances made to landowners 15.36% increase in land for future development Due to additional land acquisitions and contribution of new subsidiaries 18.06% increase in investment properties – net Due to additional project costs of malls, commercial centers and office buildings 44.82% increase in property and equipment – net Mainly due to the completion of corporate headquarters 44.95% decrease in deferred tax assets Due to lower deferred tax assets on taxable temporary differences 53.89% increase in bonds payable – current and non-current Due to issuance of bonds 19.16% increase in trade and other payables Due to higher payables to suppliers and contractors 29.91% decrease in customers’ deposits – current and non-current Due to recognition of sales and decision to pursue recurring revenues from a project previously intended for sale 5.80% decrease in deferred income on real estate sales – current and non-current Represents increase in unearned revenue 74.67% increase in income tax payable Mainly due to higher taxable income 18.08% increase in other liabilities – current and non-current Mainly contributed by additional security deposits and advance rent from new tenants 8.59% increase in advances from associates and other related parties Due to increase in advances arising from related party transactions 7.90% increase in retirement benefit obligation Additional accrual of retirement plan of employees 5.28% increase in real estate sales Due to higher sales recognized for the period 18.16% increase in rental income Due to aggressive expansion of the Group’s leasing portfolio, escalation of rental rates and high demand for office space from BPO Companies 14.86% increase in hotel operations Due to increase in hotel occupancy rates 13.18% decrease in equity in net earnings of associates Mainly due to decrease in net income of associates 5.28% increase in interest and other income – net Mainly due to higher non-recurring gains recognized for the year 5.09% increase in cost of real estate sales Due to increase in real estate sales 20.10% decrease in deferred gross profit Pertains to the portion of gross profit from current real estate sales to be realized in future periods 10.88% increase in cost of hotel operations Represents direct costs attributable to hotel operations 14.48% increase in operating expenses Due to increase in other administrative and corporate overhead expenses 17.21% increase in interest and other charges – net Primarily due to impairment losses recognized for the year 8.69% increase in tax expense Due to higher taxable income and tax effects of deductible temporary differences There are no other significant changes in the Group’s financial position (5% or more) and condition that will warrant a more detailed discussion."
 MEG_2017.txt,MEG,2017,"Further, there are no material events and uncertainties known to management that would have impact or change the reported financial information and condition on the Group."
 MEG_2017.txt,MEG,2017,"There are no known trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in increasing or decreasing the Group’s liquidity in any material way."
 MEG_2017.txt,MEG,2017,The Group does not anticipate having any cash flow or liquidity problems.
 MEG_2017.txt,MEG,2017,"The Group is not in default or breach of any note, loan, lease or other indebtedness or financing arrangement requiring it to make payments."
 MEG_2017.txt,MEG,2017,"There are no material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the Group with unconsolidated entities or other persons created during the reporting period."
 MEG_2017.txt,MEG,2017,"The Group has no unusual nature of transactions or events that affects assets, liabilities, equity, net income or cash flows."
-MEG_2017.txt,MEG,2017,There were no seasonal aspects that had a material effect on the financial condition or results of operations of the Group.
-MEG_2017.txt,MEG,2017,There were no known material events subsequent to the end of the period that have not been reflected in the Group’s Financial Statements for the year 2017.
+MEG_2017.txt,MEG,2017,There were no seasonal aspects that had a material effect on the financial condition or results of operations of the Group. There were no known material events subsequent to the end of the period that have not been reflected in the Group’s Financial Statements for the year 2017.
 MEG_2017.txt,MEG,2017,There were no changes in estimates of amount reported in the current financial year or changes in estimates of amounts reported in prior financial years.
 MEG_2017.txt,MEG,2017,"There was no contingent liability reflected in the most recent annual financial statement, the same in the current year consolidated financial statements as at 2017."
 MEG_2017.txt,MEG,2017,"There are commitments, guarantees and contingent liabilities that arise in the normal course of operations of the Group which are not reflected in the accompanying consolidated financial statements."

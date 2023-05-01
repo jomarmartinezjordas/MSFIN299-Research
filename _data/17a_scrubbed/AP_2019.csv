@@ -1,5 +1,6 @@
-filename,ticker,year,sentence
-AP_2019.txt,AP,2019,"Share in net earnings in associates and joint ventures declined by 12% in 2019 compared to 2018 due to lower income contributions from SN Aboitiz Power-Magat, Inc. (SN Aboitiz Power-Magat) and GNPower Dinginin Ltd. Co. (GNPD)."
+Filename,Ticker,Year,Sentence
+AP_2019.txt,AP,2019,"Share in net earnings in associates and joint ventures declined by 12% in 2019 compared to 2018 due to lower income contributions from SN Aboitiz Power-Magat, Inc."
+AP_2019.txt,AP,2019,(SN Aboitiz Power-Magat) and GNPower Dinginin Ltd. Co. (GNPD).
 AP_2019.txt,AP,2019,The lower share in net earnings of GNPD was mainly due to a foreign exchange (forex) gain recorded in 2018 as against a forex loss reported in 2019.
 AP_2019.txt,AP,2019,SN Aboitiz Power-Magat’s lower income contribution was primarily driven by a reduction in volume sold due to reduced water levels in 2019.
 AP_2019.txt,AP,2019,"Consolidated EBITDA decreased by 13% in 2019, mainly due to an increase in cost of purchased power, lower spot market revenues, and lower plant availability across the Power Generation Group."
@@ -35,12 +36,11 @@ AP_2019.txt,AP,2019,This movement was due to favorable movements of the Philippi
 AP_2019.txt,AP,2019,The increase was due to lower net deferred tax benefit arising from deferred taxes on unrealized forex gain.
 AP_2019.txt,AP,2019,The decrease was due to a decline in the operating results of GMCP combined with a reduction in the Company’s non- controlling ownership in GMCP after the acquisition of non-controlling interests in May 2019.
 AP_2019.txt,AP,2019,"Total assets (as of December 31, 2019 compared to December 31, 2018) increased by ₱20.81 bn, or 5% YoY."
-AP_2019.txt,AP,2019,"The major movements of the accounts leading to the increase were as follows:
-a) Cash and cash equivalents decreased by 19% during 2019."
+AP_2019.txt,AP,2019,The major movements of the accounts leading to the increase were as follows: a) Cash and cash equivalents decreased by 19% during 2019.
 AP_2019.txt,AP,2019,"This was due to cash flows used for: (i) acquisition of AA Thermal, (ii) investment in GNPD for its on-going power plant construction, (iii) funding of the Group’s capital expenditures, and (iv) debt service."
-AP_2019.txt,AP,2019,"The decrease in cash and cash equivalents was partially offset by operating cash flows and proceeds from the Company’s retail bonds issuance in 2019.
-b) Property held for sale of ₱676 mn as of December 31, 2018 pertains to transmission assets was sold to NGCP in February 2019.
-c) Other current assets were lower by 16% (from ₱13.21 bn in 2018 to ₱11.04 bn in 2019) mainly driven by the decrease of TSI’s restricted cash."
+AP_2019.txt,AP,2019,The decrease in cash and cash equivalents was partially offset by operating cash flows and proceeds from the Company’s retail bonds issuance in 2019.
+AP_2019.txt,AP,2019,"b) Property held for sale of ₱676 mn as of December 31, 2018 pertains to transmission assets was sold to NGCP in February 2019."
+AP_2019.txt,AP,2019,c) Other current assets were lower by 16% (from ₱13.21 bn in 2018 to ₱11.04 bn in 2019) mainly driven by the decrease of TSI’s restricted cash.
 AP_2019.txt,AP,2019,The maintenance of a cash reserve forms part of TSI’s compliance with the covenants on its project debt.
 AP_2019.txt,AP,2019,d) Investments and advances increased by ₱26.54 mainly as a result of capital infusions for the AA Thermal acquisition and GNPD plant construction.
 AP_2019.txt,AP,2019,"e) Property, plant and equipment (PPE) slightly increased by 1% (from ₱207.11 bn in 2018 to ₱209 bn in 2019) mainly due to the recognition of right-of-use assets on the Group’s leases resulting from the adoption of Philippine Financial Reporting Standards (PFRS) 16, Leases."
@@ -52,11 +52,10 @@ AP_2019.txt,AP,2019,i) Other noncurrent assets increased by ₱2.86 bn or 27% Yo
 AP_2019.txt,AP,2019,"The increase was due to restricted cash of a Subsidiary that arose from its receipt of proceeds from a damage claim against its contractors, which claim is currently under dispute."
 AP_2019.txt,AP,2019,"This was partly offset by decrease in input VAT and reversal of prepaid rent against lease liabilities upon adoption of PFRS 6, Leases."
 AP_2019.txt,AP,2019,"Consolidated liabilities increased by 9% YoY, from ₱253.09 bn as of end-2018 to ₱276.83 bn as of end-2019."
-AP_2019.txt,AP,2019,"The major movements of the accounts leading to the increase were as follows:
-a) Derivatives liabilities (current and non-current portions) increased by ₱2.31 bn in 2019, due to fair value changes on the Group’s foreign currency forward contracts and commodity swap contracts."
+AP_2019.txt,AP,2019,"The major movements of the accounts leading to the increase were as follows: a) Derivatives liabilities (current and non-current portions) increased by ₱2.31 bn in 2019, due to fair value changes on the Group’s foreign currency forward contracts and commodity swap contracts."
 AP_2019.txt,AP,2019,"b) Income tax payable increased by 15% YoY (from ₱439 mn in 2018 to ₱506 mn in 2019), mainly due to expiration of the income tax holidays enjoyed by certain Subsidiaries and a corresponding higher current income tax provision."
-AP_2019.txt,AP,2019,"c) Long-term debt (current and non-current portions) increased by 13% YoY (from ₱158.06 bn in 2018 to ₱177.97 bn in 2019), primarily due to the ₱7.25 bn bonds issuance in October 2019.
-d) Lease liabilities (current and noncurrent portions) decreased by ₱2.10 bn, since TLI made timely payments on its obligation with PSALM."
+AP_2019.txt,AP,2019,"c) Long-term debt (current and non-current portions) increased by 13% YoY (from ₱158.06 bn in 2018 to ₱177.97 bn in 2019), primarily due to the ₱7.25 bn bonds issuance in October 2019."
+AP_2019.txt,AP,2019,"d) Lease liabilities (current and noncurrent portions) decreased by ₱2.10 bn, since TLI made timely payments on its obligation with PSALM."
 AP_2019.txt,AP,2019,e) Long-term obligation on power distribution system (PDS) decreased by 8% as regular annual payments were made.
 AP_2019.txt,AP,2019,"f) Customers’ deposits increased by ₱513 mn or 9% primarily, driven by growth in customer base of the Distribution Utilities."
 AP_2019.txt,AP,2019,"g) Other noncurrent liabilities went up from ₱3.18 bn in 2018 to ₱6.81 bn in 2019, mainly due to receipt of proceeds from a damage claim against contractors, which claim is now under dispute."
@@ -75,8 +74,7 @@ AP_2019.txt,AP,2019,"Consolidated debt to equity ratio at year-end of 2019 was a
 AP_2019.txt,AP,2019,"AboitizPower is focused on addressing the needs of its markets, namely: (1) reliable supply, at a (2) reasonable cost, and with (3) minimal impact on the environment and communities."
 AP_2019.txt,AP,2019,"The Company believes that there is no single technology that completely addresses the country’s energy requirements; and that to address the deficiency, a mix of power generation technologies is necessary."
 AP_2019.txt,AP,2019,"Thus, AboitizPower continues to pursue both renewable projects and thermal technologies where and when it makes sense."
-AP_2019.txt,AP,2019,"Despite increased competition in the power generation market, the Company is confident that it has built the foundation to sustain long term growth, as seen in its pipeline of new power generation projects (see Part I Item 1."
-AP_2019.txt,AP,2019,"(a)(i) on Principal Products and Services - Generation of Electricity on page 47 of the Company’s Information Statement), where target commercial operation dates for each project are discussed per Business Unit)."
+AP_2019.txt,AP,2019,"Despite increased competition in the power generation market, the Company is confident that it has built the foundation to sustain long term growth, as seen in its pipeline of new power generation projects (see Part I Item 1.(a)(i) on Principal Products and Services - Generation of Electricity on page 47 of the Company’s Information Statement), where target commercial operation dates for each project are discussed per Business Unit)."
 AP_2019.txt,AP,2019,"The Company is on track to reach its target net attributable capacity of 4,000 MW by 2020 with the entry of GNPower Dinginin."
 AP_2019.txt,AP,2019,"AboitizPower’s goal is to grow its capacity to more than 9,000 MW by 2029, which the Company expects will be sourced from a portfolio of renewables and selective baseload builds."
 AP_2019.txt,AP,2019,"In terms of renewable energy, the Company aims to maximize opportunities from the implementation of the Renewable Portfolio Standards (RPS) by DOE starting in 2020."
@@ -89,5 +87,4 @@ AP_2019.txt,AP,2019,The Company expects that its existing Distribution Utilities
 AP_2019.txt,AP,2019,It continuously seeks efficiency and improvements in its Distribution Utilities’ operations in order to maintain healthy margins.
 AP_2019.txt,AP,2019,"AboitizPower, together with its partners, has allotted ₱41 bn for capital expenditures in 2020, almost 80% of which is for new businesses such as GNPower Dinginin."
 AP_2019.txt,AP,2019,The remaining balance is allocated mainly for operating and expansion initiatives.
-AP_2019.txt,AP,2019,"Other known trends, events, uncertainties which may have a material impact on AboitizPower have been discussed extensively in sections of the Company’s Information Statement (e.g."
-AP_2019.txt,AP,2019,"for an extensive discussion on regulatory issues, see Part I Item 1(a) on Effects of Existing or Probable Government Regulations on the Business on page 78 of the Company’s Information Statement)."
+AP_2019.txt,AP,2019,"Other known trends, events, uncertainties which may have a material impact on AboitizPower have been discussed extensively in sections of the Company’s Information Statement (e.g. for an extensive discussion on regulatory issues, see Part I Item 1(a) on Effects of Existing or Probable Government Regulations on the Business on page 78 of the Company’s Information Statement)."

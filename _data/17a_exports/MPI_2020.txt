@@ -1,0 +1,161 @@
+The Group’s consolidated Core Net Income and Reported Income declined owing largely to the economic contraction brought about by the COVID-19 pandemic resulting in the following:
+(i) reduced toll road traffic; (ii) suspended and then reduced light rail services; and (iii) decreased commercial and industrial demand for water and power.
+
+The Company’s accounting policies are consistent with those followed in the preparation of the Company’s most recent annual consolidated financial statements, taking into account the changes in accounting policies and the adoption of the new and amended Philippine Financial Reporting Standards (PFRS), which became effective on January 1, 2020. Adoption of new standards did not have a material impact on the Company’s financial results. Refer to Note 39, Significant Accounting Policies to the 2020 Audited Consolidated Financial Statements.
+
+As discussed under Item 1 – B. Business of Issuer, the Group is organized into the following segments based on services and products: power, toll operations, water, rail, logistics and others.
+
+The Company’s chief operating decision maker is the BOD. The BOD monitors the operating results of each business unit separately for the purpose of making decisions about resource allocation and performance assessment. Segment performance is evaluated based on: consolidated net income for the year; earnings before interest, taxes and depreciation and amortization, or Core EBITDA; Core EBITDA margin; and Core Income. Net income for the year is measured consistent with consolidated net income in the consolidated financial statements.
+Core EBITDA is measured as net income excluding depreciation and amortization of property and equipment and intangible assets, asset impairment on noncurrent assets, financing costs, interest income, equity in net earnings (losses) of associates and joint ventures, net foreign exchange gains (losses), net gains (losses) on derivative financial instruments, provision for (benefit from) income tax and other non- recurring gains (losses). Core EBITDA margin pertains to Core EBITDA divided by service revenues.
+Performance of the operating segments is also assessed based on a measure of recurring profit or core income. Core income is measured as net income attributable to owners of the Company excluding the effects of foreign exchange and derivative gains or losses and non-recurring items (NRI), net of tax effect of aforementioned. NRI represent gains or losses that, through occurrence or size, are not considered usual operating items.
+The following section includes discussion of the Company’s results of its operations as presented in its consolidated financial statements as well as management’s assessments of the performance of the Group which is translated to core (or recurring) profit and non-core (or non-recurring) profit.
+
+
+The Company’s revenues from continuing operations decreased by 17% to P=40,855 million reflecting the impact of COVID-19 related quarantine measures on the following segments:
+Toll revenues declined by 27% to P=13.6 billion. Average daily entries for 2020 were down by 26% on the NLEX and 37% on the SCTEX. CAVITEX average daily entries for 2020 was also down by 31% despite the opening of the C5 Southlink 3A-1.
+Water utilities posted a 3% decrease in revenues due to Maynilad’s decline in commercial and industrial demand slightly offset by the increase in residential demand which were all due to the effect of the community quarantine. The decline in Maynilad’s revenue was partially offset by revenue contribution from MPW’s businesses.
+Rail revenues declined by 62% due to suspension of operations from community quarantine in March 17 to May 31 and August 4 to 18. During resumption of operations, the train capacity was limited to 13% as per DOTr directive.
+Logistics revenues during 2020 declined by 29% to P=1.1 billion due to winding down of trucking business.
+
+Cost of sales and services from continuing operations decreased by 11% to P=17,023 million driven mainly by the decreases in the following accounts:
+Grantors’ toll revenue share (PNCC and BCDA fees) and the amortization of service concession assets (using units of production method) both declined with the decrease in road traffic during the community quarantine;
+Repairs and maintenance with reduced activities as movements were restricted during the quarantine;
+Depreciation and amortization and personnel costs as the logistics segment scaled down the trucking operations; and
+Utilities costs with the implementation of work from home arrangements.
+
+General and administrative expenses from continuing operations decreased by 2% to P=8,652 million driven mainly by cost rationalization efforts in response to the global pandemic:
+Personnel cost reduction as the group pushed for manpower optimization;
+Travel-related costs as movements were restricted during the quarantine, and
+Advertising and marketing costs were reduced in line with the reduction in the advertising
+revenues for the toll and rail segment.
+
+Interest expenseThe Company’s consolidated interest expense from continuing operations increased by 2% to P=10,010 million with financing on completed concession projects/segments no longer eligible for capitalization (see Note 12 - Service to the 2020 Audited Consolidated Financial Statements).
+Completed projects included the following roads:
+Segment 10, a portion of Phase II, which is a 5.76-km four-lane, elevated expressway that starts
+from the terminal of Segment 9 in Valenzuela City going to Circumferential Road 3 (C-3 Road) in Caloocan City above the alignment of Philippine National Railway (PNR) tracks, was completed in February 2019.
+NLEX Corp’s Harbor Link C3-R10 Section completion in June 2020.
+
+Share in net earnings of equity method investees from continuing operations decreased by 8% to P=10,732 million mainly due to MERALCO’s full impairment of its investment in Pacific Light Power (PLP), a gas-fired power plant in Singapore (see discussion under section II - OPERATING SEGMENTS OF THE GROUP).
+
+Consolidated other income (expense) for 2020 mainly pertains to additional provisions for decline in value of advances in Landco while 2019 included gain on the deconsolidation of MPHHI, partially offset by provisions for decline in value of assets in water and logistics businesses and penalties for loan prepayment (see Notes 24 and 32 to the 2020 Audited Consolidated Financial Statements).
+
+Impact of the implementation of quarantine on the Company’s operations and the full provisioning of MERALCO’s investment in PLP resulted in a significant decline of 58% to P=5,009 million in the Company’s consolidated net income attributable to equity holders of MPIC.
+
+The Company recognized a net other comprehensive loss of P=4,414 million in 2020 as compared with the net comprehensive loss of P=1,476 million in 2019. Year 2020 includes higher share in actuarial valuation adjustment from MERALCO and cumulative translation adjustments from DMT, CII B&R, PT Nusantara and PNW.
+
+MPIC’s consolidated core income of P=10,238 million in 2020 declined by 34% as compared with 2019 owing largely to the economic contraction stemming from the Philippine Government’s quarantines to contain the spread of COVID-19. The quarantine reduced toll road traffic, mandated the suspension of rail services, and decreased commercial and industrial demand for water and power resulting in a decrease in contribution from operations of 26%.
+Power accounted for P=10.5 billion or 69% of net operating income, its highest-ever proportion. Water contributed P=3.1 billion or 20%, and Tollroads contributed P=2.4 billion or 16%. MPIC’s other businesses, mainly Hospitals, Rail, and Logistics, incurred an overall loss of P=709 million.
+The figures referred to above represent MPIC’s share in the stand-alone core income of the operating companies, net of consolidation adjustments. See the relevant segment information under section II - OPERATING SEGMENTS OF THE GROUP.
+
+Non-recurring expense amounting to P=5,490 million for 2020 is mainly attributable to the provisioning in full for the remaining carrying value of MERALCO’s investment in PLP and various provisions for impairment.
+2019 non-recurring income amounting to P=8,254 million in 2020 is primarily due to deconsolidating the Group's investment in the Hospitals portfolio partly offset by restructuring costs of logistics business and reduction in the carrying values of some of the Group’s water investments.
+
+MPIC’s power business contributed P=10.5 billion to Core Income for 2020, 9% lower than last year, with reduced contributions from both MERALCO and GBPC.
+
+MERALCO’s Core Income in 2020 declined 9% to ₱21.7 billion, driven mainly by a 7% decrease in volume sold and higher provision for doubtful accounts.
+Gross revenues for the year ended December 31, 2020 was at ₱275.3 billion, 14% lower than 2019 while volume dropped by 7% to 43,572 GWh. Total electricity revenues amounted to ₱267.9 billion, 14% lower reflecting the reduction in purchased power costs. MERALCO’s distribution charge per kWh remains unchanged with aggregate distribution revenues in 2020 lower by 8% at ₱60.6 billion compared with 2019 due to lower volumes sold.
+
+With the easing of community quarantine restrictions beginning May 2020, certain commercial and industrial establishments slowly resumed operations. By end of 2020, residential volumes accounted for 38%, commercial at 34% and industrial at 28% of the total, significantly different from the pre-pandemic share of 30%, 40% and 30%, respectively.
+MERALCO’s Reported Net Income in 2020 further declined to 30% to ₱16.3 billion owing to non- recurring charges including a ₱2.7 billion reduction in the carrying value of its investment in PLP in Singapore.
+MERALCO spent ₱20.8 billion on capital expenditures in 2020, just 3% higher than in 2019 with the limited resumption of projects and operations across all sectors during quarantine. Capital expenditures addressed critical loading of existing facilities and supported new demand and customer connections.
+
+GBPC recorded a 13% decline in Core Net Income to ₱2.4 billion in 2020 down ago.
+Volume sold increased 2% to 4,929 GWh on the strength of additional power supply and ancillary service agreements that commenced in the latter part of 2019. Despite the increase in volume sold, revenues declined 13% to ₱21.1 billion as a result of lower WESM prices and demand.
+The 50%-owned Alsons Thermal Energy Corporation (“ATEC”) increased its contribution to ₱639 million from ₱434 million a year earlier following the entry into commercial operation of its 118.5 MW expansion plant through Sarangani Energy Corporation. Volume sold from ATEC’s Mindanao power plants rose 44% to 952 GWh in 2020.
+In December 2020, MPIC agreed to sell its entire 56% stake in GBPC to Meralco for ₱22.4 billion. Management considers that the sale of GBPC to Meralco represents a unification of the group’s strategy on power generation. The disposal will consolidate the Group’s power generation portfolio and assets, with all of the power distribution and generation assets to be held by Meralco. Such consolidation of power distribution and generation assets in Meralco is expected to yield scale and cost efficiencies to the Group while at the same time streamline capital for MPIC’s other growth areas.
+
+MPTC operates a network of toll roads predominantly in the Philippines and a few in Southeast
+Asia. MPTC recorded Core Income of ₱2.7 billion in 2020, down 49% from ₱5.3 billion a year earlier as a result of lower traffic on all roads due to movement restrictions during prolonged periods of quarantine.
+Tollroads in the Philippines:
+Average daily vehicle entries declined 28% to 388,820 in 2020 compared with 536,850 in 2019. Daily vehicle entries averaged 574,100 for the first two months of 2020, an increase of 14% from 2019 but declined to 86,000 when the strictest level of quarantine was implemented. Traffic gradually recovered as restrictions were eased with traffic averaging at 480,643 in December 2020 (down 18% versus December 2019).
+MPTC has implemented physical and system improvements to ensure smooth implementation of the “all-RFID toll collection system” in line with the Department Order 2020-012 issued by the Department of Transportation (DOTr). While the implementation of the cashless toll collection has not been without challenges, we are grateful to the local government for working with us in finding workable solutions in improving local traffic conditions by reducing toll plaza congestion, managing RFID sticker issues, and responding to motorist reloading requests.
+Significant progress in expansion projects was achieved with the full commercial operation for the first sub-section of the Cavite Laguna Expressway and the opening of the NLEX Harbour Link C3-R10 road which directly connects to ports and shortens travel from Manila port to NLEX to only 10 minutes from over one hour.
+
+Average daily vehicle entries for MPIC’s toll investments outside the Philippines declined 26% to 300,467 in 2020 compared with 404,634 a year earlier due to ongoing construction and road integration within their concession areas. The implementation of various measures (from curfews to regional lockdowns) to limit movement of people and vehicles in response to the threat of COVID-19 also reduced traffic.
+In February 2021, MPTC sold its entire 29.45% indirect stake in Don Muang Public Company Ltd. In Thailand for P=7.2 billion. Proceeds from this sale will be used to fund MPTC’s expansion projects.
+
+MPIC’s water business comprises investments in Maynilad, the biggest water utility in the Philippines, and MetroPac Water Investments Corporation (“MPW”), focused on building new water businesses outside Metro Manila. The water segment’s contribution to Core Income amounted to ₱3.1 billion in 2020, 14% lower than last year, with reduced contribution from Maynilad.
+
+Revenues slipped 4% to ₱22.9 billion with lower average tariffs. Higher residential demand at a lower average tariff offset lower demand in commerce and industry with the implementation of community quarantine.
+Maynilad’s Core Net Income in 2020 fell 15% to ₱6.5 billion as a result of higher amortization and depreciation expenses as a consequence of its substantial investments in water source (Putatan 2) and waste water reclamation (Pasay and Paranaque) and continuing upgrades to facilities.
+Water coverage has grown by nearly one-third under MPIC’s 13 years of management to 9.8 million people, while 17 kilometers of new pipes have been laid. Average non-revenue water at the district metered area level was at 26% as at December 2020 down from 68% fourteen years ago, saving 1 billion liters of water every day.
+Review of the water concession contracts is ongoing with the Asian Development Bank assisting the Government on the economic and financial aspects of the agreement. As we wait for the final resolution of this matter, Maynilad’s services continue.
+Capital expenditures in 2020 amounted to P=7.8 billion. In 2020, Maynilad completed the realignment, replacement and relocation of around 6.7 kilometers of water pipelines to help fast-track the implementation of several government infrastructure projects such as the construction of the Philippine National Railways North, MRT-7, and LRT-1 Extension. The reconfiguration of these pipelines were done in portions of Caloocan, Quezon City, Valenzuela, Parañaque and Las Piñas to give way for ongoing construction works of these vital projects.
+In January 2021, Maynilad’s Putatan Water Treatment Plant 2 (PWTP 2) was conferred an award of distinction under the “Water Project of the Year” category of the Global Water Awards 2020. The Global Water Awards recognize the most important achievements in the international water industry. PWTP 2, Maynilad’s second facility to tap Laguna Lake as raw water source, gained recognition for its crucial role in addressing water security in Metro Manila. The facility was built to help moderate over- dependence on Angat Dam and expand water service to Maynilad customers in the southern part of its West Concession area. This recognition is a testament to Maynilad’s projects stand side-by-side with the best water initiatives in the world.
+
+LRMC currently operates LRT-1, a 20-station light rail line traversing from Pasay to Quezon City in Metro Manila.
+LRMC reported a Core Loss of ₱689 million in 2020 following the suspension of operations from 17th March to 31st May due to the strict community quarantine. Operations resumed on 1st June 2020, but with ridership limited to 13% of capacity to comply with DOTr guidelines and were again suspended from 4th August to 18th August 2020 with the reimplementation of Modified Enhanced Community Quarantine. In October 2020, following the DOTr’s directive to gradually increase maximum passenger capacities, LRMC adjusted passenger loading capacity to 30%. With the suspension of operations and reduced services mandated by quarantine protocols, revenues declined 62% to ₱1.3 billion. Average daily ridership was down to 186,021 during the 274 operating days of 2020 compared with 446,943 during the 361 operating days in 2019.
+
+Progress on the upgrading and expansion of the LRT1 continues with the arrival in January 2021 of the first of the thirty (30) Generation-4 (Gen-4) train sets committed by the Government. The state-of-the- art passenger train sets, each with 4 light rail vehicles has a maximum design speed of up to 70 kph and can accommodate around 1,400 passengers per trip. These new trains will undergo rigorous testing and commissioning before it is used for commercial operations.
+Construction activities for the LRT-1 Cavite Extension project are currently in various stages of development and continue to achieve progress even amid the community quarantine. Since the start of the civil works in September 2019, the project completion rate has already reached 50%.
+
+Metro Pacific Hospital Holdings Inc. operates the largest private hospital network in the Philippines with 18 hospitals and 6 cancer centers nationwide.
+• Revenues decreased 7% to P=14.8 billion
+• In-patient admissions dropped 46% to 106,546 while out-patient visits fell 36% to 2.5 million as
+patients opted to defer elective procedures
+• Consolidated Core Income declined 85% to P=224 million
+o There were significant increases in personnel costs and medical supplies such as personal protective equipment which are heavily used to ensure health and safety for our healthcare practitioners and patients
+• The healthcare sector is at the epicenter of the COVID-19 crisis and our hospital group continues to rise to the occasion to meet the needs of the communities we serve in terms of testing, treatment and preparation for the vaccination drive
+
+On December 23, 2020, BPHI entered into a share purchase agreement with Meralco PowerGen Corporation (“MGen”), a wholly-owned subsidiary of MERALCO, for the sale by BPHI of 56%
+issued and outstanding shares of GBPC. Upon completion of the transaction, MPIC shall deconsolidate GBPC. Accordingly, GBPC qualified as a group held for deemed disposal as of December 31, 2020 with GBPC’s assets and liabilities previously consolidated in the Company’s statement of financial position reclassified to “Assets under PFRS 5” and “Liabilities under PFRS 5”, respectively, as at December 31, 2020. Hence, significant decreases in the asset and liability accounts are partly attributable to the reclassification of GBPC’s assets and liabilities.
+Other movements in the accounts are explained as follows:
+Cash and cash equivalents and short-term deposits – (Decrease) The economic contraction stemming from the Philippine Government’s response to COVID-19 had impacted cash flow from operations (see section Liquidity and Capital Resources for the summary of the Group’s statement of cash flows for 2020).
+Receivables – current and noncurrent portions – (Decrease) Aside from the reclassification of GBPC’s receivables to “Assets under PFRS 5”, the full collection of the receivable from Buhay resulted to the decrease in this account (see Notes 8 and 32 to the 2020 Audited Consolidated Financial Statements).
+Other current assets – (Decrease) Decrease attributable to the reclassification of GBPC’s inventories to “Assets under PFRS 5”. GBPC’s inventories include power plant spare parts, consumables, coal and fuel (see Note 9 to the 2020 Audited Consolidated Financial Statements).
+Investments and advances – (Decrease) Decrease in this account is attributable to the following: (i) reclassification of the investment in ATEC to “Assets under PFRS 5”; and (ii) recognition of the share in the investees’ other comprehensive income” (see Note 10 to the 2020 Audited Consolidated Financial Statements).
+Service concession assets – (Increase) Mainly due to the additional capital expenditures (see Note 12 to the 2020 Audited Consolidated Financial Statements for the nature of the additions to the service concession assets).
+Aside from the capitalized borrowing costs, significant additions to the service concession asset account include the following:
+Toll Operations. Ongoing construction of the following: (i) CALAX; (ii) NLEX Corp’s
+Segment 10 R10 section project, Subic Freeport Expressway expansion, and the NLEX Connector Road Project; (iii) CIC’s CAVITEX R1 and R1 Enhancement, C5 South Link and Segment 4 extension & Segment 5; (iv) CCLEC’s Cebu Cordova Link Expressway; and (v) PT Nusantara’s Pettarani, Makassar.
+Water. For Maynilad: (i) the cost of rehabilitation works and additional construction; (ii) concession fee drawdown for Angat Water Transmission Improvement Project (AWTIP), advance payment for Kaliwa Dam construction and various local component costs. For MPW: (i) additions from the implementation of the water concession project of MPIWI with Metro Iloilo Water District (MIWD) and (ii) various development cost for MPDW.
+Rail. Additions substantially pertain to the on-going rehabilitation of the LRT-1 existing line and the construction of the Cavite Extension.
+Property, plant and equipment – (Decrease) Significant decrease attributable to the reclassification of GBPC’s power plant assets and other fixed assets to “Assets under PFRS 5” (see Notes 13 and 33 to the 2020 Audited Consolidated Financial Statements).
+
+Service concession fees payable – current and noncurrent portions – (Decrease) Decrease pertains to the scheduled payment of service concession fees payable of CALAX and Maynilad net of interest accretion. For the movement in the service concession fees payable, see Notes 17 and 37 to the 2020 Audited Consolidated Financial Statements.
+Due to related parties – (Decrease) The decrease is mainly driven by the scheduled payment of payable to PCEV in relation to the acquisition of shares in Beacon (see Notes 19 and 37 to the 2020 Audited Consolidated Financial Statements).
+Provisions – current and noncurrent portions – (Decrease) Significant decrease attributable to the reclassification of GBPC’s provisions to “Liabilities under PFRS 5” (see Notes 16 and 33 to the 2020 Audited Consolidated Financial Statements).
+Short-term and long-term debt – current and noncurrent portions – (Decrease) Long term debt of GBPC was reclassified to “Liabilities under PFRS 5” (see Notes 18 and 33 to the 2020 Audited Consolidated Financial Statements).
+Treasury Shares – (Increase) Implementation of the Share Buyback Program in 2020 (see Note 20 to the 2020 Audited Consolidated Financial Statements).
+Non-controlling interest – (Increase) Increase is mainly due to the partial disposal of interest in subsidiaries (Note 4 to the 2020 Audited Consolidated Financial Statements and the Consolidated Statements of Changes in Equity for the other movements in the NCI account).
+
+As at December 31, 2020, MPIC’s consolidated cash and cash equivalents and short-term deposits totaled P=48,822 million, a decrease of P=25,875 million from P=74,697 million as at
+December 31, 2019. Lower cash level is due to the decrease in cash provided by operations as the community quarantine impacted earnings and collection of receivables in addition to the scheduled payments and prepayments of loans. Refer to the Company’s Consolidated Statements of Cash Flows in the 2020 Audited Consolidated Financial Statements.
+
+MPIC’s consolidated net operating cash flow in 2020 posted a 47% decrease from P=41,020 million to P=21,727 largely attributable to the decline in operating results and the lower collection rate due to the ECQ. Lockdown restrictions temporarily disrupted capacity to read water meters and limited ability to collect payments from customers.
+
+Net cash used in investing activities amounted to P=31,793 million during 2020, a 36% increase from 2019 despite lower expenditure in service concession assets and property, plant and equipment in 2020 due to delays brought by ECQ. 2019 benefitted from the proceeds of Exchangeable Bond issued to Buhay which provided significant cash inflow of P=26,091 million (see Note 32 to the 2020 Audited Consolidated Financial Statements).
+
+The Company’s consolidated net cash used in financing activities amounted to P=14,951 million in 2020. Significant outflows during the current period included: (i) prepayment of MPIC’s =P6.48 Billion, 10- Year Notes Facility Agreement and AIF’s THB loan; (ii) debt servicing; (iii) scheduled payment of amount due PCEV; (iv) scheduled payment of service concession fees payable; (v) dividends paid; and (vi) acquisition of MPIC shares under the share buyback program.
+
+The Company’s revenues from continuing operations increased by 14% to P=49,276 million in 2019, reflecting improved performances from the following operating segments.
+Water utilities posted an 11% increase in revenues on the strength of Maynilad’s 2% billed volume growth together with basic and inflation-linked tariff increases; and (ii) MPW’s Bulk water and Sewage Treatment Plant services contribution.
+Toll revenues are higher by 19% with average daily entries for 2019 up by 7% on the NLEX, 13% on the SCTEX and 24% on the CAVITEX compared with 2018 and toll rate increases in NLEX in March 2019, SCTEX in June 2019 and CAVITEX in October 2019. In addition, full year revenues from the consolidation of PT Nusantara beginning July 2018.
+Logistics and other revenues during 2019 increased by 20% to P=2,010 million.
+The above improvements in revenues were partially offset by the decline in LRMC’s earnings. Rail revenues decreased by 1% driven by decrease in ridership due to shortened operating hours and fewer running LRVs.
+
+Cost of sales and services from continuing operations increased by 17% to P=19,086 million mainly due to the consolidation of PT Nusantara and increase in concession amortization from continued growth of concession assets through ongoing capital expenditures, as well as increased traffic and billed volume of water (amortization on U-o-P basis) (see Note 21 to the 2020 Audited Consolidated Financial Statements).
+
+General and administrative expenses from continuing operations increased by 19% to P=10,183 million in 2019 mainly due to consolidation of PT Nusantara beginning July 2018 and inflationary growth in personnel costs (see Note 22 to the 2020 Audited Consolidated Financial Statements).
+
+The Company’s consolidated interest expense from continuing operations increased by 16% to P=9,779 million with new bank loans (see Note 18 to the 2020 Audited Consolidated Financial Statements).
+
+Share in net earnings of equity method investees from continuing operations increased by 2% to P=10,754 million. In 2018, the Company recognized its share in losses of PT Nusantara under the equity method prior to its consolidation in July 2018.
+
+Consolidated other income (expense) from continuing operations for 2019 provisions for decline in value of assets in water and logistics businesses and penalties for loan prepayment (see Note 24 to the 2020 Audited Consolidated Financial Statements).
+For operations under PFRS 5, gain on deconsolidation of MPHHI was recognized in 2019 (see Note 32 to the 2020 Audited Consolidated Financial Statements).
+
+The increase in this account from P=14,130 million in 2018 to P=23,856 million in 2019 is primarily attributable to the gain on deconsolidation of MPHHI (see Note 32 to the 2020 Audited Consolidated Financial Statements).
+
+The Company recognized a net other comprehensive loss of P=1,476 million in 2019 as compared with the net comprehensive income of P=321 million in 2018. Year 2019 includes higher share in actuarial valuation adjustment from MERALCO and cumulative translation adjustments from foreign operations.
+
+MPIC’s share in the consolidated core income increased by 4% from P=15,060 million in 2018 to P=15,602 million in 2019 primarily reflecting the following:
+Power (distribution and generation) accounted for P=11.7 billion or 55% of the aggregate contribution;
+Toll operations contributed P=5.1 billion or 25% of the total;
+Water (distribution, production and sewerage treatment) contributed P=3.6 billion or 17% of the
+total;
+Hospital group contributed P=867 million or 4% of the total; and,
+the Rail, Logistics and others contributed combined net loss of P=352 million.
+The figures referred to above represent MPIC’s share in the stand-alone core income of the operating companies, net of consolidation adjustments. See the relevant segment information under section V(i) 2019 versus 2018: Operating Segments of the Group.
+
+Non-recurring income amounting to P=8,254 million in 2019 is primarily due to the deconsolidation of the Group’s investment in the Hospitals portfolio partly offset by restructuring costs of logistics business and reduction in the carrying values of some of our water investments. 2018 non-recurring expenses of P=930 million were primarily due to the net effect of Philippine Peso weakening, project write-downs, loan refinancing and provisions for asset impairment.

@@ -91,9 +91,7 @@ MBT
 - Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
 
 MER
-- Overview of the company and description of the flow of the MD&A not included from the text.
-- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
-- Discussion of Power ekek ang haba deputa
+- was not extracted as source file has different encryption making that inhibits copying and pasting and even running it into pdf-to-text conversion programs
 
 RLC
 - MD&A is located on item 9 of the annual report
@@ -101,6 +99,18 @@ RLC
 SECB
 - Overview of the company and description of the flow of the MD&A not included from the text.
 - Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
+
+SMC
+- Overview of the company and description of the flow of the MD&A not included from the text.
+- Discussion of the changes from the adaptation of IFRS16 and PFRS9 was not included
+- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
+- Only the discussion on the 'Events After the Reporting Date' and 'Consent Solicitation' from the 'Other Matters' were included
+- SMC did not report its lengthy discussion of risk in 2020
+
+TEL
+- Overview of the company and description of the flow of the MD&A not included from the text.
+- Explanation of metrics used, the components of such metrics, and its respective formulas written in terms of words were not included in the text
+- PLDT has a lengthy discussion of key risks which may have been detected as negative hence the negative sentiment score.
 
 
 

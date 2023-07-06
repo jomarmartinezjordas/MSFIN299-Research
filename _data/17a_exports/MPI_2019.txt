@@ -1,0 +1,150 @@
+Highlights for 2019 which had significant impact on the financial statements of the Group are as follows:
+
+On February 26, 2019, MPTC acquired a 100% interest in Southbend Express Services Inc. (SESI)
+for a consideration of P=93 million. SESI is engaged in providing manpower services to public and
+private offices, as well as industrial, commercial and other establishments
+On September 23, 2019, MPTC increased its effective interest in PT Margautama Nusantara
+(MUN) to 81.9% from 56.9% for a consideration of P=3.5 billion. MUN is a private company in Indonesia engaged in the development and operation of toll roads, and currently manages four toll roads in Indonesia.
+
+On December 9, 2019, MPIC completed the divestment of its 40% interest in MPHHI to Buhay
+Ventures Holdings (PH) Inc. (Buhay), a subsidiary of KKR & Co. Inc., for a consideration of P=30.1 billion of which MPIC had received P=26.1 billion, with the balance of P=1.6 billion pesos and P=2.4 billion payable by Buhay within six months and 12 months of closing, respectively. As part of the transaction, Buhay also invested P=5.2 billion in MPHHI for business expansion. Buhay had injected half of the committed amount to MPHHI on December 9, 2019 and the remaining half is payable within three years of closing. On a fully diluted basis, MPIC’s effective economic interest in MPHHI was reduced to 20.0% from 60.1% after this transaction (see Note 32 to the 2019 Audited Consolidated Financial Statements).
+On December 11, 2019, MPHHI acquired a 77.1% interest in Santos Clinic Incorporated, owner and operator of Manuel J. Santos Hospital for a consideration of approximately P=373 million pesos.
+
+On September 3, 2019, MPIC through its wholly-owned subsidiary MPW signed a 80/20 joint
+venture agreement with the Dumaguete City Water District (DCWD) for the rehabilitation,operation, maintenance and expansion of DCWD’s existing water distribution system and the development of wastewater facilities. The estimated cost for this 25-year joint venture project is P=1.6 billion and MPW has injected P=560 million as its portion of the initial equity investment in the project.
+On September 5, 2019, MPW completed its acquisition of additional 7.5% ownership interest in BOO Phu Ninh Water Treatment Plant Joint Stock Company (PNW) for P=78 million which increased its shareholding from 45.0% to 52.5%
+
+The Company’s accounting policies are consistent with those followed in the preparation of the Company’s most recent annual consolidated financial statements, taking into account the changes in accounting policies and the adoption of the new and amended Philippine Financial Reporting Standards (PFRS), which became effective on January 1, 2019. Except for the adoption of PFRS 16, Leases, adoption of new standards did not have a material impact on the Company’s financial results. Refer to Note 38, Significant Accounting Policies to the 2019 Audited Consolidated Financial Statements.
+
+The Company’s chief operating decision maker is the BOD. The BOD monitors the operating results of each business unit separately for the purpose of making decisions about resource allocation and performance assessment. Segment performance is evaluated based on: consolidated net income for the year; earnings before interest, taxes and depreciation and amortization, or Core EBITDA; Core EBITDA margin; and Core Income. Net income for the year is measured consistent with consolidated net income in the consolidated financial statements.
+Core EBITDA is measured as net income excluding depreciation and amortization of property and equipment and intangible assets, asset impairment on noncurrent assets, financing costs, interest income, equity in net earnings (losses) of associates and joint ventures, net foreign exchange gains (losses), net gains (losses) on derivative financial instruments, provision for (benefit from) income tax and other non-recurring gains (losses). Core EBITDA margin pertains to Core EBITDA divided by service revenues.
+Performance of the operating segments is also assessed based on a measure of recurring profit or core income. Core income is measured as net income attributable to owners of the Company excluding the effects of foreign exchange and derivative gains or losses and non-recurring items (NRI), net of tax effect of aforementioned. NRI represent gains or losses that, through occurrence or size, are not considered usual operating items.
+The following section includes discussion of the Company’s results of its operations as presented in its consolidated financial statements as well as management’s assessments of the performance of the Group which is translated to core (or recurring) profit and non-core (or non-recurring) profit.
+
+
+The Company’s revenues from continuing operations increased by 5% to P=73,499 million in 2019, reflecting improved performances from the following operating segments.
+Water utilities posted an 11% increase in revenues on the strength of Maynilad’s 2% billed volume growth together with basic and inflation-linked tariff increases; and (ii) MPW’s Bulk water and Sewage Treatment Plant services contribution.
+Toll revenues are higher by 19% with average daily entries for 2019 up by 7% on the NLEX, 13% on the SCTEX and 24% on the CAVITEX compared with 2018 and toll rate increases in NLEX in March 2019, SCTEX in June 2019 and CAVITEX in October 2019. In addition, full year revenues from the consolidation of PT Nusantara beginning July 2018.
+Logistics and other revenues during 2019 increased by 20% to P=2,010.
+The above improvements in revenues were partially offset by the decline in GBPC and LRMC’s earnings. GBPC’s revenues decreased by 9% due to the end of various bilateral contracts partially offset the higher margins from WESM sales. Rail revenues decreased by 1% driven by decrease in ridership due to shortened operating hours and fewer running LRVs.
+See the relevant segment information under section II - OPERATING SEGMENTS OF THE GROUP.
+
+Cost of sales and services from continuing operations decreased by 1% to P=34,825 million mainly due to lower pass through cost driven by lower coal and fuel prices. This was partially offset by the consolidation of PT Nusantara and increase in concession amortization from continued growth of concession assets through ongoing capital expenditures, as well as increased traffic and billed volume of water (amortization on U-o-P basis) (see Note 21 to the 2019 Audited Consolidated Financial Statements).
+
+General and administrative expenses from continuing operations increased by 12% to P=12,496 million in 2019 mainly due to consolidation of PT Nusantara beginning July 2018 and inflationary growth in personnel costs (see Note 22 to the 2019 Audited Consolidated Financial Statements).
+
+The Company’s consolidated interest expense from continuing operations increased by 15% to P=11,800 million with new bank loans drawn for capital expenditure (see Note 18 to the 2019 Audited Consolidated Financial Statements).
+
+Share in net earnings of equity method investees from continuing operations increased by 4% to P=11,172 million mainly due to improved performance at ATEC (see Note 10 to the 2019 Audited Consolidated Financial Statements). The Company’s lower share in in net earnings in 2018 was also a result of absorption of losses in PT Nusantara prior to its consolidation in July 2018.
+
+Consolidated other income (expense) for 2019 included gain on the deconsolidation of MPHHI, partially offset by provisions for decline in value of assets in water and logistics businesses and penalties for loan prepayment (see Notes 24 and 32 to the 2019 Audited Consolidated Financial Statements).
+
+The increase in this account is mainly attributable to substantial Core Net Income growth from MERALCO and continuing traffic growth on all domestic roads.
+
+
+The Company recognized a net other comprehensive loss of P=1,476 million in 2019 as compared with the net comprehensive income of P=321 million in 2018. Year 2019 includes higher share in actuarial valuation adjustment from MERALCO and cumulative translation adjustments from DMT, CII B&R, PT Nusantara and PNW.
+
+MPIC’s share in the consolidated core income increased by 4% from P=15,060 million in 2018 to P=15,602 million in 2019 primarily reflecting the following:
+Power (distribution and generation) accounted for P=11.7 billion or 55% of the aggregate contribution;
+Toll operations contributed P=5.1 billion or 25% of the total;
+Water (distribution, production and sewerage treatment) contributed P=3.6 billion or 17% of
+the total;
+Hospital group contributed P=867 million or 4% of the total; and,
+the Rail, Logistics and others contributed combined net loss of P=352 million.
+The figures referred to above represent MPIC’s share in the stand-alone core income of the operating companies, net of consolidation adjustments. See the relevant segment information under section II - OPERATING SEGMENTS OF THE GROUP.
+
+Non-recurring income amounting to P=8,254 million in 2019 is primarily due to deconsolidating the Group's investment in the Hospitals portfolio partly offset by restructuring costs of logistics business and reduction in the carrying values of some of our water investments. 2018 non-recurring expenses of P=930 million were primarily due to the net effect of Peso weakening, project write-downs, loan refinancing and provisions for asset impairment.
+
+MPIC’s power business contributed P=11.7 billion to Core Net Income in 2019, a 7% increase driven largely by MERALCO.
+
+MERALCO’s Core Net Income in 2019 rose 6% to P=23.8 billion, driven by a 6% increase in energy sales, lower borrowing costs on lower debt, and higher investment returns.
+Energy sales rose across all of MERALCO’s customer classes. Residential sector growth accelerated due to warmer weather and new customer connections. Commercial sector sales grew on continued expansion of business-to-consumer services, while growth in the industrial sector was broadly based.
+Lower fuel prices and a stronger Peso reduced pass-through generation charges with the result that the 5% increase in total revenues to P=318.3 billion was outpaced by the 6% increase in energy sales.
+MERALCO spent P=20.2 billion on capital expenditures in 2019 to address critical loading of existing facilities and to support growing demand and customer connections.
+
+Global Power recorded an 11% growth in Core Net Income of P=2.7 billion in 2019 from P=2.5 billion in 2018 despite flat sales volumes.
+Core Net Income remains positive with higher margins on increased WESM prices and ancillary service agreements which largely offset the end of various short-term power supply agreements and rising depreciation and interest expenses.
+Contribution from 50%-owned Alsons Thermal Energy Corporation (“ATEC”) rose to P=418 million from last year’s P=249 million due to the earnings from ATEC’s expansion plant which started commercial operations on October 10, 2019. ATEC’s second 105 MW (80 MW contracted) expansion plant currently supplies electricity to an additional 4 million people in Mindanao.
+Global Power plans to invest in renewable energy projects to complement its current fossil fuel capacity.
+
+Metro Pacific Tollways Corporation (“MPTC”) recorded Core Net Income of P=5.3 billion in 2019, an 18% increase from P=4.5 billion a year earlier, as a result of higher traffic on domestic roads and tariff adjustments in NLEX, SCTEX and CAVITEX, offset by lower traffic on our regional roads and higher borrowing costs. Overall, MPTC’s system-wide vehicle entries, including both our domestic and regional road networks, averaged 947,708 a day in 2019 versus 913,101 in 2018.
+
+Average daily vehicle entries on all three of our domestic tollways (NLEX, CAVITEX and SCTEX) rose 13% to 535,503 in 2019 compared with 474,529 in 2018.
+In 2019, MPTC opened three road developments – (i) the NLEX Harbor Link Segment 10 in February; (ii) in July, the first section of CAVITEX C5 South Link, the 2.2 – kilometer flyover crossing South Luzon Expressway (SLEX) traversing Taguig and Pasay City; and (iii) in October, the first 10.7 km of the Cavite-Laguna Expressway (CALAX). The first sub-section of the CALAX, which received authority to start full commercial operations on 11th February 2020, provides travelers with an alternative route between Sta. Rosa-Tagaytay Road and Mamplasan Road, helping to decongest Aguinaldo hi-way and Sta. Rosa-Tagaytay road.
+C3-R10 Section of NLEX Harbor Link Segment 10, the elevated expressway that provides direct access between R10 in Navotas City and NLEX, had a partial opening in February 2020. MPTC is on track to fully operationalize the entire C3-R10 Section by March 2020. With full completion of this project, travel time from the Port Area to NLEX will be reduced to 10 minutes, significantly benefitting the transport logistics industry as cargo trucks are spared from the truck ban and congestion on local roads.
+
+Meanwhile, construction continues on MPTC’s other road projects – the NLEX Radial Road 10, remaining portions of the CAVITEX C5 South Link, CALAX, and the Cebu Cordova Link Expressway. Our tollways management is focused on speeding up Right of Way acquisition to meet Target Completion dates.
+MPTC expects to spend an additional P=25 billion on building roads if it secures the Cavite-Tagaytay- Batangas Expressway (CTBEx), for which it was awarded Original Proponent status. The final award of the CTBEx Project will be subject to a Swiss Challenge expected before the second quarter of 2020.
+In 2019, MPTC also made meaningful progress on regulatory matters on our toll roads with the approval and implementation of the new toll rate matrices for NLEX, SCTEX, CAVITEX R-1 and C5 South Link Express Way. The new toll rate matrix for the NLEX addresses toll increases due in 2012 and 2014, albeit on a staggered basis, and also includes recovery of investment in the NLEX Harbor Link Segment 10. The resolution of various regulatory matters encourages us to remain on track with investment programs geared towards increasing the productivity of the economy.
+Tollroads outside the Philippines:
+Average daily vehicle entries for the toll investments outside the Philippines declined 6% to 412,205 in 2019 compared with 438,572 in 2018. Lower traffic volumes on DMT (Bangkok) and PT Nusantara (Indonesia) were due to construction and road integration within their concession areas.
+In September 2019, MPTC increased its effective ownership of PT Margautama Nusantara (MUN) from 56.2% to 81.9%. MUN is PT Nusantara’s holding company for toll roads investment.
+
+MPIC’s water business comprises investments in Maynilad, the biggest water utility in the Philippines, and MetroPac Water Investments Corporation (MPW), focused on building new water businesses outside Metro Manila. The water segment’s contribution to Core Net Income amounted to ₱3.6 billion in 2019, most of it from Maynilad.
+
+Maynilad’s Core Net Income for 2019 remained flat at P=7.7 billion. While revenues rose 9% to P=24.0 billion from P=22.0 billion in 2018 as a result of the combined effect of increases in tariff (basic and inflation-linked) and the number of water connections, Maynilad’s Core Net Income remained flat as a result of higher amortization and depreciation expenses as a consequence of Maynilad’s heavy investments in Non-Revenue Water Reduction Program and continuing facilities upgrades.
+In September 2019, Maynilad received a copy of a Supreme Court decision that the water concessionaires and MWSS are jointly and severally liable for violating Section 8 of the Clean Water Act. In October 2019, Maynilad filed a Motion for Reconsideration of the decision to the Supreme Court. Before Maynilad was re-privatized in 2007, there were only two operating sewage treatment plants (“STPs”), sewerage coverage in the West Zone was only 6% of the then 677,930 water-served domestic accounts. Maynilad has since built several new STPs, and, as of December 2019, has expanded its sewerage coverage to 21.2% of the now 9.7 million water-served population.
+Water coverage has grown nearly one-third under MPIC management to 9.7 million people and 3,137 kilometers of new pipes have been laid. NRW at the DMA level has been reduced to 25.3% as at end of December 2019 from 68% 13 years ago, saving almost 1 billion liters of water every day, or enough water to provide the needs of a large city.
+Despite Maynilad’s excellent record of service delivery, the matter of Maynilad’s two related arbitration awards in its favor, has been set aside as the Government conducts a review of the concession agreement.
+Maynilad nevertheless remains focused on programs to maximize water distribution from the limited resources provided by the Angat Dam, where water levels have declined to disturbing lows. Maynilad will continue its mission to provide safe, affordable and sustainable water solutions for healthier, safer, and more comfortable life.
+
+Outside the Maynilad concession which currently bills approximately 1,470 MLD, MPW currently bills 325 MLD, with planned expansion of up to 633 MLD capacity in the Philippines and 660 MLD in Vietnam under current plans.
+MPIWI, a joint venture between Metro Iloilo Water District and MPW, commenced operation in July 2019. This 25-year joint venture concession aims to improve water delivery, expand service coverage, and reduce NRW from its current level of 50%. MPIWI has a current volume capacity of 90 MLD and serves approximately 210,000 people in its service area.
+On September 3, 2019, MPW signed a joint venture agreement with Dumaguete City Water District for the rehabilitation, operation, maintenance, and expansion of the existing water distribution system and the development of wastewater facilities for P=1.6 billion over 25 years. Turnover of operations to Metro Pacific Dumaguete Water Service Inc. is expected later in 2020.
+MPW’s contribution to MPIC is currently immaterial but as these new projects are completed, it is expected to become a major profit contributor.
+
+MPHHI reported a 12% rise in aggregate revenues in 2019 on an 11% increase in
+3,686,721 and 4% growth in inpatient admissions to 201,131. Core income rose 14% to P=2.7 billion.
+MPHHI continues to improve patient care across its network of hospitals and is establishing new service centers.
+On December 9, 2019, Buhay completed its investment in MPHHI through a series of transactions in common shares in MPHHI and in mandatorily exchangeable bonds issued by MPIC. A significant proportion of the proceeds will be directed towards investment for further growth and improvement in patient care.
+
+LRMC served an average daily ridership of 446,943 in 2019 peaking at 596,500 riders. While LRMC contributed P=319 million to MPIC’s Core Income in 2019, all earnings are fully reinvested in improving train operations and passenger experience.
+
+As at December 31, 2019, LRMC had successfully restored 39 Light Rail Vehicles, bringing the total available to 116 from the 77 it inherited in 2015. The resulting surge in available capacity has reduced passenger waiting time to less than three and a half minutes during peak hours from more than five minutes four years ago. In 2019 alone, LRMC deployed P=8.4 billion of capital expenditure for the rehabilitation of the train system, structural repairs and improvements, and an extension of the line to Cavite.
+Most of LRMC’s Station Improvement Project has been completed ahead of a mid-2020 due date with the completion of expansion work on the EDSA Station, the line’s second-busiest.
+Construction work for the LRT-1 Cavite Extension covering the five stations from Pasay City to Paranaque City has started, although long-overdue tariff increases will be necessary to secure financing for this project.
+
+Metropac Movers, Inc. (“MMI”) is focused on providing our clients with first-class warehousing and cold storage facilities. Optimum locations for distribution centers are currently being evaluated.
+MMI is not yet contributing positively to MPIC’s Core Net Income but following an extensive restructuring in 2019, we expect better in the years ahead.
+
+Cash and cash equivalents and short-term deposits – (Increase) The significant increase in cash and cash equivalents is attributable to the proceeds from MPIC’s issuance of a Mandatorily Exchangeable Bond to Buhay in relation to the latter’s investment in MPHHI. P=26,091 million out of the total subscription price of P=30.1 billion was settled in December 2019 (see Note 32 to the 2019 Audited Consolidated Financial Statements). Other transactions that contributed to increase in cash included loan drawdowns during the period (with proceeds at approximately P=59 billion) net of scheduled payment of loans and interest, payable to PCEV and additional capital expenditures (see section Liquidity and Capital Resources for the summary of the Group’s statement of cash flows for 2019).
+
+Receivables – current and noncurrent portions – (Increase) Mainly driven by the receivable portion of the Exchangeable Bond issued by MPIC to Buhay (see Notes 8 and 32 to the 2019 Audited Consolidated Financial Statements). As at December 31, 2019, receivable portion of the Exchangeable Bond’s subscription price amounted to P=3,872.5 million.
+
+Other current assets – (Decrease) Mainly driven by the application of the advances to contractors and suppliers to the relevant asset accounts and deconsolidation of the hospital group (see Note 9 to the 2019 Audited Consolidated Financial Statements).
+
+Asset held for sale – (Decrease) In December 2019, CEDC concluded the transfer of the transmission assets to the National Grid Corporation of the Philippines (NGCP). The remaining transmission assets were reclassified back to property, plant and equipment (see Note 29, Transfer of transmission facilities to the NGCP to the 2019 Audited Consolidated Financial Statements).
+
+Investments and advances – (Increase) Increase significantly attributable to value of the retained investment in MPHHI amounting to P=16,695 million (see Notes 10 and 32 to the 2019 Audited Consolidated Financial Statements).
+
+Service concession assets – (Increase) Mainly due to the additional capital expenditures, implementation of new water concession project and consolidation of PNW, net of amortization and impairment (see Note 12 to the 2019 Audited Consolidated Financial Statements for the nature of the additions to the service concession assets).
+
+Property, plant and equipment – (Decrease) Significant decrease attributable to the deconsolidation of the hospital group. Deconsolidated Hospital fixed assets amounted to P=15,083 million (see Notes 13 and 32).
+
+Goodwill – (Decrease) Mainly driven by the impairment charge recognized in 2019 amounting to P=9,825 million and the deconsolidation of the goodwill attributable to the hospital segment (see Notes 11, 14 and 32).
+
+Other noncurrent assets – (Increase) Mainly driven by the increase in advances made to contractors for the ongoing construction of service concession assets.
+
+Accounts payable and other current liabilities – (Increase) Mainly due to the increase in accrued construction costs and retention payable attributable to Toll Roads, Maynilad and Rail (see Note 15 to the 2019 Audited Consolidated Financial Statements).
+
+Service concession fees payable – current and noncurrent portions – (Increase) Aside from the interest accretion that increases the liability, additions to service concession fees payable was attributable to increase in concession fees for Maynilad (see Note 29, MWSS JBIC Loan) to the 2019 Audited Consolidated Financial Statements) and the recognition of annual service fees under the service contract agreement between MPIWI and MIWD (see Notes 17 and 36 to the 2019 Audited Consolidated Financial Statements).
+
+Due to related parties – (Decrease) The decrease is mainly driven by the scheduled payment of payable to PCEV in relation to the acquisition of shares in Beacon (see Notes 19 and 36 to the 2019 Audited Consolidated Financial Statements.
+
+Provisions – current and noncurrent portions – (Increase) Includes provision arising from the exchangeable bonds issued to Buhay for estimated tax warranties and indemnities (See Note 32, Deconsolidation of a Subsidiary and Note 16, Provisions to the 2019 Audited Consolidated Financial Statements).
+
+Long-term debt – current and noncurrent portions – (Increase) See Note 18 to the 2019 Audited Consolidated Financial Statements for details of the Company’s new loan facilities and borrowings.
+
+Equity reserves – (Decrease) Dilution gain of P=5,726 million which was originally recognized in equity reserve, was directly charged to retained earnings in relation to the deconsolidation of MPHHI (see Note 32 to the 2019 Audited Consolidated Financial Statements).
+
+Non-controlling interest – (Decrease) Decrease is mainly due to the derecognition of NCI from the deconsolidation of the hospital segment (see Note 32 and the Consolidated Statements of Changes in Equity for the other movements in the NCI account).
+
+As at December 31, 2019, MPIC’s consolidated cash and cash equivalents and short-term deposits totaled P=74,697 million, an increase of P=27,176 million from P=47,521 million as at December 31, 2018. This increase mainly resulted from the proceeds in relation to the issuance of Exchangeable Bonds to Buhay. Refer to the Company’s Consolidated Statements of Cash Flows in the 2019 Audited Consolidated Financial Statements.
+
+MPIC’s consolidated net operating cash flow in 2019 posted a 22% increase from P=31,996 million to P=41,020 largely attributable to the improvement in the operating results. Total revenues for 2019 increased by P=3,420 million to P=73,499 million which is mainly driven by the increased volume and improvement in operating performance of the subsidiaries.
+
+Net cash used in investing activities amounted to P=23,460 million during 2019. Proceeds from the Exchangeable Bond issued to Buhay provided significant cash inflow of P=26,091 million (see Note 32 to the 2019 Audited Consolidated Financial Statements). Cash outflows included CAPEX spending on service concession assets with significant progress made towards completion of on-going toll concession projects.
+
+The Company’s consolidated net cash used in financing activities amounted to P=9,044 million in 2019. Significant outflows aside from dividend payments and scheduled repayment of obligations from bank debts and service concession, included acquisition of additional stake in PT Margautama Nusantara (MUN), a subsidiary of PT Nusantara. Consideration paid for the increase in interest in MUN amounted to P=3,487 million.
+See Note 35 to 2019 Audited Consolidated Financial Statements for details of the significant changes in liabilities arising from financing activities.
+

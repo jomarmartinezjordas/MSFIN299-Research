@@ -1,0 +1,168 @@
+the group’s consolidated core income and net income attributable to owners of the parent company grew significantly in 2021 as compared with the previous year as a result of the following: less strict quarantine protocols and continuous roll-out of covid-19 vaccination across the country, promoting increased economic activities, lower interest expense from successful rate reduction initiatives within the group, and lower income tax rates with the signing of the corporate recovery and tax incentives for enterprises act (“create”) law. the group also crystallized value from divesting its investments in gbpc and dmt, resulting in increased net income attributable to owners of the parent company.
+
+the company’s accounting policies are consistent with those followed in the preparation of the company’s previous annual consolidated financial statements, considering the changes in accounting policies and the adoption of the new and amended pfrs, which became effective on january 1, 2021. adoption of new standards did not have a material impact on the company’s financial results. refer to note 39, significant accounting policies attached to the 2021 audited consolidated financial statements.
+
+as discussed under item 1 – b. business of issuer, the group is organized into the following segments based on services and products: power, toll operations, water, rail, and others.
+
+the company’s chief operating decision maker is the bod. the bod monitors the operating results of each business unit separately for the purpose of making decisions about resource allocation and performance assessment. segment performance is evaluated based on: consolidated net income for the year; earnings before interest, taxes and depreciation and amortization, or core ebitda; core ebitda margin; and core income. net income for the year is measured consistent with consolidated net income in the consolidated financial statements.
+core ebitda is measured as net income excluding depreciation and amortization of property, plant and equipment and intangible assets, asset impairment on noncurrent assets, financing costs, interest income, equity in net earnings (losses) of associates and joint ventures, net foreign exchange gains (losses), net gains (losses) on derivative financial instruments, provision for (benefit from) income tax and other non- recurring income (expenses). core ebitda margin pertains to core ebitda divided by service revenues.
+performance of the operating segments are also assessed based on a measure of recurring profit or core income. core income is measured as net income attributable to owners of the parent company excluding the effects of foreign exchange and derivative gains or losses and non-recurring items (“nri”), net of tax effect. nri represent gains or losses that, based on occurrence or size, are not considered usual operating items.
+the following section includes discussion of the company’s results of its operations as presented in its consolidated financial statements as well as management’s assessments of the performance of the group which is translated to core (or recurring) profit and non-core (or non-recurring) profit.
+
+the company’s revenues from continuing operations increased by 7% to p=43,561 million as quarantine measures are reduced, allowing more businesses to open up with increased operating capacity and as both the government and private sectors continue to roll out covid-19 vaccination.
+net toll revenue increased by 29% to p=17,485 million as average daily entries in 2021 moved as follows:
+nlex up by 25% with increased mobility inside ncr
+calax more than doubled with opening of more segments
+sctex and cavitex both improved by 26% and 16%, respectively
+water revenue declined due to lower residential and commercial demand at maynilad offset by metro dumaguete water which started operations in february 2021
+rail revenue decreased by 10% as operating capacity remains reduced to observe physical distancing and because of overall lower demand
+
+cost of sales and services from continuing operations increased by 8% to p=18,594 million driven mainly by the increase in amortization of service concession assets due to increased capital expenditures (“capex”), higher utilities and supplies utilization in maynilad’s water treatment plants (see note 21, costs of sales and services attached 2021 audited consolidated financial statements).
+
+general and administrative expenses from continuing operations increased by 9% to p=10,417 million mainly due to increased economic activities and business operations as a result of less restrictive quarantine measures (see note 22, general and administrative expenses attached to the 2021 audited consolidated financial statements).
+
+interest expense from continuing operations decreased by 8% to p=9,230 million as a result of the various rate reduction initiatives across the group.
+
+share in net earnings of equity method investees from continuing operations increased by 40% to p=10,302 million mainly due to higher share in net earnings of meralco from higher volume sold and with the full impairment of its investment in plp, a gas-fired power plant in singapore recorded in 2020 (see discussion under section ii - operating segments of the group).
+
+interest income declined during the year with lower interest rates on cash deposits and placements compared to last year.
+
+
+provision for impairment of various assets pertain to lrmc’s service concession assets amounting to p=5,985 million, assets related to the winding down of the warehousing business, p=1,062 million, pnw’s and estii’s intangible assets, p=1,720 million (see notes 8, 9, 11-14 attached to the 2021 audited consolidated financial statements).
+
+the increase from p=1,066 million to p=4,893 million is attributable to the gain recognized from the sale of gbpc (see note 33, deconsolidation of gbpc in 2021 attached to the 2021 audited consolidated financial statements).
+
+income taxes declined during the year in light of the implementation of create, where corporate income tax was reduced from 30% to 25% (see note 26, income tax attached to the 2021 audited consolidated financial statements).
+
+consolidated net income attributable to equity holders of the parent company grew significantly to p=10,119 million from p=4,748 million mainly driven by the gain on sale of investments in dmt and gbpc during the first quarter of 2021 and outstanding operational results of key segments for the year.
+
+the turnaround from a loss of p=4,414 million to other comprehensive income of p=4,839 million is mainly due to mpic’s share in remeasurement adjustments on retirement and other post-employment liabilities of meralco and cumulative translation adjustments related to the company’s foreign investments.
+
+isolating the non-recurring items, mpic’s consolidated core income of p=12,325 million for the year 2021 increased by 20% as compared with the prior year as a result of less restrictive quarantine protocols and continuous roll-out of covid-19 vaccination across the country, promoting increased economic activity. this has driven up electricity consumption and toll road traffic, resulting in 6% and 58% higher contribution from power and toll roads, respectively. water consumption, in contrast, remained low, with a 10% drop from the previous year. rail operation remained at reduced capacity following the sustained physical distancing protocol inside the trains.
+power accounted for p=11.2 billion or 65% of contribution from operations; toll roads contributed p=3.9 billion or 23%; water contributed p=2.8 billion or 16%; and, mpic’s other businesses, mainly hospitals, rail, and logistics, incurred an overall loss of p=734 million.
+the figures above represent mpic’s share in the stand-alone core income of the operating companies, net of consolidation adjustments. see the relevant segment information under section ii - operating segments of the group.
+
+non-recurring expense amounting to p=2,206 million for the year ended december 31, 2021 is mainly composed of various provisions for decline in value of assets and project costs offset by the gain on sale of investments in gbpc and dmt. non-recurring expense for the year ended december 31, 2020 was primarily driven by the full provisioning for the carrying value of meralco’s investment in plp.
+
+
+mpic’s power business contributed p=11.2 billion to core net income for 2021 which is 6% higher than last year, driven by higher volume sold and increased contribution from its different business units and subsidiaries.
+
+meralco’s core net income for 2021 increased by 13% to p=24.6 billion, driven mainly by a 6% increase in volume sold.
+residential volumes grew 3% despite cooler temperatures with continued work-from-home and remote learning arrangements amid lockdowns. this accounted for 37% of total energy sales.
+commercial energy sales volume showed 3% growth resulting from the ramp-up of vaccination activities and ease in restrictions, as well as higher foot traffic and relaxed rules for minors that drove demand in the retail, restaurants, public transport, and hospitality sectors.
+industrial sales volumes returned to near pre-pandemic level with its 13% growth owing to the strong performance of the semiconductor industry with high demand for microchips, electronic parts, and devices, as well as higher operational output in the construction-related (cement and steel), food and beverage, and plastics industries.
+total revenues increased 16% to ₱318.5 billion, ₱63.4 billion of which pertains to consolidated distribution revenues which grew 5%.
+reported net income grew 44% in comparison with 2020 when earnings were affected by the ₱2.7 billion reduction in the carrying value of meralco’s investment in plp.
+capital expenditure amounted to ₱27.5 billion, 32% higher than in 2020. networks capex consisted of new connections, asset renewals, load growth projects, support for the government’s build, build, build program, and the meralco electrification program.
+meralco fully supports the doe’s renewable portfolio standards and has committed to securing 1,500 mw of its power requirements from renewable energy sources in the next five years. more importantly, meralco is also accelerating its renewable energy plan of up to 1,500 mw of clean energy capacity in the next five to seven years.
+meralco’s maiden solar project, bulacansol (50 mwac) – the country’s largest single operating solar plant, began operations in may 2021 and delivered 67 gwh of solar energy during the year
+
+another solar power plant with 78 mwac capacity is under construction in rizal and will go online in the third quarter of 2022
+other pipeline projects under development:
+45 mwac solar plant in cordon, isabel
+68 mwac solar plant in ilocos norte
+in 2022 and beyond, meralco is looking at exploring solar/storage opportunities that can
+compete in the mid-merit space
+in march 2022, mpic completed the transfer of its 56% ownership stake in gbp to meralco powergen corp. and recognized a net gain of ₱4.6 billion from this transaction while still retaining an indirect economic interest in gbp through its investment in meralco.
+
+mptc recorded core income of p=3,903 million for the year ended 2021, up by 45% from p=2,697 million a year earlier driven by higher average daily vehicle entries with the relaxation of quarantine restrictions and roll-out of covid-19 vaccination program. furthermore, mptc benefited from lower tax rates with the signing of “create” law in 2021.
+overall, mptc’s system-wide vehicle entries, including both domestic and regional road networks, averaged 747,580 a day for the period compared with 631,147 in 2020.
+
+average daily vehicle entries grew 24% to 483,167 from 388,820 a year earlier signifying continued improvement in economic activities despite recurring lockdowns.
+
+mptc launched mpt mobility to provide cutting-edge mobility solutions tethered to digital technology. it is poised to be among the pacesetters of digital adoption with a conglomeration of seven new business units offering digitally driven solutions.
+set to go online soon are the following subsidiaries of mpt mobility: dibztech, easytrip services corporation, and southbend express services inc. and three (3) other business segments: drive and dine, spot on, and one hub. all of these are geared towards addressing a variety of customer needs and providing operation and life conveniences via a digital interface.
+
+start of commercial operations of the 8.2 km subic freeport expressway expansion – this
+₱2.2 billion project connects bataan, zambales, pampanga and the rest of central luzon through the subic-clark-tarlac expressway and will serve approximately 10,000 motorists daily
+blessing and ceremonial lighting of crosses on the cclex main bridge pylons to commemorate the 500th anniversary of christianity in the philippines – the central span of the cclex was joined on october 5, 2021, finally linking cebu city and the municipality of cordova. spanning 8.9 kilometers, this ₱30.5-billion project will be the longest and tallest bridge in the philippines. it is expected to be completed in 2022.
+aside from blazing the trail in modernizing cebu’s infrastructure and transportation, mptc, through its rfid system, is keeping road user safety and convenience at the forefront as it adopts an all- electronic toll collection system for the cclex.
+the cavite-laguna expressway subsection 5, which connects silang east to sta. rosa-tagaytay road interchange, was inaugurated on august 24, 2021. this extends the expressway’s operating sections from 7.4 to 14.6 kilometers.
+construction activities continue on major toll projects. refer to item 1, description of business, section b.2 for the status of these roads.
+mptc expects to spend an additional p=25 billion if it secures the cavite-tagaytay-batangas expressway (“ctbex”) project following a swiss challenge expected in 2022.
+
+average daily vehicle entries for mpic’s toll investments outside the philippines increased 9% to 264,410 in 2021 compared with 242,327 a year earlier with new road openings during the period.
+new road openings follow:
+indonesia. inauguration of the a.p. pettarani elevated road –this 4.3 km fly-over toll road, located in makassar city, is the first elevated toll road in eastern indonesia and on sulawesi island
+vietnam. start of toll operations of 11 km hanoi highway (phase 1)
+in february 2021, mptc sold its entire 29.45% indirect stake in don muang tollway public company ltd. in thailand for p=7.2 billion. proceeds from this sale was used to fund mptc’s expansion projects.
+
+mpic’s water business comprises investments in maynilad, the biggest water utility in the
+mpw, which is focused on building new water businesses outside metro manila. the water segment’s contribution to core net income amounted to p=2,760 million for the year, 10% lower than last year, with reduced contribution from both maynilad and mpw.
+
+revenues declined by 4% mainly driven by 3% drop in volume sold as volume consumption throughout the year remained low except for the industrial sector which showed slight growth as more businesses reopened.
+maynilad’s core net income for the period is at par with last year’s despite lower revenues due to the favourable impact of the create law on income tax.
+as discussed in note 29, significant contracts, agreements and contingencies attached to the 2021 audited consolidated financial statements, on may 18, 2021, maynilad and mwss signed the rca that will govern the provision by maynilad of water and wastewater services in the west zone of the mwss service area upon its effectivity. in 2021, the presentation of the consolidated financial statements, including the amortization of maynilad’s service concession asset, is still based on the existing concession agreement.
+capital expenditures amounting to ₱8.6 billion and was largely used to fund new water treatment plants.
+
+in january 2021, maynilad’s putatan water treatment plant 2 (“pwtp 2”) was conferred an award of distinction under the “water project of the year” category of the global water awards 2020. the global water awards recognize the most important achievements in the international water industry. pwtp 2, maynilad’s second facility to tap laguna lake as raw water source, gained recognition for its crucial role in addressing water security in metro manila. the facility was built to help moderate over-dependence on angat dam and expand water service to maynilad customers in the southern part of its west concession area. this recognition is a testament to maynilad’s projects stand side-by-side with the best water initiatives in the world.
+maynilad also received “utility of the future” citation from the world bank in recognition of its commitment to become “a future-focused utility which provides reliable, safe, inclusive, transparent, and responsive water supply and sanitation services through best-fit practices that allow it to operate in an efficient, resilient, and sustainable manner”.
+maynilad completed the installation of its ₱78 million julian modular treatment plant (“mtp”) and will produce 4 million liters of water per day once it becomes operational by the second quarter of 2022, improving water availability and pressure for about 19,000 customers.
+further investments on an additional 125 mld of supply augmentation projects are underway, of which 43 mld will also be available by mid-2022 in anticipation of further water supply constraints.
+on january 7, 2022, maynilad was granted a 25-year franchise affirming its authority to establish, operate and maintain a waterworks system and sewerage and sanitation services in the west zone service area of metro manila and province of cavite. the franchise became effective on january 22, 2022 (15 days after its publication in the official gazette on january 7, 2022).
+
+lrmc currently operates lrt-1, a 20-station light rail line traversing from pasay city to quezon city in metro manila.
+lrmc reported a core loss of p=571 million in 2021 as operating capacity remained restricted due to the implementation of physical distancing protocols and lower overall demand.
+average daily ridership decreased 33% to 124,329 compared with 186,021 a year earlier owing to the 30% cap on overall ridership capacity versus pre-pandemic volumes. with the shift to covid-19 alert level 1 in metro manila starting march 1, 2022, lrt-1 capacity has been increased to 100%.
+
+lrmc has received a total of twelve (12) gen-4 train sets to date, each with a total capacity of around 1,400 passengers. the new trains will need to undergo complete safety checks, inspections, and required test runs with minimum kilometers and acceptance tests before deployment for use in mid-2022.
+construction activities for the lrt-1 cavite extension project are currently in various stages of development and continue to progress even amidst quarantine measures. since the start of civil works in september 2019, the project completion rate has now reached 69.1% for phase 1 of the extension.
+
+on december 23, 2020, bphi entered into a share purchase agreement with mgen for the sale by bphi of 56% of the issued and outstanding shares of gbpc. accordingly, gbpc qualified as a group held for deemed disposal as of december 31, 2020 with gbpc’s assets and liabilities previously consolidated in the company’s statement of financial position reclassified to “assets under pfrs 5” and “liabilities under pfrs 5”, respectively, as at december 31, 2020. upon completion of the transaction on march 31, 2022, mpic deconsolidated gbpc. hence, significant decreases in the total asset and total liabilities are mainly attributable to the deconsolidation of gbpc’s assets and liabilities.
+
+cash and cash equivalents and short-term deposits – (increase) sale of dmt and gbpc in the first quarter of 2021, better operating results and lower income taxes paid in light of create increased the group’s cash position (see section liquidity and capital resources for the summary of the group’s statement of cash flows for 2021).
+receivables – current and noncurrent portions – (increase) advances to dpwh increased as the company continues to advance settlement of row to complete the remaining calax segments (see note 8 attached to the 2021 audited consolidated financial statements).
+other current assets – (increase) the increase is mainly attributable to the receivable from mgen for the sale of gbpc (see notes 9 and 33 attached to the 2021 audited consolidated financial statements).
+assets under pfrs 5 – (decrease) the reduction to nil is attributable to the closing of the sale of gbpc to mgen in 2021.
+investments and advances – (increase) the movement in this account is attributable to the following: (i) acquisition of pcspc; and, (ii) recognition of the share in the investees’ total comprehensive income (see note 10 attached to the 2021 audited consolidated financial statements).
+service concession assets – (increase) mainly due to the additional capital expenditures (see note 12 attached to the 2021 audited consolidated financial statements for the nature of the additions to the service concession assets).
+aside from the capitalized borrowing costs, significant additions to the service concession asset account include the following:
+toll operations. (i) ongoing construction: calax, nlex connector road project, c5 south link
+and segment 4 extension & segment 5 and cclec’s cebu cordova link expressway (ii) completed construction during 2021: subic freeport expressway expansion, cic’s cavitex r1 and r1 enhancement and pt nusantara’s pettarani, makassar.
+water. for maynilad: (i) the cost of rehabilitation works and additional construction; (ii) concession fee drawdown for angat water transmission improvement project and various local component costs. for mpw: (i) additions from the implementation of the water concession project of mpiwi with miwd and (ii) various development cost for mpdw.
+rail. additions substantially pertain to the on-going rehabilitation of the lrt-1 existing line and the construction of the cavite extension.
+property, plant and equipment – (decrease) in light of the discontinuation of the warehousing business, various right-of-use assets were written of in 2021 (see note 13 attached to the 2021 audited consolidated financial statements).
+intangible assets – (decrease) intangible assets decreased due to impairment provision made against estii’s customer contracts (see note 11 attached to the 2021 audited consolidated financial statements).
+deferred tax assets – (increase) deferred tax asset was recognized for net operating losses carry-over which lrmc expects to utilize against its future taxable income.
+other noncurrent assets – (increase) this is mainly attributable to the increase in the advances to contractors and consultants account (see note 9 attached to the 2021 audited consolidated financial statements).
+
+due to related parties – (decrease) the decrease is mainly driven by the final payment to pcev in relation to the acquisition of shares in beacon (see notes 19 and 37 attached to the 2021 audited consolidated financial statements).
+provisions – current and noncurrent portions – (increase) the movement pertains to estimated tax warranties and indemnities in relation to the deconsolidation of gbpc and mphhi, and other claims from third parties (see notes 16 and 33 attached to the 2021 audited consolidated financial statements).
+short-term and long-term debt – current and noncurrent portions – (increase) additional loans were obtained by mpic, mptc and lrmc to finance new projects (see note 18 attached to the 2021 audited consolidated financial statements).
+liabilities under pfrs 5 – (decrease) the reduction to nil is attributable to the closing of the sale of gbpc to mgen in march 2021.
+service concession fees payable – current and noncurrent portions – (increase) increase pertains to maynilad’s additional concession fees drawdown for angat water transmission improvement project and applicable interest accretion for the period. for the movement in the service concession fees payable, see note 17 attached to the 2021 audited consolidated financial statements.
+deferred tax liabilities – (decrease) the decline from 2020 represents the remeasurement from 30% to 25% in light of create and the change in the manner of expense deduction for calculating future taxes.
+other long-term liabilities – (decrease) the decrease pertains mainly to the termination of leases in mmi consistent with the winding down of its warehousing business (see note 13 of the attached 2021 audited consolidated financial statements) and the reclass of mptc’s ltip payable to current liabilities as it falls due in 2022.
+treasury shares – (increase) implementation of the share buyback program in 2021 (see note 20 attached to the 2021 audited consolidated financial statements).
+other comprehensive income (loss) reserve – (turnaround) see discussion in mpic consolidated statements of income, other comprehensive income (loss).
+non-controlling interest – (decrease) decrease is mainly due to the deconsolidation of gbpc (see note 33 attached to the 2021 audited consolidated financial statements and the consolidated statements of changes in equity for the other movements in the non-controlling interest account).
+
+as at december 31, 2021, mpic’s consolidated cash and cash equivalents and short-term deposits totaled p=49,570 million, an increase of p=748 million from p=48,822 million as at december 31, 2020. higher cash level is due to the sale of gbpc and dmt, coupled by better operating results and savings in taxes in light of create. refer to the company’s consolidated statements of cash flows in the 2021 audited consolidated financial statements.
+
+mpic’s consolidated net operating cash flow in 2021 posted a 10% decline from p=21,727 million largely attributable to the deconsolidation of gbpc and lower interest income received in light of lower placement rates.
+
+net cash used in investing activities amounted to p=18,246 million in 2021, lower by 43% as compared with last year. during the period, the company sold dmt and gbpc and acquired philippine coastal storage and pipeline corporation.
+
+the company’s consolidated net cash used in financing activities during the period was significantly lower at p=4,623 million mainly driven by the higher loan repayments and concession fees paid in the previous year and lower interest payments as a result of various rate reduction initiatives across the group.
+
+events that will trigger direct or contingent financial obligation that is material to the company, including any default or acceleration of an obligation.
+there are various outstanding contingent liabilities which are not reflected in the accompanying consolidated financial statements. refer to note 30, contingencies and note 29, significant contracts, agreements and commitments to the 2021 audited consolidated financial statements for the updates on the company’s financial obligations.
+
+all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the company with unconsolidated entities or other persons created during the reporting periods.
+there are various outstanding contingent assets and liabilities which are not reflected in the accompanying consolidated financial statements. refer to note 30, contingencies and note 29, significant contracts, agreements and commitments to the 2021 audited consolidated financial statements for the updates on the company’s financial obligations.
+
+description of any material commitments for capital expenditures, general purpose of such commitments, expected sources of funds for such expenditures.
+refer to note 29, significant contracts, agreements and commitments and note 34, financial risk management objectives and policies to the 2021 audited consolidated financial statements.
+
+any known trends, events or uncertainties that have had or that are reasonably expected to have a material favorable or unfavorable impact on net sales or revenues or income from continuing operations 96.
+refer to note 30, contingencies to the 2021 audited consolidated financial statements. see also item 1. description of business for the relevant discussions on dependence on licenses and government approval and effect of existing or probable government regulations on the business.
+
+any seasonal aspects that had a material effect on the financial condition or results of operations
+
+for meralco, electricity sales exhibit a degree of quarterly seasonality with the first quarter having lower than the average electricity sales as this period is characterized by cooler temperature and softer consumer demand following heightened consumer spending in the last quarter of the year. the second quarter is marked by higher-than-average electricity sales. the fourth quarter performance is about the average of the year.
+
+based on historical traffic on the nlex, sctex and cavitex, the month of january is slightly below the normal average due to the end of the christmas holidays. from february to may, traffic is above the normal average due to the summer holiday, which is traditionally a peak season for travel. the months of june to august remain to have the lowest seasonal factors due to the rainy season. traffic is expected to improve from september until november, while the month of december has the highest seasonal factor due to the christmas holidays.
+
+the company’s water utilities business is also seasonal, with comparatively lower revenues during the rainy season in the philippines.
+
+the company’s rail business is seasonal, with lower ridership during the second quarter of the year due to summer holiday in schools. in addition to this, lrt-1 is also closed from holy thursday to easter sunday, and this typically occurs in april or march.

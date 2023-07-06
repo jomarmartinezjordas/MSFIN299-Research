@@ -1,0 +1,145 @@
+In 2017, MPTC, through its Indonesian subsidiary, PT Metro Pacific Tollways Indonesia
+(PT MPTI), acquired a total of 48.3% of the issued capital stock of PT Nusantara Infrastructure Tbk (PT Nusantara). In July 2, 2018, after acquiring an additional 5.0% of PT Nusantara, PT MPTI was required to make a mandatory tender offer (MTO) for the remaining shares it did not own. PT MPTI after the MTO owns a total of 77.9%, issued capital stock of PT Nusantara (see Note 4, Business Combinations and Acquisition of Non- controlling Interests to the 2018 Audited Consolidated Financial Statements). The Group started consolidating PT Nusantara in July 2018.
+
+Acquisition of PT Rezeki Perkasa Sejahtera Lestari (RPSL). On August 16, 2018, PT Energi
+Infranusantara, a wholly-owned subsidiary of PT Nusantara, acquired a total of 84,000,000 shares of RPSL, a biomass power plant company, representing 80% of RPSL’s capital stock for a total consideration of IDR 115.0 billion (equivalent to P=420 million)
+
+Expanding the Hospital Business through step acquisition of Davao Doctors Hospital (DDH). In
+2018, MPHHI increased its ownership in DDH from 35.16% to 49.91% (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements).
+
+In November 2018, MPIC through its wholly owned subsidiary Metpower Venture Partners Holdings, Inc. signed agreements with Dole Philippines Inc. (“Dole”) to design, construct and operate integrated waste-to-energy (WTE) facilities specifically for Dole. This project uses the derived biogas from the anaerobic digestion of fruit waste to supply a portion of the diesel and power requirements of Dole’s canneries located in South Cotabato. The biogas facilities, with construction completion expected by first quarter of 2020, will have a capacity of 5.7 MW of clean energy for Dole and reduce its CO2 emission by 100,000 tons per year.
+
+With no comparable proposals to challenge the Quezon City Solid Waste Management Facility Project, the MPIC-led consortium with Covanta Energy, LLC and Macquarie Group, Ltd. expects to receive the Notice of Award by 1st half of 2019. The waste treatment facility will convert up to 3,000 metric tons a day of municipal waste into 36 MW (net) of electricity.
+
+Building to be the leading logistics firm in the Philippines. In 2018, MMI acquired land with an
+aggregate size of 202,000 square meters in General Trias, Cavite and 219,000 square meters in San Rafael, Bulacan. This will be developed into covered warehouses for MMI’s existing and potential clients in the fast moving consumer goods, consumer durables, automotive and e-commerce spaces.
+
+The Company’s accounting policies are consistent with those followed in the preparation of the Company’s most recent annual consolidated financial statements, taking into account the changes in accounting policies and the adoption of the new and amended Philippine Financial Reporting Standards (PFRS), which became effective on January 1, 2018. Adoption of new standards did not have a material impact on the Company’s financial results. Refer to Note 37, Significant Accounting Policies to the 2018 Audited Consolidated Financial Statements.
+
+As discussed under Item 1 – B. Business of Issuer, the Group is organized into the following segments based on services and products: power, toll operations, water, healthcare, rail, logistics and others.
+
+The Company’s chief operating decision maker is the BOD. The BOD monitors the operating results of each business unit separately for the purpose of making decisions about resource allocation and performance assessment. Segment performance is evaluated based on: consolidated net income for the year; earnings before interest, taxes and depreciation and amortization, or Core EBITDA; Core EBITDA margin; and Core Income. Net income for the year is measured consistent with consolidated net income in the consolidated financial statements.
+Core EBITDA is measured as net income excluding depreciation and amortization of property and equipment and intangible assets, asset impairment on noncurrent assets, financing costs, interest income, equity in net earnings (losses) of associates and joint ventures, net foreign exchange gains (losses), net gains (losses) on derivative financial instruments, provision for (benefit from) income tax and other non-recurring gains (losses). Core EBITDA margin pertains to Core EBITDA divided by service revenues.
+Performance of the operating segments is also assessed based on a measure of recurring profit or core income. Core income is measured as net income attributable to owners of the Company excluding the effects of foreign exchange and derivative gains or losses and non-recurring items (NRI), net of tax effect of aforementioned. NRI represent gains or losses that, through occurrence or size, are not considered usual operating items.
+The following section includes discussion of the Company’s results of its operations as presented in its consolidated financial statements as well as management’s assessments of the performance of the Group which is translated to core (or recurring) profit and non-core (or non-recurring) profit.
+
+The significant increases in the accounts enumerated in the above table are primarily attributable to the step-acquisitions of Beacon Electric, BPHI and GBPC on June 27, 2017 and PT Nusantara on July 2, 2018 (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements). Other factors contributing to the increases (or decreases, as applicable) are discussed below.
+
+The Company’s revenues increased by 33% to P=83,029 million in 2018, reflecting consolidation of GBPC in June 2017 which contributed 22% or P=21,026 million to the group’s revenues together with improved performances from the following operating segments.
+Water utilities posted an 8% increase in revenues on the strength of Maynilad’s 3% billed volume growth together with basic and inflation-linked tariff increases; and (ii) MPW’s Bulk water and Sewage Treatment Plant services contribution.
+Toll revenues are higher by 18% with average daily entries for 2018 up by 7% on the NLEX, 15% on the SCTEX and 5% on the CAVITEX compared with 2017 and a P=0.25/km add-on toll rate on NLEX Closed system beginning November 6, 2017.
+Hospital revenues increased by 21% to P=12,950 million driven by (i) contributions from St. Elizabeth Hospital (acquired in October 2017) and DDH (step-acquisition in August 2018); and (ii) increased number of patients served across all hospitals.
+Rail revenues growth at 5% at par with the average daily ridership growth.
+Logistics revenues during 2018 increased by 9% to P=1,242.
+
+Cost of sales and services increased by 45% to P=42,714 million. Out of the total increase in expenses, 51% or P=9,760 million is attributable to GBPC. 2018 reflected full consolidation of GBPC’s operations as compared to 2017 when GBPC was consolidated only beginning June 27, 2017. As a result of GBPC’s consolidation, there were significant increases in expenses such as depreciation expense and purchased power and transmission charges (see Note 21, Cost of Sales and Services to the 2018 Audited Consolidated Financial Statements). Other factors contributing to the increase in cost of services included: (i) consolidation of PT Nusantara and DDH (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements) and trucking and warehousing with the expansion of logistics segment.
+
+General and administrative expenses increased by 23% to P=14,972 million in 2018 mainly due to consolidation of GBPC and PT Nusantara.
+
+The Company’s consolidated interest expense increased by 30% to P=10,388 million with the additions of debt from the consolidation of Beacon Electric, BPHI and GBPC (starting June 2017), new bank loans drawn for capital expenditure (net of the capitalized interest) and interest charge accreting from MPIC’s payable to PCEV (see Note 18, Long-term Debt and Note 19, Related Party Transactions to the 2018 Audited Consolidated Financial Statements).
+
+Share in net earnings of equity method investees increased by 38% to P=11,073 million mainly due to the combined impact of the increase in effective ownership in MERALCO beginning June 27, 2017 (see Note 10, Investments and Advances to the 2018 Audited Consolidated Financial Statements) and improvement in MERALCO’s operating results (see discussion under section II - OPERATING SEGMENTS OF THE GROUP). Share in the net earnings of MERALCO amounted to P=10,412 million for 2018 while the combined share in the net earnings of MERALCO and Beacon Electric amounted to P=7,236 million during the same period last year.
+
+Dividend income during the current period was mainly from the Company’s investment in Citra Metro Manila Tollways Corporation (2% equity interest). Last year’s dividend income was significantly higher as this included dividend income from the Company’s investment in Beacon Electric preferred shares amounting to P=2,541 million (see (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements).
+
+Other income (net) for 2018 includes forex gain, net gain on prepayment of loan, gain on remeasurement of previously held interest in PT Nusantara and DDH and proceeds from indemnity claim (see Note 24, Interest Income, Interest Expense and Others to the 2018 Audited Consolidated Financial Statements).
+
+The increase in this account is mainly attributable to (i) an expanded power portfolio through increased investment in Beacon Electric; (ii) continuing traffic growth on all domestic roads; and (iii) steady volume growth coupled with inflation-linked tariff increases at Maynilad.
+
+The Company recognized a net other comprehensive income of P=321 million in 2018 as compared with the net comprehensive loss of P=466 million in 2017. Year 2018 includes higher share in actuarial valuation adjustment from MERALCO and cumulative translation adjustments from DMT, CII B&R, PT Nusantara and MERALCO.
+
+MPIC’s share in the consolidated core income increased by 7% from P=14,104 million in 2017 to P=15,060 million in 2018 primarily reflecting the following:
+Power (distribution and generation) accounted for P=10.8 billion or 55% of the aggregate contribution;
+Toll operations contributed P=4.4 billion or 23% of the total;
+Water (distribution, production and sewerage treatment) contributed P=3.8 billion or 19% of
+the total;
+Hospital group contributed P=771 million or 4% of the total; and,
+the Rail, Logistics and others contributed combined net loss of P=248 million.
+
+The figures referred to above represent MPIC’s share in the stand-alone core income of the operating companies, net of consolidation adjustments. See the relevant segment information under section II - OPERATING SEGMENTS OF THE GROUP.
+
+Non-recurring expense amounting to P=930 million in 2018 primarily due to the net effect of a weaker peso, project write-downs, loan refinancing and provisions for asset impairment.
+
+MPIC’s power business contributed P=10.8 billion to Core Net Income in 2018, an increase of 15% driven by the June 2017 purchase of the last 25% in Beacon Electric not already owned by MPIC and good results at MERALCO which more than offset a decline at GBPC.
+
+MERALCO’s Core Net Income for 2018 rose 6% to P=22.4 billion. Core Net Income growth was driven by a 5% increase in energy sales, slightly lower tariffs, and a reversal of provisions following the adoption of a new accounting standard.
+Energy sales rose across all customer classes. Residential growth was driven by expansion in the south section of MERALCO’s franchise while the commercial sector grew on continued expansion of the real estate, retail trade, and hotel sectors, with Industrial sector growth rooted in the healthy performance of the semiconductor, food & beverage, and rubber and plastics industries.
+Total revenues rose 8% to P=304.5 billion on higher energy sales together with increased pass- through generation charges partly offset by customers transitioning to other retail electricity sellers.
+MERALCO spent P=13.7 billion on capital expenditures in 2018 to address critical loading of existing facilities and to support growth in demand and customer connections.
+
+GBPC sold 4,822 GWH in 2018, an increase of 8% from a year earlier. However, Core Net Income for 2018 declined 15% to P=2.5 billion due to depreciation and interest costs for Panay Energy Development Corporation’s 150 MW plant from June 1, 2018 onwards and lower margins from WESM sales due to higher coal and fuel costs.
+Alsons Thermal Energy Corporation, in which GBPC has a 50% interest, is on track to commence operation of its second 105 MW (80 MW contracted) expansion plant in Maasim, Saranggani by the second half of this year.
+GBPC plans to invest in renewable energy projects to complement its current fossil fuel capacity.
+
+Metro Pacific Tollways Corporation (“MPTC”) recorded Core Net Income of P=4.5 billion in 2018, a 13% increase from P=3.9 billion a year earlier. MPTC’s system-wide vehicle entries averaged 916,886 a day, including road networks in the Philippines, Indonesia, Thailand and Vietnam.
+
+Average daily vehicle entries for all three of our domestic tollways system (NLEX, CAVITEX and SCTEX) rose 7% to 478,315 compared with 445,350 in 2017.
+Traffic rose 7% on the NLEX and surged by 15% on the SCTEX following integration of these two roads and the opening of additional lanes in 2017. Traffic on the CAVITEX rose 5% driven by growth in residential communities in Cavite and tourism in Batangas.
+MPTC expects to spend approximately P=104.3 billion on road projects over the next five years, although this figure could rise by a further P=25 billion if MPTC were to secure the Cavite-Tagaytay- Batangas Expressway for which it was recently awarded Original Proponent status.
+The estimates for planned road investments assume satisfactory resolution of various overdue tariff adjustments, now ranging between 20% and 48% on different parts of the network, without which further investment will be delayed. MPTC is waiting for notice to publish increased toll rates for NLEX coinciding with the opening of the NLEX Harbour Link and implemented on a staggered basis. Full implementation of overdue tariff adjustments on all roads has yet to be agreed.
+
+DMT in Bangkok reported a 2% increase in daily traffic to 99,479 in 2018.
+In Vietnam, CII B&R saw a decline in vehicle entries to 33,007 due to the end of the concession for the Rach Chiec Bridge. Traffic is expected to improve again by approximately 32,000 with the opening of part of the Hanoi Highway Expansion later in 2019.
+Nusantara’s traffic in Indonesia averaged at 306,085 vehicle entries per day in 2018. In July of 2018, MPTC increased its interest in Nusantara from 48.3% to 53.3% on a fully-diluted basis. This step-up acquisition triggered the need for a General Offer which further increased MPTC’s ownership of Nusantara to 77.9%.
+
+MPIC’s water business comprises investments in Maynilad, the biggest water utility in the Philippines, and MetroPac Water Investments Corporation, focused on building new water businesses outside Metro Manila. The water segment’s contribution to Core Net Income amounted ₱3.8 billion in 2018, most of it from Maynilad.
+
+In September 2018, MWSS approved Maynilad’s Rebasing adjustment for the Fifth Rate Rebasing Period (2018 to 2022) of P=5.73 per cubic meter which will be implemented on a staggered basis over four years.
+
+However, the matter of Maynilad’s tariffs for the entire 2013-2017 five-year Business Plan period and two related arbitration awards in its favor, remain unresolved. In summary:
+In 2015, Maynilad received an arbitration award in its favor against the Metropolitan Waterworks and Sewerage System (“MWSS”), which centered on treatment of Corporate Income Tax as an expense to be recovered through the tariff. The dispute on implementing this tariff is working its way through the Philippine Court System with MWSS now seeking recourse to the Supreme Court following awards in Maynilad’s favor by lower courts.
+On July 24, 2017, Maynilad was notified by an arbitration panel in Singapore that it had ruled in Maynilad’s favor on its claim to recover from the Republic of the Philippines (“RoP”) revenues forgone because of the failure to increase tariff (P=6.7 billion as of 31st December 2017). On 4th October 2018, the Singapore High Court upheld the award in favor of Maynilad and dismissed RoP’s Setting Aside Application in February 2018.
+Maynilad is striving to meet its service obligations but financing these requires resolution of the remaining claim and tax recovery matters.
+Maynilad’s revenues in 2018 rose 6% to P=22.0 billion from P=20.8 billion in 2017, lifted by a 3% increase in volume sold and a combination of basic and inflation-linked tariff increases of 1.9% in April 2017, 2.8% in January 2018 and 2.7% in October 2018. The number of water connections (or billed customers) rose 4% to 1,407,503 at the end of 2018.
+Core Net Income for 2018 rose 5% to P=7.7 billion, driven by revenue growth, lower provisions and lower interest expense.
+Non-Revenue Water (“NRW”) measured at the District Metered Area level fell to 27.1% as at the end of 2018 from 31.7% at the end of 2017 while total NRW is now down to 38.5%.
+Capital expenditure stood at P=11.9 billion in 2018, much of it directed to upgrading and building reservoirs and pumping stations, laying primary pipelines, and constructing wastewater facilities to improve public health.
+For the Fifth Rate Rebasing Period, Maynilad is set to build three new sewage treatment plants and upgrade one sewage treatment plant. Once completed, these new wastewater facilities will be able to serve approximately 2 million customers.
+
+MPWIC currently bills 253 MLD. MPW is expanding MPIC’s water investment portfolio with up to 393 MLD of installed capacity in the Philippines and 660 MLD in Vietnam, when these projects are completed. A further 430 MLD of projects around the Philippines are under negotiation and awaiting final award.
+MPW’s contribution to MPIC is currently immaterial but as these new projects are completed, it is expected to become a major profit contributor.
+
+MPHHI reported a 14% rise in aggregate revenues in 2018 on the strength of an 8% increase in out- patient visits to 3,323,104 and 11% growth in in-patient admissions to 193,824. Investments made in Jesus Delgado Memorial Hospital in Quezon City and St. Elizabeth Hospital in General Santos City in 2017 contributed significantly to this improvement.
+In 2018, MPHHI increased its ownership in DDH from 35.16% to 49.91%.
+MPHHI is rolling out improved patient care across its network of hospitals and establishing new service centers in the communities it serves. This is bringing new patients to our network, but startup costs for some of these new programs restrained growth in Core Income to 15%.
+
+As at December 31, 2018, LRMC had successfully restored 35 Light Rail Vehicles (LRVs), bringing the total available LRVs to 112 from the 77 it inherited in 2015. The resulting surge in available capacity has reduced passenger waiting time to 3.45 minutes during peak hours from more than five minutes when LRMC took over.
+The majority of the P=750 million Station Improvement Project has been substantially completed with remaining work expected to be finished by mid-2019. LRMC is currently undertaking pre- construction preparations for the LRT-1 Cavite Extension. On-site construction works will begin this year but long-overdue tariff increases must be resolved to make this financeable.
+LRMC served an average daily ridership of 458,021 in 2018, an improvement of 5% from a year earlier while the highest daily ridership was 613,000, up from 578,000 a year earlier.
+LRMC contributed P=394 million to MPIC’s Core Income for 2018.
+
+MMI is now an established force in the Philippine logistics sector. Average warehouse dispatch for 2018 rose 3% to over 60.2 million cases from 58.7 million cases last year. The focus of this business is to provide our clients with first-class transportation, warehousing and order fulfillment as we broaden our service offering to include cross docking and freight forwarding.
+MMI has acquired over 400,000 square meters of land in Cavite and Bulacan for developing into covered warehouse space to be utilized by MMI to build the leading logistics firm in the Philippines.
+MMI is not yet contributing to MPIC’s Core Net Income as our focus has been on getting established and building a best-in-class customer service platform and culture.
+
+The significant increases in the accounts enumerated in the above table are primarily
+the step-acquisitions of PT Nusantara and DDH (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements). Other factors contributing to the increases (or decreases, as applicable) are discussed below.
+Cash and cash equivalents and short-term deposits – (Decrease) Mainly due to Beacon Electric’s loan prepayment, MPIC’s scheduled settlement of the amount owed to PCEV and acquisitions of TLW, PNW and JLB (see Note 10, Investments and Advances to the 2018 Audited Consolidated Financial Statements, and the section Liquidity and Capital Resources for the summary of the Group’s statement of cash flows for period ended December 31, 2018).
+Restricted Cash – (Increase) Restricted cash pertains to sinking fund or debt service account (DSA) representing amounts set aside for principal and interest payments of certain long-term debt. This DSA is maintained and replenished in accordance with the provision of the loan agreements. (see Note 7, Cash and Cash Equivalents, Short-term Deposits and Restricted Cash to the 2018 Audited Consolidated Financial Statements).
+
+Receivables – (Increase) Mainly driven by the increase in trade receivables in relation to the improvement in revenues particularly on the power generation business (see Note 8, Receivables to the 2018 Audited Consolidated Financial Statements).
+Asset held for sale – (Increase) Mainly driven by GBPC’s reclassification to Asset held for sale of transmission facilities to be transferred to NGCP (see Note 30, Contracts, Agreements and Commitments to the 2018 Audited Consolidated Financial Statements).
+Other current assets – (Increase) Mainly driven by the increase in advances to contractors and consultants of Maynilad and GBPC and reclassification of the deposits for various incentive plans from noncurrent to current assets as these plans were to be settled in March 2019 (see Note 9, Other Current Assets and Note 23, Personnel Costs and Employee Benefits to the 2018 Audited Consolidated Financial Statements).
+Investments and advances – (Increase) Mainly due to the combined effects of the acquisition of new associates (TLW and PNW) and associates acquired through the step acquisition of PT Nusantara and share in net earnings partially offset by the dividend income for the period step acquisitions of PT Nusantara and DDH (see Note 10, Investments and Advances to the 2018 Audited Consolidated Financial Statements).
+Property, plant and equipment – (Increase) Aside from the step acquisition of PT Nusantara and DDH (see Note 4, Business Combinations and Acquisition of Non-controlling Interests), contributing to the increase is MMI’s acquisition of land (see Note 13, Property, Plant and Equipment and Note 30, Significant Contracts, Agreements and Commitments to the 2018 Audited Consolidated Financial Statements).
+Service concession assets – (Increase) Aside from the step acquisition of PT Nusantara, increase is due to the on-going construction of toll, water and rail concession assets (see Note 12, Service Concession Assets to the 2018 Audited Consolidated Financial Statements for the nature of the additions to the service concession assets).
+Goodwill – (Increase) Step acquisitions of PT Nusantara and DDH and acquisition of PT Rezeki through PT Nusantara (see Note 4, Business Combinations and Acquisition of Non-controlling Interests).
+Other noncurrent assets – (Increase) Mainly driven by the increase in advances made to contractors for the ongoing construction of MPTC’s toll road and LRMC’s LRT-1 rehabilitation and extension projects (see Note 9, Other Current Assets to the 2018 Audited Consolidated Financial Statements for the nature of the additions to the service concession assets).
+
+The significant increases in the accounts enumerated in the above table are primarily attributable to the step-acquisitions of PT Nusantara and DDH (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements). Other factors contributing to the increases (or decreases, as applicable) are discussed below.
+Accounts payable and other current liabilities – (Increase) Mainly due to the increase in accrued construction costs attributable to Toll Roads, Maynilad and Rail (see Note 15, Accounts Payable and Other Current Liabilities to the 2018 Audited Consolidated Financial Statements).
+Service concession fees payable – current and noncurrent portions – (Increase) Represents movement in foreign exchange and interest accretion net of actual payment of concession fees (see Note 17, Service Concession Fees Payable and Note 35, Supplemental Cash Flow Information to the 2018 Audited Consolidated Financial Statements).
+Due to related parties – (Decrease) The decrease is mainly driven by the scheduled payment of payable to PCEV(see Note 19, Related Party Transactions and Note 35, Supplemental Cash Flow Information to the 2018 Audited Consolidated Financial Statements.
+Long-term debt – current and noncurrent portions – (Increase) Additions included MPIC’s P=21.4 billion loan drawdown, proceeds from NLEX Corp’s bond issuance and loans through step acquisition of PT Nusantara (see Note 18, Long-term Debt to the 2018 Audited Consolidated Financial Statements for details of the Company’s new loan facilities and borrowings).
+Equity reserves – (Increase) Change in ownership in subsidiaries charged to equity (Note 4, Business Combination and Acquisition of Non-controlling Interest to the 2018 Audited Consolidated Financial Statements).
+Non-controlling interest – (Increase) Aside from the NCI’s share in Net Income, additions to NCI included NCI in the step acquisitions of PT Nusantara and DDH (see Note 4, Business Combinations and Acquisition of Non-controlling Interests to the 2018 Audited Consolidated Financial Statements), and infusion of the other shareholders of LRMH and LRMC into the LRT- 1 project (see Note 6, Material Partly-owned Subsidiaries to the 2018 Audited Consolidated Financial Statements). Refer to the Statements of Changes in Equity for the other movements in the NCI account.
+
+As at December 31, 2018, MPIC’s consolidated cash and cash equivalents and short-term deposits totaled P=47,521 million, a decrease of P=1,796 million from P=49,317 million as at December 31, 2017. This decrease mainly resulted from increased CAPEX spending, acquisition of new investments (TLW, PNW and JLB), scheduled payment of amount owed to PCEV and the prepayment of certain borrowings. Refer to the Company’s Consolidated Statements of Cash Flows in the 2018 Audited Consolidated Financial Statements.
+
+MPIC’s consolidated net operating cash flow in 2018 posted a 20% increase from P=26,508 million to P=31,996 largely attributable to the improvement in the operating results. Total revenues for 2018 increased by P=20,517 million to P=83,029 million owing to the consolidation of GBPC beginning June 27, 2017 and improved operating performance.
+
+Net cash used in investing activities amounted to P=25,441 million during 2018. Cash outflows included CAPEX spending comprising of additions to service concession and hospital assets and acquisitions of TLW, PNW and JLB. See Note 10, Investments and Advances for details of the acquisition and Note 12, Service Concession Assets to the 2018 Audited Consolidated Financial Statements for the nature of the additions to the service concession assets.
+
+The Company’s consolidated net cash used in financing activities amounted to P=783 million in 2018. Significant outflows included: (i) scheduled payments of debt (including interest), portion of Maynilad’s service concession fees and payable to PCEV; (ii) Beacon Electric’s prepayment of loan; and (iii) dividends paid to both owners of the parent company and to non-controlling shareholders. See Note 35, Supplemental Cash Flow Information to the significant changes in liabilities arising from financing activities
+
+
